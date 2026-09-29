@@ -12042,24 +12042,28 @@
       "scenario_version": "0.2.0",
       "target_st_version": null,
       "advertised_version": "0.2.0",
-      "status": null
+      "status": null,
+      "package_version": "0.2.0"
     },
     "content": {
-      "tags": [],
+      "tags": [
+        "Body swapping",
+        "Male-to-female"
+      ],
       "nsfw": "unknown",
-      "word_count": null,
-      "reading_time_minutes": null,
-      "reading_time_display": null,
+      "word_count": 75474,
+      "reading_time_minutes": 302,
+      "reading_time_display": "5 hours and 2 minutes",
       "completed": false,
       "characters": []
     },
     "image": {
-      "kind": "forum_image",
+      "kind": "placeholder",
       "path": null,
-      "source_url": "https://tfgames.site/phpbb3/images/smilies/icon_e_confused.gif"
+      "source_url": null
     },
     "availability": {
-      "archive_available": false,
+      "archive_available": true,
       "link_status": "working"
     }
   },
