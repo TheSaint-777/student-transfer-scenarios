@@ -1,0 +1,8 @@
+.forum-content{color:#55505c;font-size:1.02rem;line-height:1.7;overflow-wrap:anywhere}
+.forum-content h1,.forum-content h2,.forum-content h3,.forum-content h4{margin:1.35em 0 .55em;color:var(--ink);font-family:Georgia,serif;line-height:1.15}
+.forum-content p{margin:.8em 0}.forum-content ul,.forum-content ol{padding-left:1.6em}
+.forum-content blockquote,.forum-content .quotecontent{margin:1em 0;padding:12px 16px;border-left:3px solid var(--gold);background:#f0e9df}
+.forum-content .quotetitle{margin-top:1em;font-weight:800}
+.forum-content img{display:block;max-width:100%;height:auto;margin:14px auto;border-radius:7px}
+.forum-content a{color:var(--wine);font-weight:700;text-decoration:underline}
+.forum-content hr{border:0;border-top:1px solid var(--line)}

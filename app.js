@@ -53,7 +53,9 @@ function openDetails(s) {
   art.querySelector('img')?.remove(); putImage(s, art);
   dialog.querySelector('.detail-author').textContent = `By ${(s.authors || ['Unknown author']).join(', ')}`;
   dialog.querySelector('.detail-title').textContent = s.title;
-  dialog.querySelector('.detail-description').textContent = s.description || 'A description is not yet available for this scenario.';
+  const description = dialog.querySelector('.detail-description');
+  if (s.description_html) description.innerHTML = s.description_html;
+  else description.textContent = s.description || 'A description is not yet available for this scenario.';
   dialog.querySelector('.detail-duration').textContent = s.content?.reading_time_display || 'Unknown';
   const advertised=s.release?.advertised_version, packaged=s.release?.package_version;
   dialog.querySelector('.detail-version').textContent = advertised && packaged && advertised!==packaged
