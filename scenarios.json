@@ -11230,22 +11230,32 @@
     "source": {
       "forum_url": "https://tfgames.site/phpbb3/viewtopic.php?t=17218",
       "forum_topic_id": "17218",
-      "download_url": "https://mega.nz/file/F5phUAhA#-tQv-6NE94UumXxKRH5SQIwi2BhKmNp_HAWOjwPYzqg",
+      "download_url": "https://mega.nz/file/w0xgEArI#l4rIKT1hgA8E-s6728nyQPBI3lIi7yvHab5Prx4mi4U",
       "link_status": "unknown",
       "forum_title": "[Scenario] Student Transfer/Soul Tether (v0.2b - Updated: 14 - October - 2022 / v7 Compatible)"
     },
     "release": {
       "scenario_version": "0.2b",
-      "target_st_version": null,
+      "target_st_version": "7",
       "advertised_version": "0.2b",
       "status": null
     },
     "content": {
-      "tags": [],
-      "nsfw": "unknown",
+      "tags": [
+        "Action",
+        "Fantasy crossover",
+        "Foxgirls",
+        "Ghosts",
+        "Male-to-female",
+        "Masturbation",
+        "Possession",
+        "Transformation",
+        "Violence"
+      ],
+      "nsfw": "yes",
       "word_count": null,
-      "reading_time_minutes": null,
-      "reading_time_display": null,
+      "reading_time_minutes": 180,
+      "reading_time_display": "About 3 hours",
       "completed": false,
       "characters": []
     },
