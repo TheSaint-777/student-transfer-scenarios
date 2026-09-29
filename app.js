@@ -46,7 +46,7 @@ function labelsInto(s, container, limit = 6) {
 function availabilityMatches(s, availableOnly) {
   if (!availableOnly) return true;
   const status = s.source?.link_status;
-  return Boolean(s.source?.download_url) && status !== 'dead' && status !== 'unavailable';
+  return Boolean(s.source?.download_url) && (status === 'working' || status === 'available');
 }
 function openDetails(s) {
   const dialog = $('detail-dialog'), art = dialog.querySelector('.detail-art');
