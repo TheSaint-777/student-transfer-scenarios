@@ -11447,9 +11447,9 @@
         "Romance"
       ],
       "nsfw": "yes",
-      "word_count": 0,
-      "reading_time_minutes": 0,
-      "reading_time_display": "0 minutes",
+      "word_count": null,
+      "reading_time_minutes": 360,
+      "reading_time_display": "About 6 hours",
       "completed": false,
       "characters": []
     },
@@ -13034,11 +13034,11 @@
       "forum_title": "[Scenario] Just One Simple Wish"
     },
     "release": {
-      "scenario_version": "1.0.2",
+      "scenario_version": "1.0.3",
       "target_st_version": "9.1",
       "advertised_version": null,
       "status": null,
-      "package_version": "1.0.2"
+      "package_version": "1.0.3"
     },
     "content": {
       "tags": [
@@ -13051,7 +13051,7 @@
         "School setting"
       ],
       "nsfw": "no",
-      "word_count": 9289,
+      "word_count": 9293,
       "reading_time_minutes": 37,
       "reading_time_display": "37 minutes",
       "completed": true,
