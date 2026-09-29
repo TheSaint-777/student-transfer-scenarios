@@ -97,7 +97,8 @@ function render() {
     const fragment = $('card-template').content.cloneNode(true), card = fragment.querySelector('.card'), art = card.querySelector('.art');
     putImage(s, art);
     card.querySelector('.author').textContent = `By ${(s.authors || ['Unknown author']).join(', ')}`;
-    card.querySelector('h3').textContent = s.title;
+    const title = card.querySelector('h3');
+    title.textContent = s.title;
     card.querySelector('.description').textContent = s.description || 'Description not yet available.';
     card.querySelector('.completion').textContent = s.content?.completed ? 'Completed' : 'Incomplete';
     card.querySelector('.completion').classList.toggle('good', Boolean(s.content?.completed));
@@ -107,6 +108,8 @@ function render() {
     labelsInto(s, card.querySelector('.tags'));
     card.querySelector('.duration').textContent = s.content?.reading_time_display || 'Length unknown';
     card.querySelector('.date').textContent = formattedDate(s);
+    art.onclick = () => openDetails(s);
+    title.onclick = () => openDetails(s);
     card.querySelector('.details').onclick = () => openDetails(s);
     card.onkeydown = event => { if (event.key === 'Enter') openDetails(s); };
     grid.append(fragment);
