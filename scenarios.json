@@ -17468,7 +17468,7 @@
     "source": {
       "forum_url": "https://tfgames.site/phpbb3/viewtopic.php?t=20751",
       "forum_topic_id": "20751",
-      "download_url": "https://mega.nz/file/on13WA5Y#V6Fy_wfJz9-z2cmsmVVJOCsTTgdHi9ASLrFFzCEZhas",
+      "download_url": "https://mega.nz/file/tqtk2JpD#_BnK7XZjuyRK2wjDkAmJSeySWBacRwv2o73OkwgoqB0",
       "link_status": "unknown",
       "forum_title": "[Scenario] A New Sayaka [Version 1.0]"
     },
@@ -17895,17 +17895,21 @@
       "forum_title": "[Scenarios] Scrapped Scenarios"
     },
     "release": {
-      "scenario_version": null,
+      "scenario_version": "1.0.0",
       "target_st_version": null,
       "advertised_version": null,
-      "status": null
+      "status": null,
+      "package_version": "1.0.0"
     },
     "content": {
-      "tags": [],
+      "tags": [
+        "Identity death",
+        "Transformation"
+      ],
       "nsfw": "unknown",
-      "word_count": null,
-      "reading_time_minutes": null,
-      "reading_time_display": null,
+      "word_count": 1108,
+      "reading_time_minutes": 6,
+      "reading_time_display": "6 minutes",
       "completed": false,
       "characters": []
     },
@@ -17915,7 +17919,7 @@
       "source_url": null
     },
     "availability": {
-      "archive_available": false,
+      "archive_available": true,
       "link_status": "working"
     }
   },
