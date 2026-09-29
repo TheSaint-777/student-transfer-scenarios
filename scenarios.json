@@ -6875,8 +6875,8 @@
       "tags": [],
       "nsfw": "unknown",
       "word_count": null,
-      "reading_time_minutes": null,
-      "reading_time_display": null,
+      "reading_time_minutes": 30,
+      "reading_time_display": "About 30 minutes",
       "completed": false,
       "characters": []
     },
