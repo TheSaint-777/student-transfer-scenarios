@@ -7605,19 +7605,28 @@
       "forum_title": "[Scenario] Katrina the Statue (Link revived, V7.1 Compatible)"
     },
     "release": {
-      "scenario_version": "7.1",
-      "target_st_version": null,
-      "advertised_version": "7.1",
+      "scenario_version": null,
+      "target_st_version": "7.1",
+      "advertised_version": null,
       "status": null
     },
     "content": {
-      "tags": [],
+      "tags": [
+        "Female-to-female",
+        "Inanimate transformation",
+        "Linear story",
+        "Mind control",
+        "Petrification"
+      ],
       "nsfw": "unknown",
       "word_count": null,
-      "reading_time_minutes": null,
-      "reading_time_display": null,
-      "completed": false,
-      "characters": []
+      "reading_time_minutes": 60,
+      "reading_time_display": "About 1 hour",
+      "completed": true,
+      "characters": [
+        "Katrina",
+        "Sayaka"
+      ]
     },
     "image": {
       "kind": "forum_image",
