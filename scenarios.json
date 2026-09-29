@@ -2150,19 +2150,30 @@
       "forum_title": "[Scenario] Spitting Image (11/25/17)"
     },
     "release": {
-      "scenario_version": null,
-      "target_st_version": null,
-      "advertised_version": null,
-      "status": null
+      "scenario_version": "1.0a",
+      "target_st_version": "2.2",
+      "advertised_version": "1.0a",
+      "status": null,
+      "package_version": "1.0a"
     },
     "content": {
-      "tags": [],
-      "nsfw": "unknown",
-      "word_count": null,
-      "reading_time_minutes": null,
-      "reading_time_display": null,
+      "tags": [
+        "Magic",
+        "Masturbation",
+        "Transformation"
+      ],
+      "nsfw": "yes",
+      "word_count": 7777,
+      "reading_time_minutes": 31,
+      "reading_time_display": "31 minutes",
       "completed": false,
-      "characters": []
+      "characters": [
+        "John",
+        "Katrina",
+        "Kiyoshi",
+        "Sayaka",
+        "Yui"
+      ]
     },
     "image": {
       "kind": "forum_image",
@@ -2170,7 +2181,7 @@
       "source_url": "https://anonimag.es/i/1b349bf4d4768b2568c316fc4107dfbc.png"
     },
     "availability": {
-      "archive_available": false,
+      "archive_available": true,
       "link_status": "working"
     }
   },
