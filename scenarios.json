@@ -14702,22 +14702,28 @@
     "source": {
       "forum_url": "https://tfgames.site/phpbb3/viewtopic.php?t=19563",
       "forum_topic_id": "19563",
-      "download_url": "https://mega.nz/folder/VDcBHJia#jULF0ph4lfO9vx-NTqujKQ",
-      "link_status": "working",
+      "download_url": "https://mega.nz/file/VbtnjJ5C#dtfb8NFOryuLhRL1o1hg018Ep8xh-5fNbm30apRyIlg",
+      "link_status": "unknown",
       "forum_title": "[Scenario] Overcharged"
     },
     "release": {
-      "scenario_version": null,
-      "target_st_version": null,
+      "scenario_version": "0.1.0",
+      "target_st_version": "0.8.1",
       "advertised_version": null,
       "status": null
     },
     "content": {
-      "tags": [],
+      "tags": [
+        "Body swapping",
+        "Female to male",
+        "Male-to-female",
+        "Perception alteration",
+        "Suspense"
+      ],
       "nsfw": "unknown",
       "word_count": null,
-      "reading_time_minutes": null,
-      "reading_time_display": null,
+      "reading_time_minutes": 209,
+      "reading_time_display": "3 hours and 29 minutes",
       "completed": false,
       "characters": []
     },
@@ -14728,7 +14734,7 @@
     },
     "availability": {
       "archive_available": false,
-      "link_status": "working"
+      "link_status": "unknown"
     }
   },
   {
