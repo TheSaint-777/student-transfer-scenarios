@@ -48,9 +48,9 @@
       ],
       "nsfw": "no",
       "completed": true,
-      "word_count": 4968,
-      "reading_time_minutes": 25,
-      "reading_time_display": "25 minutes"
+      "word_count": 5594,
+      "reading_time_minutes": 22,
+      "reading_time_display": "22 minutes"
     },
     "image": {
       "kind": "scenario_banner",
@@ -101,8 +101,8 @@
       ],
       "nsfw": "no",
       "word_count": 7527,
-      "reading_time_minutes": 38,
-      "reading_time_display": "38 minutes",
+      "reading_time_minutes": 30,
+      "reading_time_display": "30 minutes",
       "completed": false,
       "characters": [
         "Catherine"
@@ -157,8 +157,8 @@
       ],
       "nsfw": "no",
       "word_count": 16858,
-      "reading_time_minutes": 84,
-      "reading_time_display": "1 hour and 24 minutes",
+      "reading_time_minutes": 67,
+      "reading_time_display": "1 hour and 7 minutes",
       "completed": false,
       "characters": [
         "Catherine"
@@ -209,8 +209,8 @@
       ],
       "nsfw": "no",
       "word_count": 10316,
-      "reading_time_minutes": 52,
-      "reading_time_display": "52 minutes",
+      "reading_time_minutes": 41,
+      "reading_time_display": "41 minutes",
       "completed": false,
       "characters": []
     },
@@ -258,8 +258,8 @@
       ],
       "nsfw": "no",
       "word_count": 581,
-      "reading_time_minutes": 3,
-      "reading_time_display": "3 minutes",
+      "reading_time_minutes": 2,
+      "reading_time_display": "2 minutes",
       "completed": false,
       "characters": [
         "John"
@@ -322,9 +322,9 @@
       ],
       "nsfw": "no",
       "completed": false,
-      "word_count": 1712,
-      "reading_time_minutes": 9,
-      "reading_time_display": "9 minutes"
+      "word_count": 1719,
+      "reading_time_minutes": 7,
+      "reading_time_display": "7 minutes"
     },
     "image": {
       "kind": "placeholder",
@@ -373,8 +373,8 @@
       "nsfw": "no",
       "completed": false,
       "word_count": 1870,
-      "reading_time_minutes": 9,
-      "reading_time_display": "9 minutes",
+      "reading_time_minutes": 7,
+      "reading_time_display": "7 minutes",
       "characters": []
     },
     "image": {
@@ -434,8 +434,8 @@
       "nsfw": "no",
       "completed": true,
       "word_count": 1595,
-      "reading_time_minutes": 8,
-      "reading_time_display": "8 minutes"
+      "reading_time_minutes": 6,
+      "reading_time_display": "6 minutes"
     },
     "image": {
       "kind": "placeholder",
@@ -510,9 +510,9 @@
       ],
       "nsfw": "no",
       "completed": true,
-      "word_count": 741,
-      "reading_time_minutes": 4,
-      "reading_time_display": "4 minutes"
+      "word_count": 775,
+      "reading_time_minutes": 3,
+      "reading_time_display": "3 minutes"
     },
     "image": {
       "kind": "placeholder",
@@ -578,7 +578,7 @@
       ],
       "nsfw": "no",
       "completed": false,
-      "word_count": 582,
+      "word_count": 651,
       "reading_time_minutes": 3,
       "reading_time_display": "3 minutes"
     },
@@ -1345,8 +1345,8 @@
       "nsfw": "no",
       "completed": false,
       "word_count": 352,
-      "reading_time_minutes": 2,
-      "reading_time_display": "2 minutes"
+      "reading_time_minutes": 1,
+      "reading_time_display": "1 minute"
     },
     "image": {
       "kind": "placeholder",
@@ -1393,9 +1393,9 @@
       ],
       "nsfw": "no",
       "completed": false,
-      "word_count": 1254,
-      "reading_time_minutes": 6,
-      "reading_time_display": "6 minutes",
+      "word_count": 1262,
+      "reading_time_minutes": 5,
+      "reading_time_display": "5 minutes",
       "characters": [
         "Katrina"
       ]
@@ -1447,8 +1447,8 @@
       "nsfw": "unknown",
       "completed": false,
       "word_count": 8725,
-      "reading_time_minutes": 44,
-      "reading_time_display": "44 minutes"
+      "reading_time_minutes": 35,
+      "reading_time_display": "35 minutes"
     },
     "image": {
       "kind": "scenario_banner",
@@ -1496,9 +1496,9 @@
         "Transformation"
       ],
       "nsfw": "no",
-      "word_count": 78125,
-      "reading_time_minutes": 391,
-      "reading_time_display": "6 hours and 31 minutes",
+      "word_count": 78265,
+      "reading_time_minutes": 313,
+      "reading_time_display": "5 hours and 13 minutes",
       "completed": false,
       "characters": []
     },
@@ -1548,9 +1548,9 @@
         "Transformation"
       ],
       "nsfw": "yes",
-      "word_count": 3563,
-      "reading_time_minutes": 18,
-      "reading_time_display": "18 minutes",
+      "word_count": 3690,
+      "reading_time_minutes": 15,
+      "reading_time_display": "15 minutes",
       "completed": false,
       "characters": []
     },
@@ -1601,8 +1601,8 @@
       "nsfw": "yes",
       "completed": false,
       "word_count": 12162,
-      "reading_time_minutes": 61,
-      "reading_time_display": "1 hour and 1 minute",
+      "reading_time_minutes": 49,
+      "reading_time_display": "49 minutes",
       "characters": []
     },
     "image": {
@@ -1650,8 +1650,8 @@
       ],
       "nsfw": "no",
       "word_count": 2395,
-      "reading_time_minutes": 12,
-      "reading_time_display": "12 minutes",
+      "reading_time_minutes": 10,
+      "reading_time_display": "10 minutes",
       "completed": false,
       "characters": [
         "Riley"
@@ -1702,8 +1702,8 @@
       ],
       "nsfw": "no",
       "word_count": 1037,
-      "reading_time_minutes": 5,
-      "reading_time_display": "5 minutes",
+      "reading_time_minutes": 4,
+      "reading_time_display": "4 minutes",
       "completed": false,
       "characters": [
         "John"
@@ -1762,9 +1762,9 @@
         "Transformation"
       ],
       "nsfw": "yes",
-      "word_count": 82753,
-      "reading_time_minutes": 414,
-      "reading_time_display": "6 hours and 54 minutes",
+      "word_count": 82798,
+      "reading_time_minutes": 331,
+      "reading_time_display": "5 hours and 31 minutes",
       "completed": false,
       "characters": [
         "John",
@@ -1953,9 +1953,9 @@
         "Transformation"
       ],
       "nsfw": "no",
-      "word_count": 9336,
-      "reading_time_minutes": 47,
-      "reading_time_display": "47 minutes",
+      "word_count": 9342,
+      "reading_time_minutes": 37,
+      "reading_time_display": "37 minutes",
       "completed": false,
       "characters": []
     },
@@ -2061,9 +2061,9 @@
       ],
       "nsfw": "no",
       "completed": false,
-      "word_count": 2297,
-      "reading_time_minutes": 11,
-      "reading_time_display": "11 minutes"
+      "word_count": 2316,
+      "reading_time_minutes": 9,
+      "reading_time_display": "9 minutes"
     },
     "image": {
       "kind": "placeholder",
@@ -2112,9 +2112,9 @@
         "Transformation"
       ],
       "nsfw": "yes",
-      "word_count": 49415,
-      "reading_time_minutes": 247,
-      "reading_time_display": "4 hours and 7 minutes",
+      "word_count": 51163,
+      "reading_time_minutes": 205,
+      "reading_time_display": "3 hours and 25 minutes",
       "completed": false,
       "characters": []
     },
@@ -2248,9 +2248,9 @@
       ],
       "nsfw": "yes",
       "completed": false,
-      "word_count": 17192,
-      "reading_time_minutes": 86,
-      "reading_time_display": "1 hour and 26 minutes"
+      "word_count": 17244,
+      "reading_time_minutes": 69,
+      "reading_time_display": "1 hour and 9 minutes"
     },
     "image": {
       "kind": "forum_image",
@@ -2440,9 +2440,9 @@
         "Male-to-female"
       ],
       "nsfw": "no",
-      "word_count": 6474,
-      "reading_time_minutes": 32,
-      "reading_time_display": "32 minutes",
+      "word_count": 6490,
+      "reading_time_minutes": 26,
+      "reading_time_display": "26 minutes",
       "completed": false,
       "characters": []
     },
@@ -2496,9 +2496,9 @@
         "Transformation"
       ],
       "nsfw": "no",
-      "word_count": 79305,
-      "reading_time_minutes": 397,
-      "reading_time_display": "6 hours and 37 minutes",
+      "word_count": 79446,
+      "reading_time_minutes": 318,
+      "reading_time_display": "5 hours and 18 minutes",
       "completed": true,
       "characters": []
     },
@@ -2552,9 +2552,9 @@
         "Wish"
       ],
       "nsfw": "no",
-      "word_count": 2519,
-      "reading_time_minutes": 13,
-      "reading_time_display": "13 minutes",
+      "word_count": 2529,
+      "reading_time_minutes": 10,
+      "reading_time_display": "10 minutes",
       "completed": false,
       "characters": []
     },
@@ -2703,9 +2703,9 @@
         "Transformation"
       ],
       "nsfw": "no",
-      "word_count": 4778,
-      "reading_time_minutes": 24,
-      "reading_time_display": "24 minutes",
+      "word_count": 4793,
+      "reading_time_minutes": 19,
+      "reading_time_display": "19 minutes",
       "completed": false,
       "characters": [
         "John",
@@ -2854,9 +2854,9 @@
         "Transformation"
       ],
       "nsfw": "yes",
-      "word_count": 96496,
-      "reading_time_minutes": 482,
-      "reading_time_display": "8 hours and 2 minutes",
+      "word_count": 97304,
+      "reading_time_minutes": 389,
+      "reading_time_display": "6 hours and 29 minutes",
       "completed": false,
       "characters": [
         "Yui"
@@ -2941,9 +2941,9 @@
       ],
       "nsfw": "no",
       "completed": false,
-      "word_count": 34101,
-      "reading_time_minutes": 171,
-      "reading_time_display": "2 hours and 51 minutes"
+      "word_count": 34147,
+      "reading_time_minutes": 137,
+      "reading_time_display": "2 hours and 17 minutes"
     },
     "image": {
       "kind": "scenario_banner",
@@ -2994,9 +2994,9 @@
         "Witch hunters"
       ],
       "nsfw": "no",
-      "word_count": 12668,
-      "reading_time_minutes": 63,
-      "reading_time_display": "1 hour and 3 minutes",
+      "word_count": 12757,
+      "reading_time_minutes": 51,
+      "reading_time_display": "51 minutes",
       "completed": false,
       "characters": [
         "John"
@@ -3144,9 +3144,9 @@
         "Strong language"
       ],
       "nsfw": "yes",
-      "word_count": 58367,
-      "reading_time_minutes": 292,
-      "reading_time_display": "4 hours and 52 minutes",
+      "word_count": 58456,
+      "reading_time_minutes": 234,
+      "reading_time_display": "3 hours and 54 minutes",
       "completed": false,
       "characters": [
         "John",
@@ -3295,9 +3295,9 @@
         "Possession"
       ],
       "nsfw": "yes",
-      "word_count": 3199,
-      "reading_time_minutes": 16,
-      "reading_time_display": "16 minutes",
+      "word_count": 3234,
+      "reading_time_minutes": 13,
+      "reading_time_display": "13 minutes",
       "completed": false,
       "characters": [
         "Kiyoshi",
@@ -3490,9 +3490,9 @@
         "Role reversal"
       ],
       "nsfw": "yes",
-      "word_count": 22689,
-      "reading_time_minutes": 113,
-      "reading_time_display": "1 hour and 53 minutes",
+      "word_count": 22761,
+      "reading_time_minutes": 91,
+      "reading_time_display": "1 hour and 31 minutes",
       "completed": true,
       "characters": []
     },
@@ -3548,9 +3548,9 @@
         "vacation"
       ],
       "nsfw": "yes",
-      "word_count": 3846,
-      "reading_time_minutes": 19,
-      "reading_time_display": "19 minutes",
+      "word_count": 3935,
+      "reading_time_minutes": 16,
+      "reading_time_display": "16 minutes",
       "completed": false,
       "characters": [
         "Dominic",
@@ -3839,8 +3839,8 @@
       ],
       "nsfw": "no",
       "word_count": 1393,
-      "reading_time_minutes": 7,
-      "reading_time_display": "7 minutes",
+      "reading_time_minutes": 6,
+      "reading_time_display": "6 minutes",
       "completed": true,
       "characters": [
         "Sandra",
@@ -3901,9 +3901,9 @@
         "WIP"
       ],
       "nsfw": "no",
-      "word_count": 10291,
-      "reading_time_minutes": 51,
-      "reading_time_display": "51 minutes",
+      "word_count": 10298,
+      "reading_time_minutes": 41,
+      "reading_time_display": "41 minutes",
       "completed": false,
       "characters": [
         "Abby",
@@ -4116,9 +4116,9 @@
         "Vanilla-like"
       ],
       "nsfw": "no",
-      "word_count": 25507,
-      "reading_time_minutes": 128,
-      "reading_time_display": "2 hours and 8 minutes",
+      "word_count": 25938,
+      "reading_time_minutes": 104,
+      "reading_time_display": "1 hour and 44 minutes",
       "completed": false,
       "characters": [
         "John",
@@ -4271,9 +4271,9 @@
         "Strong language"
       ],
       "nsfw": "yes",
-      "word_count": 9884,
-      "reading_time_minutes": 49,
-      "reading_time_display": "49 minutes",
+      "word_count": 9917,
+      "reading_time_minutes": 40,
+      "reading_time_display": "40 minutes",
       "completed": false,
       "characters": [
         "John",
@@ -4463,9 +4463,9 @@
         "Time alteration"
       ],
       "nsfw": "no",
-      "word_count": 4714,
-      "reading_time_minutes": 24,
-      "reading_time_display": "24 minutes",
+      "word_count": 5002,
+      "reading_time_minutes": 20,
+      "reading_time_display": "20 minutes",
       "completed": false,
       "characters": []
     },
@@ -4565,8 +4565,8 @@
       ],
       "nsfw": "no",
       "word_count": 1794,
-      "reading_time_minutes": 9,
-      "reading_time_display": "9 minutes",
+      "reading_time_minutes": 7,
+      "reading_time_display": "7 minutes",
       "completed": false,
       "characters": [
         "Carrie",
@@ -4625,9 +4625,9 @@
         "Twinning"
       ],
       "nsfw": "yes",
-      "word_count": 47269,
-      "reading_time_minutes": 236,
-      "reading_time_display": "3 hours and 56 minutes",
+      "word_count": 47408,
+      "reading_time_minutes": 190,
+      "reading_time_display": "3 hours and 10 minutes",
       "completed": false,
       "characters": []
     },
@@ -4683,9 +4683,9 @@
         "Possession"
       ],
       "nsfw": "yes",
-      "word_count": 45075,
-      "reading_time_minutes": 225,
-      "reading_time_display": "3 hours and 45 minutes",
+      "word_count": 45116,
+      "reading_time_minutes": 180,
+      "reading_time_display": "3 hours",
       "completed": false,
       "characters": [
         "Dominic",
@@ -4915,9 +4915,9 @@
         "School setting"
       ],
       "nsfw": "yes",
-      "word_count": 12216,
-      "reading_time_minutes": 61,
-      "reading_time_display": "1 hour and 1 minute",
+      "word_count": 12277,
+      "reading_time_minutes": 49,
+      "reading_time_display": "49 minutes",
       "completed": false,
       "characters": [
         "Circe"
@@ -4975,9 +4975,9 @@
         "Multiple endings"
       ],
       "nsfw": "yes",
-      "word_count": 58989,
-      "reading_time_minutes": 295,
-      "reading_time_display": "4 hours and 55 minutes",
+      "word_count": 59448,
+      "reading_time_minutes": 238,
+      "reading_time_display": "3 hours and 58 minutes",
       "completed": true,
       "characters": [
         "John",
@@ -5047,8 +5047,8 @@
       ],
       "nsfw": "yes",
       "word_count": 2768,
-      "reading_time_minutes": 14,
-      "reading_time_display": "14 minutes",
+      "reading_time_minutes": 11,
+      "reading_time_display": "11 minutes",
       "completed": false,
       "characters": [
         "Donna",
@@ -5113,9 +5113,9 @@
         "Transformation"
       ],
       "nsfw": "no",
-      "word_count": 50652,
-      "reading_time_minutes": 253,
-      "reading_time_display": "4 hours and 13 minutes",
+      "word_count": 50702,
+      "reading_time_minutes": 203,
+      "reading_time_display": "3 hours and 23 minutes",
       "completed": false,
       "characters": [
         "John",
@@ -5185,9 +5185,9 @@
         "Transformation"
       ],
       "nsfw": "yes",
-      "word_count": 22312,
-      "reading_time_minutes": 112,
-      "reading_time_display": "1 hour and 52 minutes",
+      "word_count": 22363,
+      "reading_time_minutes": 89,
+      "reading_time_display": "1 hour and 29 minutes",
       "completed": false,
       "characters": []
     },
@@ -5293,9 +5293,9 @@
         "Slime"
       ],
       "nsfw": "yes",
-      "word_count": 340541,
-      "reading_time_minutes": 1703,
-      "reading_time_display": "28 hours and 23 minutes",
+      "word_count": 341023,
+      "reading_time_minutes": 1364,
+      "reading_time_display": "22 hours and 44 minutes",
       "completed": false,
       "characters": []
     },
@@ -5351,9 +5351,9 @@
         "Strong language"
       ],
       "nsfw": "yes",
-      "word_count": 115656,
-      "reading_time_minutes": 578,
-      "reading_time_display": "9 hours and 38 minutes",
+      "word_count": 115695,
+      "reading_time_minutes": 463,
+      "reading_time_display": "7 hours and 43 minutes",
       "completed": false,
       "characters": [
         "Abby",
@@ -5427,8 +5427,8 @@
       ],
       "nsfw": "no",
       "word_count": 33526,
-      "reading_time_minutes": 168,
-      "reading_time_display": "2 hours and 48 minutes",
+      "reading_time_minutes": 134,
+      "reading_time_display": "2 hours and 14 minutes",
       "completed": false,
       "characters": [
         "Cornelia",
@@ -5616,9 +5616,9 @@
         "Multiple endings"
       ],
       "nsfw": "yes",
-      "word_count": 83162,
-      "reading_time_minutes": 416,
-      "reading_time_display": "6 hours and 56 minutes",
+      "word_count": 83192,
+      "reading_time_minutes": 333,
+      "reading_time_display": "5 hours and 33 minutes",
       "completed": false,
       "characters": []
     },
@@ -5800,9 +5800,9 @@
         "Strong language"
       ],
       "nsfw": "no",
-      "word_count": 56223,
-      "reading_time_minutes": 281,
-      "reading_time_display": "4 hours and 41 minutes",
+      "word_count": 56381,
+      "reading_time_minutes": 226,
+      "reading_time_display": "3 hours and 46 minutes",
       "completed": true,
       "characters": []
     },
@@ -5858,8 +5858,8 @@
       ],
       "nsfw": "yes",
       "word_count": 1657,
-      "reading_time_minutes": 8,
-      "reading_time_display": "8 minutes",
+      "reading_time_minutes": 7,
+      "reading_time_display": "7 minutes",
       "completed": false,
       "characters": []
     },
@@ -5914,9 +5914,9 @@
         "School setting"
       ],
       "nsfw": "no",
-      "word_count": 86575,
-      "reading_time_minutes": 433,
-      "reading_time_display": "7 hours and 13 minutes",
+      "word_count": 86740,
+      "reading_time_minutes": 347,
+      "reading_time_display": "5 hours and 47 minutes",
       "completed": false,
       "characters": []
     },
@@ -5969,9 +5969,9 @@
         "Portals"
       ],
       "nsfw": "no",
-      "word_count": 32446,
-      "reading_time_minutes": 162,
-      "reading_time_display": "2 hours and 42 minutes",
+      "word_count": 32537,
+      "reading_time_minutes": 130,
+      "reading_time_display": "2 hours and 10 minutes",
       "completed": false,
       "characters": [
         "Abby",
@@ -6030,9 +6030,9 @@
         "Transformation"
       ],
       "nsfw": "yes",
-      "word_count": 6635,
-      "reading_time_minutes": 33,
-      "reading_time_display": "33 minutes",
+      "word_count": 6824,
+      "reading_time_minutes": 27,
+      "reading_time_display": "27 minutes",
       "completed": true,
       "characters": []
     },
@@ -6090,9 +6090,9 @@
         "Twinning"
       ],
       "nsfw": "yes",
-      "word_count": 174332,
-      "reading_time_minutes": 872,
-      "reading_time_display": "14 hours and 32 minutes",
+      "word_count": 177074,
+      "reading_time_minutes": 708,
+      "reading_time_display": "11 hours and 48 minutes",
       "completed": false,
       "characters": []
     },
@@ -6146,9 +6146,9 @@
         "Reality alteration"
       ],
       "nsfw": "yes",
-      "word_count": 4713,
-      "reading_time_minutes": 24,
-      "reading_time_display": "24 minutes",
+      "word_count": 4722,
+      "reading_time_minutes": 19,
+      "reading_time_display": "19 minutes",
       "completed": false,
       "characters": []
     },
@@ -6201,8 +6201,8 @@
       ],
       "nsfw": "no",
       "word_count": 10901,
-      "reading_time_minutes": 55,
-      "reading_time_display": "55 minutes",
+      "reading_time_minutes": 44,
+      "reading_time_display": "44 minutes",
       "completed": false,
       "characters": []
     },
@@ -6347,9 +6347,9 @@
         "Transformation"
       ],
       "nsfw": "no",
-      "word_count": 6428,
-      "reading_time_minutes": 32,
-      "reading_time_display": "32 minutes",
+      "word_count": 6505,
+      "reading_time_minutes": 26,
+      "reading_time_display": "26 minutes",
       "completed": false,
       "characters": []
     },
@@ -6414,8 +6414,8 @@
       "nsfw": "no",
       "completed": false,
       "word_count": 1196,
-      "reading_time_minutes": 6,
-      "reading_time_display": "6 minutes"
+      "reading_time_minutes": 5,
+      "reading_time_display": "5 minutes"
     },
     "image": {
       "kind": "forum_image",
@@ -6520,9 +6520,9 @@
         "Twinning"
       ],
       "nsfw": "yes",
-      "word_count": 37896,
-      "reading_time_minutes": 189,
-      "reading_time_display": "3 hours and 9 minutes",
+      "word_count": 37930,
+      "reading_time_minutes": 152,
+      "reading_time_display": "2 hours and 32 minutes",
       "completed": true,
       "characters": []
     },
@@ -6580,8 +6580,8 @@
       ],
       "nsfw": "yes",
       "word_count": 17399,
-      "reading_time_minutes": 87,
-      "reading_time_display": "1 hour and 27 minutes",
+      "reading_time_minutes": 70,
+      "reading_time_display": "1 hour and 10 minutes",
       "completed": false,
       "characters": []
     },
@@ -6683,9 +6683,9 @@
         "Transformation"
       ],
       "nsfw": "no",
-      "word_count": 9771,
-      "reading_time_minutes": 49,
-      "reading_time_display": "49 minutes",
+      "word_count": 10043,
+      "reading_time_minutes": 40,
+      "reading_time_display": "40 minutes",
       "completed": true,
       "characters": [
         "Mel"
@@ -6741,8 +6741,8 @@
       ],
       "nsfw": "no",
       "word_count": 31370,
-      "reading_time_minutes": 157,
-      "reading_time_display": "2 hours and 37 minutes",
+      "reading_time_minutes": 125,
+      "reading_time_display": "2 hours and 5 minutes",
       "completed": false,
       "characters": []
     },
@@ -6932,9 +6932,9 @@
         "Transformation"
       ],
       "nsfw": "yes",
-      "word_count": 15168,
-      "reading_time_minutes": 76,
-      "reading_time_display": "1 hour and 16 minutes",
+      "word_count": 15183,
+      "reading_time_minutes": 61,
+      "reading_time_display": "1 hour and 1 minute",
       "completed": false,
       "characters": []
     },
@@ -6992,8 +6992,8 @@
       ],
       "nsfw": "no",
       "word_count": 13415,
-      "reading_time_minutes": 67,
-      "reading_time_display": "1 hour and 7 minutes",
+      "reading_time_minutes": 54,
+      "reading_time_display": "54 minutes",
       "completed": false,
       "characters": []
     },
@@ -7048,9 +7048,9 @@
         "School setting"
       ],
       "nsfw": "yes",
-      "word_count": 19933,
-      "reading_time_minutes": 100,
-      "reading_time_display": "1 hour and 40 minutes",
+      "word_count": 20025,
+      "reading_time_minutes": 80,
+      "reading_time_display": "1 hour and 20 minutes",
       "completed": false,
       "characters": [
         "John",
@@ -7108,9 +7108,9 @@
         "Transformation"
       ],
       "nsfw": "yes",
-      "word_count": 2027,
-      "reading_time_minutes": 10,
-      "reading_time_display": "10 minutes",
+      "word_count": 2034,
+      "reading_time_minutes": 8,
+      "reading_time_display": "8 minutes",
       "completed": true,
       "characters": [
         "Circe"
@@ -7163,9 +7163,9 @@
         "Transformation"
       ],
       "nsfw": "no",
-      "word_count": 10536,
-      "reading_time_minutes": 53,
-      "reading_time_display": "53 minutes",
+      "word_count": 10541,
+      "reading_time_minutes": 42,
+      "reading_time_display": "42 minutes",
       "completed": false,
       "characters": [
         "Scarlet"
@@ -7225,9 +7225,9 @@
         "Twinning"
       ],
       "nsfw": "no",
-      "word_count": 22930,
-      "reading_time_minutes": 115,
-      "reading_time_display": "1 hour and 55 minutes",
+      "word_count": 22951,
+      "reading_time_minutes": 92,
+      "reading_time_display": "1 hour and 32 minutes",
       "completed": true,
       "characters": [
         "Riley",
@@ -7354,9 +7354,9 @@
       ],
       "nsfw": "yes",
       "completed": false,
-      "word_count": 35755,
-      "reading_time_minutes": 179,
-      "reading_time_display": "2 hours and 59 minutes"
+      "word_count": 35782,
+      "reading_time_minutes": 143,
+      "reading_time_display": "2 hours and 23 minutes"
     },
     "image": {
       "kind": "forum_image",
@@ -7453,9 +7453,9 @@
         "Witches"
       ],
       "nsfw": "no",
-      "word_count": 15869,
-      "reading_time_minutes": 79,
-      "reading_time_display": "1 hour and 19 minutes",
+      "word_count": 15896,
+      "reading_time_minutes": 64,
+      "reading_time_display": "1 hour and 4 minutes",
       "completed": true,
       "characters": []
     },
@@ -7512,9 +7512,9 @@
         "Virtual reality"
       ],
       "nsfw": "yes",
-      "word_count": 59467,
-      "reading_time_minutes": 297,
-      "reading_time_display": "4 hours and 57 minutes",
+      "word_count": 59682,
+      "reading_time_minutes": 239,
+      "reading_time_display": "3 hours and 59 minutes",
       "completed": true,
       "characters": []
     },
@@ -7567,9 +7567,9 @@
         "Supernatural"
       ],
       "nsfw": "yes",
-      "word_count": 65784,
-      "reading_time_minutes": 329,
-      "reading_time_display": "5 hours and 29 minutes",
+      "word_count": 66089,
+      "reading_time_minutes": 264,
+      "reading_time_display": "4 hours and 24 minutes",
       "completed": false,
       "characters": []
     },
@@ -7670,9 +7670,9 @@
       ],
       "nsfw": "yes",
       "completed": false,
-      "word_count": 19927,
-      "reading_time_minutes": 100,
-      "reading_time_display": "1 hour and 40 minutes",
+      "word_count": 20147,
+      "reading_time_minutes": 81,
+      "reading_time_display": "1 hour and 21 minutes",
       "characters": []
     },
     "image": {
@@ -7725,9 +7725,9 @@
         "Strong language"
       ],
       "nsfw": "no",
-      "word_count": 18387,
-      "reading_time_minutes": 92,
-      "reading_time_display": "1 hour and 32 minutes",
+      "word_count": 18404,
+      "reading_time_minutes": 74,
+      "reading_time_display": "1 hour and 14 minutes",
       "completed": false,
       "characters": []
     },
@@ -7786,9 +7786,9 @@
         "Transformation"
       ],
       "nsfw": "yes",
-      "word_count": 39472,
-      "reading_time_minutes": 197,
-      "reading_time_display": "3 hours and 17 minutes",
+      "word_count": 39484,
+      "reading_time_minutes": 158,
+      "reading_time_display": "2 hours and 38 minutes",
       "completed": false,
       "characters": []
     },
@@ -7979,9 +7979,9 @@
         "Yuri"
       ],
       "nsfw": "yes",
-      "word_count": 33166,
-      "reading_time_minutes": 166,
-      "reading_time_display": "2 hours and 46 minutes",
+      "word_count": 33518,
+      "reading_time_minutes": 134,
+      "reading_time_display": "2 hours and 14 minutes",
       "completed": false,
       "characters": []
     },
@@ -8039,9 +8039,9 @@
         "milf"
       ],
       "nsfw": "unknown",
-      "word_count": 15219,
-      "reading_time_minutes": 76,
-      "reading_time_display": "1 hour and 16 minutes",
+      "word_count": 15267,
+      "reading_time_minutes": 61,
+      "reading_time_display": "1 hour and 1 minute",
       "completed": true,
       "characters": [
         "John",
@@ -8096,9 +8096,9 @@
         "Phone app"
       ],
       "nsfw": "no",
-      "word_count": 4323,
-      "reading_time_minutes": 22,
-      "reading_time_display": "22 minutes",
+      "word_count": 4373,
+      "reading_time_minutes": 17,
+      "reading_time_display": "17 minutes",
       "completed": false,
       "characters": [
         "Circe"
@@ -8151,9 +8151,9 @@
         "Transformation"
       ],
       "nsfw": "yes",
-      "word_count": 13646,
-      "reading_time_minutes": 68,
-      "reading_time_display": "1 hour and 8 minutes",
+      "word_count": 13745,
+      "reading_time_minutes": 55,
+      "reading_time_display": "55 minutes",
       "completed": false,
       "characters": []
     },
@@ -8203,9 +8203,9 @@
         "Transformation"
       ],
       "nsfw": "yes",
-      "word_count": 3972,
-      "reading_time_minutes": 20,
-      "reading_time_display": "20 minutes",
+      "word_count": 3981,
+      "reading_time_minutes": 16,
+      "reading_time_display": "16 minutes",
       "completed": false,
       "characters": [
         "Yui"
@@ -8257,8 +8257,8 @@
       ],
       "nsfw": "no",
       "word_count": 1644,
-      "reading_time_minutes": 8,
-      "reading_time_display": "8 minutes",
+      "reading_time_minutes": 7,
+      "reading_time_display": "7 minutes",
       "completed": false,
       "characters": []
     },
@@ -8316,8 +8316,8 @@
       ],
       "nsfw": "no",
       "word_count": 10514,
-      "reading_time_minutes": 53,
-      "reading_time_display": "53 minutes",
+      "reading_time_minutes": 42,
+      "reading_time_display": "42 minutes",
       "completed": true,
       "characters": []
     },
@@ -8373,9 +8373,9 @@
         "Violence"
       ],
       "nsfw": "no",
-      "word_count": 68384,
-      "reading_time_minutes": 342,
-      "reading_time_display": "5 hours and 42 minutes",
+      "word_count": 68390,
+      "reading_time_minutes": 274,
+      "reading_time_display": "4 hours and 34 minutes",
       "completed": false,
       "characters": []
     },
@@ -8556,9 +8556,9 @@
         "School setting"
       ],
       "nsfw": "yes",
-      "word_count": 652526,
-      "reading_time_minutes": 3263,
-      "reading_time_display": "54 hours and 23 minutes",
+      "word_count": 652648,
+      "reading_time_minutes": 2611,
+      "reading_time_display": "43 hours and 31 minutes",
       "completed": false,
       "characters": []
     },
@@ -8664,8 +8664,8 @@
       ],
       "nsfw": "yes",
       "word_count": 11380,
-      "reading_time_minutes": 57,
-      "reading_time_display": "57 minutes",
+      "reading_time_minutes": 46,
+      "reading_time_display": "46 minutes",
       "completed": false,
       "characters": [
         "Connie",
@@ -8727,8 +8727,8 @@
       ],
       "nsfw": "no",
       "word_count": 4552,
-      "reading_time_minutes": 23,
-      "reading_time_display": "23 minutes",
+      "reading_time_minutes": 18,
+      "reading_time_display": "18 minutes",
       "completed": false,
       "characters": [
         "Riley",
@@ -8789,9 +8789,9 @@
         "Multiple endings"
       ],
       "nsfw": "yes",
-      "word_count": 50831,
-      "reading_time_minutes": 254,
-      "reading_time_display": "4 hours and 14 minutes",
+      "word_count": 51071,
+      "reading_time_minutes": 204,
+      "reading_time_display": "3 hours and 24 minutes",
       "completed": true,
       "characters": []
     },
@@ -8847,9 +8847,9 @@
         "Transformation device"
       ],
       "nsfw": "no",
-      "word_count": 4290,
-      "reading_time_minutes": 21,
-      "reading_time_display": "21 minutes",
+      "word_count": 4297,
+      "reading_time_minutes": 17,
+      "reading_time_display": "17 minutes",
       "completed": false,
       "characters": []
     },
@@ -9097,9 +9097,9 @@
         "Occult"
       ],
       "nsfw": "no",
-      "word_count": 152026,
-      "reading_time_minutes": 760,
-      "reading_time_display": "12 hours and 40 minutes",
+      "word_count": 152292,
+      "reading_time_minutes": 609,
+      "reading_time_display": "10 hours and 9 minutes",
       "completed": false,
       "characters": []
     },
@@ -9154,9 +9154,9 @@
         "swap"
       ],
       "nsfw": "yes",
-      "word_count": 19207,
-      "reading_time_minutes": 96,
-      "reading_time_display": "1 hour and 36 minutes",
+      "word_count": 19225,
+      "reading_time_minutes": 77,
+      "reading_time_display": "1 hour and 17 minutes",
       "completed": false,
       "characters": []
     },
@@ -9209,9 +9209,9 @@
         "School setting"
       ],
       "nsfw": "no",
-      "word_count": 14009,
-      "reading_time_minutes": 70,
-      "reading_time_display": "1 hour and 10 minutes",
+      "word_count": 14031,
+      "reading_time_minutes": 56,
+      "reading_time_display": "56 minutes",
       "completed": false,
       "characters": []
     },
@@ -9266,8 +9266,8 @@
       ],
       "nsfw": "yes",
       "word_count": 854,
-      "reading_time_minutes": 4,
-      "reading_time_display": "4 minutes",
+      "reading_time_minutes": 3,
+      "reading_time_display": "3 minutes",
       "completed": true,
       "characters": [
         "John",
@@ -9324,9 +9324,9 @@
         "Short"
       ],
       "nsfw": "no",
-      "word_count": 3983,
-      "reading_time_minutes": 20,
-      "reading_time_display": "20 minutes",
+      "word_count": 4021,
+      "reading_time_minutes": 16,
+      "reading_time_display": "16 minutes",
       "completed": false,
       "characters": []
     },
@@ -9384,9 +9384,9 @@
         "Yuri"
       ],
       "nsfw": "no",
-      "word_count": 15538,
-      "reading_time_minutes": 78,
-      "reading_time_display": "1 hour and 18 minutes",
+      "word_count": 15606,
+      "reading_time_minutes": 62,
+      "reading_time_display": "1 hour and 2 minutes",
       "completed": false,
       "characters": []
     },
@@ -9445,8 +9445,8 @@
       ],
       "nsfw": "yes",
       "word_count": 3283,
-      "reading_time_minutes": 16,
-      "reading_time_display": "16 minutes",
+      "reading_time_minutes": 13,
+      "reading_time_display": "13 minutes",
       "completed": true,
       "characters": [
         "John",
@@ -9610,9 +9610,9 @@
         "Male-to-female"
       ],
       "nsfw": "no",
-      "word_count": 18350,
-      "reading_time_minutes": 92,
-      "reading_time_display": "1 hour and 32 minutes",
+      "word_count": 18364,
+      "reading_time_minutes": 73,
+      "reading_time_display": "1 hour and 13 minutes",
       "completed": false,
       "characters": [
         "Tori"
@@ -9664,9 +9664,9 @@
         "School setting"
       ],
       "nsfw": "no",
-      "word_count": 14936,
-      "reading_time_minutes": 75,
-      "reading_time_display": "1 hour and 15 minutes",
+      "word_count": 14937,
+      "reading_time_minutes": 60,
+      "reading_time_display": "1 hour",
       "completed": false,
       "characters": [
         "Yui",
@@ -9726,9 +9726,9 @@
       ],
       "nsfw": "yes",
       "completed": false,
-      "word_count": 8711,
-      "reading_time_minutes": 44,
-      "reading_time_display": "44 minutes",
+      "word_count": 8716,
+      "reading_time_minutes": 35,
+      "reading_time_display": "35 minutes",
       "characters": []
     },
     "image": {
@@ -9782,9 +9782,9 @@
         "Transformation"
       ],
       "nsfw": "yes",
-      "word_count": 153008,
-      "reading_time_minutes": 765,
-      "reading_time_display": "12 hours and 45 minutes",
+      "word_count": 153936,
+      "reading_time_minutes": 616,
+      "reading_time_display": "10 hours and 16 minutes",
       "completed": false,
       "characters": []
     },
@@ -9839,8 +9839,8 @@
       ],
       "nsfw": "no",
       "word_count": 7864,
-      "reading_time_minutes": 39,
-      "reading_time_display": "39 minutes",
+      "reading_time_minutes": 31,
+      "reading_time_display": "31 minutes",
       "completed": false,
       "characters": []
     },
@@ -9944,9 +9944,9 @@
         "Violence"
       ],
       "nsfw": "yes",
-      "word_count": 155468,
-      "reading_time_minutes": 777,
-      "reading_time_display": "12 hours and 57 minutes",
+      "word_count": 155611,
+      "reading_time_minutes": 622,
+      "reading_time_display": "10 hours and 22 minutes",
       "completed": false,
       "characters": []
     },
@@ -10000,9 +10000,9 @@
       ],
       "nsfw": "no",
       "completed": false,
-      "word_count": 7172,
-      "reading_time_minutes": 36,
-      "reading_time_display": "36 minutes",
+      "word_count": 7381,
+      "reading_time_minutes": 30,
+      "reading_time_display": "30 minutes",
       "characters": []
     },
     "image": {
@@ -10183,8 +10183,8 @@
       ],
       "nsfw": "no",
       "word_count": 7073,
-      "reading_time_minutes": 35,
-      "reading_time_display": "35 minutes",
+      "reading_time_minutes": 28,
+      "reading_time_display": "28 minutes",
       "completed": false,
       "characters": [
         "Stevie",
@@ -10245,8 +10245,8 @@
       ],
       "nsfw": "no",
       "word_count": 6127,
-      "reading_time_minutes": 31,
-      "reading_time_display": "31 minutes",
+      "reading_time_minutes": 25,
+      "reading_time_display": "25 minutes",
       "completed": false,
       "characters": []
     },
@@ -10344,9 +10344,9 @@
         "School event"
       ],
       "nsfw": "no",
-      "word_count": 12663,
-      "reading_time_minutes": 63,
-      "reading_time_display": "1 hour and 3 minutes",
+      "word_count": 12677,
+      "reading_time_minutes": 51,
+      "reading_time_display": "51 minutes",
       "completed": true,
       "characters": [
         "Abby"
@@ -10400,9 +10400,9 @@
         "Transformation"
       ],
       "nsfw": "yes",
-      "word_count": 12386,
-      "reading_time_minutes": 62,
-      "reading_time_display": "1 hour and 2 minutes",
+      "word_count": 12717,
+      "reading_time_minutes": 51,
+      "reading_time_display": "51 minutes",
       "completed": false,
       "characters": []
     },
@@ -10458,9 +10458,9 @@
         "Transformation"
       ],
       "nsfw": "yes",
-      "word_count": 35540,
-      "reading_time_minutes": 178,
-      "reading_time_display": "2 hours and 58 minutes",
+      "word_count": 35549,
+      "reading_time_minutes": 142,
+      "reading_time_display": "2 hours and 22 minutes",
       "completed": false,
       "characters": []
     },
@@ -10511,8 +10511,8 @@
       ],
       "nsfw": "no",
       "word_count": 2338,
-      "reading_time_minutes": 12,
-      "reading_time_display": "12 minutes",
+      "reading_time_minutes": 9,
+      "reading_time_display": "9 minutes",
       "completed": true,
       "characters": []
     },
@@ -10563,8 +10563,8 @@
       ],
       "nsfw": "yes",
       "word_count": 4970,
-      "reading_time_minutes": 25,
-      "reading_time_display": "25 minutes",
+      "reading_time_minutes": 20,
+      "reading_time_display": "20 minutes",
       "completed": true,
       "characters": []
     },
@@ -10665,8 +10665,8 @@
       ],
       "nsfw": "yes",
       "word_count": 11295,
-      "reading_time_minutes": 56,
-      "reading_time_display": "56 minutes",
+      "reading_time_minutes": 45,
+      "reading_time_display": "45 minutes",
       "completed": true,
       "characters": []
     },
@@ -10765,8 +10765,8 @@
       ],
       "nsfw": "no",
       "word_count": 5969,
-      "reading_time_minutes": 30,
-      "reading_time_display": "30 minutes",
+      "reading_time_minutes": 24,
+      "reading_time_display": "24 minutes",
       "completed": false,
       "characters": [
         "Sayaka"
@@ -10819,8 +10819,8 @@
       ],
       "nsfw": "no",
       "word_count": 9992,
-      "reading_time_minutes": 50,
-      "reading_time_display": "50 minutes",
+      "reading_time_minutes": 40,
+      "reading_time_display": "40 minutes",
       "completed": true,
       "characters": [
         "John",
@@ -10925,8 +10925,8 @@
       ],
       "nsfw": "no",
       "word_count": 4338,
-      "reading_time_minutes": 22,
-      "reading_time_display": "22 minutes",
+      "reading_time_minutes": 17,
+      "reading_time_display": "17 minutes",
       "completed": false,
       "characters": []
     },
@@ -10975,9 +10975,9 @@
         "Mind control"
       ],
       "nsfw": "yes",
-      "word_count": 43461,
-      "reading_time_minutes": 217,
-      "reading_time_display": "3 hours and 37 minutes",
+      "word_count": 43635,
+      "reading_time_minutes": 175,
+      "reading_time_display": "2 hours and 55 minutes",
       "completed": false,
       "characters": []
     },
@@ -11073,9 +11073,9 @@
         "Violence"
       ],
       "nsfw": "no",
-      "word_count": 29268,
-      "reading_time_minutes": 146,
-      "reading_time_display": "2 hours and 26 minutes",
+      "word_count": 29289,
+      "reading_time_minutes": 117,
+      "reading_time_display": "1 hour and 57 minutes",
       "completed": false,
       "characters": [
         "Brad"
@@ -11132,8 +11132,8 @@
       ],
       "nsfw": "no",
       "word_count": 40152,
-      "reading_time_minutes": 201,
-      "reading_time_display": "3 hours and 21 minutes",
+      "reading_time_minutes": 161,
+      "reading_time_display": "2 hours and 41 minutes",
       "completed": false,
       "characters": []
     },
@@ -11188,9 +11188,9 @@
         "Transformation"
       ],
       "nsfw": "no",
-      "word_count": 1298,
-      "reading_time_minutes": 6,
-      "reading_time_display": "6 minutes",
+      "word_count": 1304,
+      "reading_time_minutes": 5,
+      "reading_time_display": "5 minutes",
       "completed": true,
       "characters": []
     },
@@ -11290,9 +11290,9 @@
         "Transformation"
       ],
       "nsfw": "yes",
-      "word_count": 13021,
-      "reading_time_minutes": 65,
-      "reading_time_display": "1 hour and 5 minutes",
+      "word_count": 13186,
+      "reading_time_minutes": 53,
+      "reading_time_display": "53 minutes",
       "completed": false,
       "characters": []
     },
@@ -11493,9 +11493,9 @@
         "Magic"
       ],
       "nsfw": "yes",
-      "word_count": 27631,
-      "reading_time_minutes": 138,
-      "reading_time_display": "2 hours and 18 minutes",
+      "word_count": 27647,
+      "reading_time_minutes": 111,
+      "reading_time_display": "1 hour and 51 minutes",
       "completed": false,
       "characters": []
     },
@@ -11548,9 +11548,9 @@
         "Transformation"
       ],
       "nsfw": "yes",
-      "word_count": 3598,
-      "reading_time_minutes": 18,
-      "reading_time_display": "18 minutes",
+      "word_count": 3624,
+      "reading_time_minutes": 14,
+      "reading_time_display": "14 minutes",
       "completed": true,
       "characters": []
     },
@@ -11604,9 +11604,9 @@
         "Transformation"
       ],
       "nsfw": "yes",
-      "word_count": 10073,
-      "reading_time_minutes": 50,
-      "reading_time_display": "50 minutes",
+      "word_count": 10079,
+      "reading_time_minutes": 40,
+      "reading_time_display": "40 minutes",
       "completed": true,
       "characters": []
     },
@@ -11662,8 +11662,8 @@
       ],
       "nsfw": "unknown",
       "word_count": 4408,
-      "reading_time_minutes": 22,
-      "reading_time_display": "22 minutes",
+      "reading_time_minutes": 18,
+      "reading_time_display": "18 minutes",
       "completed": false,
       "characters": []
     },
@@ -11726,9 +11726,9 @@
       ],
       "nsfw": "no",
       "completed": false,
-      "word_count": 925,
-      "reading_time_minutes": 5,
-      "reading_time_display": "5 minutes"
+      "word_count": 928,
+      "reading_time_minutes": 4,
+      "reading_time_display": "4 minutes"
     },
     "image": {
       "kind": "placeholder",
@@ -11772,9 +11772,9 @@
         "Ren'Py"
       ],
       "nsfw": "no",
-      "word_count": 1940,
-      "reading_time_minutes": 10,
-      "reading_time_display": "10 minutes",
+      "word_count": 2842,
+      "reading_time_minutes": 11,
+      "reading_time_display": "11 minutes",
       "completed": false,
       "characters": []
     },
@@ -11829,9 +11829,9 @@
         "smoking, a lot of it"
       ],
       "nsfw": "no",
-      "word_count": 75424,
-      "reading_time_minutes": 377,
-      "reading_time_display": "6 hours and 17 minutes",
+      "word_count": 75589,
+      "reading_time_minutes": 302,
+      "reading_time_display": "5 hours and 2 minutes",
       "completed": true,
       "characters": [
         "Yui"
@@ -11886,9 +11886,9 @@
         "School setting"
       ],
       "nsfw": "no",
-      "word_count": 5759,
-      "reading_time_minutes": 29,
-      "reading_time_display": "29 minutes",
+      "word_count": 5767,
+      "reading_time_minutes": 23,
+      "reading_time_display": "23 minutes",
       "completed": false,
       "characters": []
     },
@@ -11988,9 +11988,9 @@
         "Multiple endings"
       ],
       "nsfw": "yes",
-      "word_count": 10220,
-      "reading_time_minutes": 51,
-      "reading_time_display": "51 minutes",
+      "word_count": 10230,
+      "reading_time_minutes": 41,
+      "reading_time_display": "41 minutes",
       "completed": true,
       "characters": [
         "John",
@@ -12094,9 +12094,9 @@
         "What tags would I even give this?"
       ],
       "nsfw": "unknown",
-      "word_count": 3856,
-      "reading_time_minutes": 19,
-      "reading_time_display": "19 minutes",
+      "word_count": 3858,
+      "reading_time_minutes": 15,
+      "reading_time_display": "15 minutes",
       "completed": true,
       "characters": []
     },
@@ -12151,9 +12151,9 @@
       ],
       "nsfw": "yes",
       "completed": false,
-      "word_count": 19112,
-      "reading_time_minutes": 96,
-      "reading_time_display": "1 hour and 36 minutes",
+      "word_count": 19155,
+      "reading_time_minutes": 77,
+      "reading_time_display": "1 hour and 17 minutes",
       "characters": []
     },
     "image": {
@@ -12250,8 +12250,8 @@
       "nsfw": "no",
       "completed": false,
       "word_count": 2107,
-      "reading_time_minutes": 11,
-      "reading_time_display": "11 minutes",
+      "reading_time_minutes": 8,
+      "reading_time_display": "8 minutes",
       "characters": [
         "John",
         "Mel"
@@ -12308,9 +12308,9 @@
         "Possession"
       ],
       "nsfw": "no",
-      "word_count": 30337,
-      "reading_time_minutes": 152,
-      "reading_time_display": "2 hours and 32 minutes",
+      "word_count": 30340,
+      "reading_time_minutes": 121,
+      "reading_time_display": "2 hours and 1 minute",
       "completed": false,
       "characters": []
     },
@@ -12365,9 +12365,9 @@
         "Possession"
       ],
       "nsfw": "yes",
-      "word_count": 8806,
-      "reading_time_minutes": 44,
-      "reading_time_display": "44 minutes",
+      "word_count": 8810,
+      "reading_time_minutes": 35,
+      "reading_time_display": "35 minutes",
       "completed": false,
       "characters": []
     },
@@ -12470,9 +12470,9 @@
         "Transformation"
       ],
       "nsfw": "yes",
-      "word_count": 49536,
-      "reading_time_minutes": 248,
-      "reading_time_display": "4 hours and 8 minutes",
+      "word_count": 49781,
+      "reading_time_minutes": 199,
+      "reading_time_display": "3 hours and 19 minutes",
       "completed": false,
       "characters": []
     },
@@ -12525,8 +12525,8 @@
       ],
       "nsfw": "no",
       "word_count": 10230,
-      "reading_time_minutes": 51,
-      "reading_time_display": "51 minutes",
+      "reading_time_minutes": 41,
+      "reading_time_display": "41 minutes",
       "completed": false,
       "characters": []
     },
@@ -12666,9 +12666,9 @@
         "Yuri"
       ],
       "nsfw": "yes",
-      "word_count": 2780,
-      "reading_time_minutes": 14,
-      "reading_time_display": "14 minutes",
+      "word_count": 2785,
+      "reading_time_minutes": 11,
+      "reading_time_display": "11 minutes",
       "completed": false,
       "characters": []
     },
@@ -12722,8 +12722,8 @@
       ],
       "nsfw": "yes",
       "word_count": 18941,
-      "reading_time_minutes": 95,
-      "reading_time_display": "1 hour and 35 minutes",
+      "reading_time_minutes": 76,
+      "reading_time_display": "1 hour and 16 minutes",
       "completed": true,
       "characters": []
     },
@@ -12869,8 +12869,8 @@
       ],
       "nsfw": "no",
       "word_count": 837,
-      "reading_time_minutes": 4,
-      "reading_time_display": "4 minutes",
+      "reading_time_minutes": 3,
+      "reading_time_display": "3 minutes",
       "completed": false,
       "characters": []
     },
@@ -12927,9 +12927,9 @@
         "Yuri"
       ],
       "nsfw": "yes",
-      "word_count": 36424,
-      "reading_time_minutes": 182,
-      "reading_time_display": "3 hours and 2 minutes",
+      "word_count": 36459,
+      "reading_time_minutes": 146,
+      "reading_time_display": "2 hours and 26 minutes",
       "completed": false,
       "characters": []
     },
@@ -12981,8 +12981,8 @@
       ],
       "nsfw": "yes",
       "word_count": 40022,
-      "reading_time_minutes": 200,
-      "reading_time_display": "3 hours and 20 minutes",
+      "reading_time_minutes": 160,
+      "reading_time_display": "2 hours and 40 minutes",
       "completed": false,
       "characters": [
         "Katrina",
@@ -13038,9 +13038,9 @@
         "School setting"
       ],
       "nsfw": "no",
-      "word_count": 9276,
-      "reading_time_minutes": 46,
-      "reading_time_display": "46 minutes",
+      "word_count": 9289,
+      "reading_time_minutes": 37,
+      "reading_time_display": "37 minutes",
       "completed": true,
       "characters": []
     },
@@ -13190,9 +13190,9 @@
       ],
       "nsfw": "yes",
       "completed": true,
-      "word_count": 6621,
-      "reading_time_minutes": 33,
-      "reading_time_display": "33 minutes"
+      "word_count": 6786,
+      "reading_time_minutes": 27,
+      "reading_time_display": "27 minutes"
     },
     "image": {
       "kind": "forum_image",
@@ -13370,9 +13370,9 @@
         "School setting"
       ],
       "nsfw": "yes",
-      "word_count": 31546,
-      "reading_time_minutes": 158,
-      "reading_time_display": "2 hours and 38 minutes",
+      "word_count": 31735,
+      "reading_time_minutes": 127,
+      "reading_time_display": "2 hours and 7 minutes",
       "completed": false,
       "characters": []
     },
@@ -13424,9 +13424,9 @@
         "Transformation"
       ],
       "nsfw": "yes",
-      "word_count": 45689,
-      "reading_time_minutes": 228,
-      "reading_time_display": "3 hours and 48 minutes",
+      "word_count": 45736,
+      "reading_time_minutes": 183,
+      "reading_time_display": "3 hours and 3 minutes",
       "completed": false,
       "characters": []
     },
@@ -13481,8 +13481,8 @@
       "nsfw": "no",
       "completed": false,
       "word_count": 8156,
-      "reading_time_minutes": 41,
-      "reading_time_display": "41 minutes",
+      "reading_time_minutes": 33,
+      "reading_time_display": "33 minutes",
       "characters": [
         "Abby"
       ]
@@ -13538,8 +13538,8 @@
       ],
       "nsfw": "yes",
       "word_count": 4368,
-      "reading_time_minutes": 22,
-      "reading_time_display": "22 minutes",
+      "reading_time_minutes": 17,
+      "reading_time_display": "17 minutes",
       "completed": true,
       "characters": []
     },
@@ -13641,9 +13641,9 @@
       ],
       "nsfw": "no",
       "completed": false,
-      "word_count": 124204,
-      "reading_time_minutes": 621,
-      "reading_time_display": "10 hours and 21 minutes",
+      "word_count": 124852,
+      "reading_time_minutes": 499,
+      "reading_time_display": "8 hours and 19 minutes",
       "characters": []
     },
     "image": {
@@ -13700,9 +13700,9 @@
         "Reality alteration"
       ],
       "nsfw": "yes",
-      "word_count": 78470,
-      "reading_time_minutes": 392,
-      "reading_time_display": "6 hours and 32 minutes",
+      "word_count": 78497,
+      "reading_time_minutes": 314,
+      "reading_time_display": "5 hours and 14 minutes",
       "completed": true,
       "characters": []
     },
@@ -13756,9 +13756,9 @@
         "Supernatural"
       ],
       "nsfw": "no",
-      "word_count": 4987,
-      "reading_time_minutes": 25,
-      "reading_time_display": "25 minutes",
+      "word_count": 5003,
+      "reading_time_minutes": 20,
+      "reading_time_display": "20 minutes",
       "completed": false,
       "characters": [
         "John",
@@ -13826,9 +13826,9 @@
       ],
       "nsfw": "unknown",
       "completed": true,
-      "word_count": 7144,
-      "reading_time_minutes": 36,
-      "reading_time_display": "36 minutes"
+      "word_count": 7175,
+      "reading_time_minutes": 29,
+      "reading_time_display": "29 minutes"
     },
     "image": {
       "kind": "forum_image",
@@ -13882,8 +13882,8 @@
       ],
       "nsfw": "yes",
       "word_count": 4671,
-      "reading_time_minutes": 23,
-      "reading_time_display": "23 minutes",
+      "reading_time_minutes": 19,
+      "reading_time_display": "19 minutes",
       "completed": true,
       "characters": [
         "Katrina",
@@ -13944,8 +13944,8 @@
       ],
       "nsfw": "yes",
       "word_count": 4308,
-      "reading_time_minutes": 22,
-      "reading_time_display": "22 minutes",
+      "reading_time_minutes": 17,
+      "reading_time_display": "17 minutes",
       "completed": true,
       "characters": [
         "Riley",
@@ -14031,9 +14031,9 @@
       ],
       "nsfw": "no",
       "completed": true,
-      "word_count": 5849,
-      "reading_time_minutes": 29,
-      "reading_time_display": "29 minutes"
+      "word_count": 5889,
+      "reading_time_minutes": 24,
+      "reading_time_display": "24 minutes"
     },
     "image": {
       "kind": "forum_image",
@@ -14093,9 +14093,9 @@
       ],
       "nsfw": "yes",
       "completed": true,
-      "word_count": 9719,
-      "reading_time_minutes": 49,
-      "reading_time_display": "49 minutes"
+      "word_count": 9731,
+      "reading_time_minutes": 39,
+      "reading_time_display": "39 minutes"
     },
     "image": {
       "kind": "forum_image",
@@ -14151,8 +14151,8 @@
       ],
       "nsfw": "no",
       "word_count": 5044,
-      "reading_time_minutes": 25,
-      "reading_time_display": "25 minutes",
+      "reading_time_minutes": 20,
+      "reading_time_display": "20 minutes",
       "completed": false,
       "characters": [
         "John",
@@ -14226,9 +14226,9 @@
       ],
       "nsfw": "unknown",
       "completed": true,
-      "word_count": 99037,
-      "reading_time_minutes": 495,
-      "reading_time_display": "8 hours and 15 minutes"
+      "word_count": 101947,
+      "reading_time_minutes": 408,
+      "reading_time_display": "6 hours and 48 minutes"
     },
     "image": {
       "kind": "forum_image",
@@ -14292,9 +14292,9 @@
       ],
       "nsfw": "no",
       "completed": false,
-      "word_count": 13592,
-      "reading_time_minutes": 68,
-      "reading_time_display": "1 hour and 8 minutes"
+      "word_count": 13616,
+      "reading_time_minutes": 54,
+      "reading_time_display": "54 minutes"
     },
     "image": {
       "kind": "placeholder",
@@ -14361,8 +14361,8 @@
       "nsfw": "no",
       "completed": false,
       "word_count": 11988,
-      "reading_time_minutes": 60,
-      "reading_time_display": "1 hour"
+      "reading_time_minutes": 48,
+      "reading_time_display": "48 minutes"
     },
     "image": {
       "kind": "forum_image",
@@ -14415,9 +14415,9 @@
         "Reality alteration"
       ],
       "nsfw": "no",
-      "word_count": 4244,
-      "reading_time_minutes": 21,
-      "reading_time_display": "21 minutes",
+      "word_count": 4284,
+      "reading_time_minutes": 17,
+      "reading_time_display": "17 minutes",
       "completed": true,
       "characters": [
         "John",
@@ -14480,9 +14480,9 @@
       ],
       "nsfw": "no",
       "completed": true,
-      "word_count": 7353,
-      "reading_time_minutes": 37,
-      "reading_time_display": "37 minutes"
+      "word_count": 7489,
+      "reading_time_minutes": 30,
+      "reading_time_display": "30 minutes"
     },
     "image": {
       "kind": "placeholder",
@@ -14534,8 +14534,8 @@
       ],
       "nsfw": "no",
       "word_count": 3471,
-      "reading_time_minutes": 17,
-      "reading_time_display": "17 minutes",
+      "reading_time_minutes": 14,
+      "reading_time_display": "14 minutes",
       "completed": true,
       "characters": [
         "Riley"
@@ -14603,9 +14603,9 @@
       ],
       "nsfw": "yes",
       "completed": true,
-      "word_count": 7382,
-      "reading_time_minutes": 37,
-      "reading_time_display": "37 minutes"
+      "word_count": 7385,
+      "reading_time_minutes": 30,
+      "reading_time_display": "30 minutes"
     },
     "image": {
       "kind": "scenario_banner",
@@ -14671,9 +14671,9 @@
       ],
       "nsfw": "no",
       "completed": true,
-      "word_count": 4979,
-      "reading_time_minutes": 25,
-      "reading_time_display": "25 minutes"
+      "word_count": 5619,
+      "reading_time_minutes": 22,
+      "reading_time_display": "22 minutes"
     },
     "image": {
       "kind": "forum_image",
@@ -14718,14 +14718,14 @@
         "Body swapping",
         "Female-to-male",
         "Male-to-female",
+        "Suspense",
         "Perception alteration",
-        "Rainy season",
-        "Suspense"
+        "Rainy season"
       ],
       "nsfw": "unknown",
-      "word_count": 52327,
-      "reading_time_minutes": 262,
-      "reading_time_display": "4 hours and 22 minutes",
+      "word_count": 52452,
+      "reading_time_minutes": 210,
+      "reading_time_display": "3 hours and 30 minutes",
       "completed": false,
       "characters": []
     },
@@ -14832,8 +14832,8 @@
       "nsfw": "no",
       "completed": false,
       "word_count": 3173,
-      "reading_time_minutes": 16,
-      "reading_time_display": "16 minutes"
+      "reading_time_minutes": 13,
+      "reading_time_display": "13 minutes"
     },
     "image": {
       "kind": "placeholder",
@@ -14891,9 +14891,9 @@
         "story preview"
       ],
       "nsfw": "no",
-      "word_count": 5836,
-      "reading_time_minutes": 29,
-      "reading_time_display": "29 minutes",
+      "word_count": 5925,
+      "reading_time_minutes": 24,
+      "reading_time_display": "24 minutes",
       "completed": false,
       "characters": [
         "Abby",
@@ -15033,9 +15033,9 @@
       ],
       "nsfw": "yes",
       "completed": false,
-      "word_count": 17122,
-      "reading_time_minutes": 86,
-      "reading_time_display": "1 hour and 26 minutes"
+      "word_count": 17194,
+      "reading_time_minutes": 69,
+      "reading_time_display": "1 hour and 9 minutes"
     },
     "image": {
       "kind": "placeholder",
@@ -15164,8 +15164,8 @@
       "nsfw": "no",
       "completed": true,
       "word_count": 1281,
-      "reading_time_minutes": 6,
-      "reading_time_display": "6 minutes"
+      "reading_time_minutes": 5,
+      "reading_time_display": "5 minutes"
     },
     "image": {
       "kind": "placeholder",
@@ -15221,9 +15221,9 @@
         "Slice of Life"
       ],
       "nsfw": "no",
-      "word_count": 20434,
-      "reading_time_minutes": 102,
-      "reading_time_display": "1 hour and 42 minutes",
+      "word_count": 20473,
+      "reading_time_minutes": 82,
+      "reading_time_display": "1 hour and 22 minutes",
       "completed": false,
       "characters": [
         "John",
@@ -15294,8 +15294,8 @@
       "nsfw": "no",
       "completed": false,
       "word_count": 745,
-      "reading_time_minutes": 4,
-      "reading_time_display": "4 minutes"
+      "reading_time_minutes": 3,
+      "reading_time_display": "3 minutes"
     },
     "image": {
       "kind": "placeholder",
@@ -15352,9 +15352,9 @@
       ],
       "nsfw": "no",
       "completed": false,
-      "word_count": 10464,
-      "reading_time_minutes": 52,
-      "reading_time_display": "52 minutes"
+      "word_count": 10482,
+      "reading_time_minutes": 42,
+      "reading_time_display": "42 minutes"
     },
     "image": {
       "kind": "forum_image",
@@ -15418,9 +15418,9 @@
       ],
       "nsfw": "unknown",
       "completed": false,
-      "word_count": 28063,
-      "reading_time_minutes": 140,
-      "reading_time_display": "2 hours and 20 minutes"
+      "word_count": 28367,
+      "reading_time_minutes": 113,
+      "reading_time_display": "1 hour and 53 minutes"
     },
     "image": {
       "kind": "forum_image",
@@ -15483,9 +15483,9 @@
       ],
       "nsfw": "no",
       "completed": true,
-      "word_count": 14157,
-      "reading_time_minutes": 71,
-      "reading_time_display": "1 hour and 11 minutes"
+      "word_count": 15274,
+      "reading_time_minutes": 61,
+      "reading_time_display": "1 hour and 1 minute"
     },
     "image": {
       "kind": "forum_image",
@@ -15545,9 +15545,9 @@
         "selfcest"
       ],
       "nsfw": "yes",
-      "word_count": 15116,
-      "reading_time_minutes": 76,
-      "reading_time_display": "1 hour and 16 minutes",
+      "word_count": 15141,
+      "reading_time_minutes": 61,
+      "reading_time_display": "1 hour and 1 minute",
       "completed": true,
       "characters": [
         "John",
@@ -15633,9 +15633,9 @@
       ],
       "nsfw": "no",
       "completed": false,
-      "word_count": 16433,
-      "reading_time_minutes": 82,
-      "reading_time_display": "1 hour and 22 minutes"
+      "word_count": 16434,
+      "reading_time_minutes": 66,
+      "reading_time_display": "1 hour and 6 minutes"
     },
     "image": {
       "kind": "placeholder",
@@ -15697,9 +15697,9 @@
       ],
       "nsfw": "no",
       "completed": true,
-      "word_count": 4198,
-      "reading_time_minutes": 21,
-      "reading_time_display": "21 minutes"
+      "word_count": 4199,
+      "reading_time_minutes": 17,
+      "reading_time_display": "17 minutes"
     },
     "image": {
       "kind": "placeholder",
@@ -15750,9 +15750,9 @@
         "Transformation"
       ],
       "nsfw": "yes",
-      "word_count": 7145,
-      "reading_time_minutes": 36,
-      "reading_time_display": "36 minutes",
+      "word_count": 7147,
+      "reading_time_minutes": 29,
+      "reading_time_display": "29 minutes",
       "completed": false,
       "characters": []
     },
@@ -15813,9 +15813,9 @@
       ],
       "nsfw": "no",
       "completed": false,
-      "word_count": 11879,
-      "reading_time_minutes": 59,
-      "reading_time_display": "59 minutes"
+      "word_count": 11915,
+      "reading_time_minutes": 48,
+      "reading_time_display": "48 minutes"
     },
     "image": {
       "kind": "forum_image",
@@ -15885,9 +15885,9 @@
       ],
       "nsfw": "yes",
       "completed": false,
-      "word_count": 22105,
-      "reading_time_minutes": 111,
-      "reading_time_display": "1 hour and 51 minutes"
+      "word_count": 22201,
+      "reading_time_minutes": 89,
+      "reading_time_display": "1 hour and 29 minutes"
     },
     "image": {
       "kind": "placeholder",
@@ -15946,9 +15946,9 @@
       ],
       "nsfw": "no",
       "completed": false,
-      "word_count": 3658,
-      "reading_time_minutes": 18,
-      "reading_time_display": "18 minutes"
+      "word_count": 3660,
+      "reading_time_minutes": 15,
+      "reading_time_display": "15 minutes"
     },
     "image": {
       "kind": "placeholder",
@@ -16008,9 +16008,9 @@
       ],
       "nsfw": "no",
       "completed": true,
-      "word_count": 2788,
-      "reading_time_minutes": 14,
-      "reading_time_display": "14 minutes"
+      "word_count": 2804,
+      "reading_time_minutes": 11,
+      "reading_time_display": "11 minutes"
     },
     "image": {
       "kind": "placeholder",
@@ -16100,9 +16100,9 @@
       ],
       "nsfw": "no",
       "completed": false,
-      "word_count": 8171,
-      "reading_time_minutes": 41,
-      "reading_time_display": "41 minutes"
+      "word_count": 19878,
+      "reading_time_minutes": 80,
+      "reading_time_display": "1 hour and 20 minutes"
     },
     "image": {
       "kind": "forum_image",
@@ -16173,9 +16173,9 @@
       ],
       "nsfw": "no",
       "completed": false,
-      "word_count": 7121,
-      "reading_time_minutes": 36,
-      "reading_time_display": "36 minutes"
+      "word_count": 7184,
+      "reading_time_minutes": 29,
+      "reading_time_display": "29 minutes"
     },
     "image": {
       "kind": "forum_image",
@@ -16227,9 +16227,9 @@
         "Transformation"
       ],
       "nsfw": "no",
-      "word_count": 4316,
-      "reading_time_minutes": 22,
-      "reading_time_display": "22 minutes",
+      "word_count": 4344,
+      "reading_time_minutes": 17,
+      "reading_time_display": "17 minutes",
       "completed": true,
       "characters": [
         "John",
@@ -16296,9 +16296,9 @@
         "School setting"
       ],
       "nsfw": "no",
-      "word_count": 7243,
-      "reading_time_minutes": 36,
-      "reading_time_display": "36 minutes",
+      "word_count": 7244,
+      "reading_time_minutes": 29,
+      "reading_time_display": "29 minutes",
       "completed": false,
       "characters": []
     },
@@ -16366,9 +16366,9 @@
       ],
       "nsfw": "unknown",
       "completed": true,
-      "word_count": 13289,
-      "reading_time_minutes": 66,
-      "reading_time_display": "1 hour and 6 minutes"
+      "word_count": 13340,
+      "reading_time_minutes": 53,
+      "reading_time_display": "53 minutes"
     },
     "image": {
       "kind": "forum_image",
@@ -16433,9 +16433,9 @@
       ],
       "nsfw": "no",
       "completed": false,
-      "word_count": 28924,
-      "reading_time_minutes": 145,
-      "reading_time_display": "2 hours and 25 minutes"
+      "word_count": 28940,
+      "reading_time_minutes": 116,
+      "reading_time_display": "1 hour and 56 minutes"
     },
     "image": {
       "kind": "placeholder",
@@ -16492,8 +16492,8 @@
       "nsfw": "no",
       "completed": false,
       "word_count": 5186,
-      "reading_time_minutes": 26,
-      "reading_time_display": "26 minutes"
+      "reading_time_minutes": 21,
+      "reading_time_display": "21 minutes"
     },
     "image": {
       "kind": "placeholder",
@@ -16547,9 +16547,9 @@
         "Twinning"
       ],
       "nsfw": "no",
-      "word_count": 35755,
-      "reading_time_minutes": 179,
-      "reading_time_display": "2 hours and 59 minutes",
+      "word_count": 36246,
+      "reading_time_minutes": 145,
+      "reading_time_display": "2 hours and 25 minutes",
       "completed": true,
       "characters": [
         "John",
@@ -16624,9 +16624,9 @@
       ],
       "nsfw": "unknown",
       "completed": false,
-      "word_count": 15970,
-      "reading_time_minutes": 80,
-      "reading_time_display": "1 hour and 20 minutes"
+      "word_count": 15971,
+      "reading_time_minutes": 64,
+      "reading_time_display": "1 hour and 4 minutes"
     },
     "image": {
       "kind": "forum_image",
@@ -16687,9 +16687,9 @@
       ],
       "nsfw": "no",
       "completed": true,
-      "word_count": 10365,
-      "reading_time_minutes": 52,
-      "reading_time_display": "52 minutes"
+      "word_count": 14196,
+      "reading_time_minutes": 57,
+      "reading_time_display": "57 minutes"
     },
     "image": {
       "kind": "forum_image",
@@ -16747,10 +16747,10 @@
         "Maria"
       ],
       "nsfw": "no",
-      "completed": false,
-      "word_count": 0,
-      "reading_time_minutes": 0,
-      "reading_time_display": "0 minutes"
+      "completed": true,
+      "word_count": 1757,
+      "reading_time_minutes": 7,
+      "reading_time_display": "7 minutes"
     },
     "image": {
       "kind": "forum_image",
@@ -16810,8 +16810,8 @@
       "nsfw": "yes",
       "completed": false,
       "word_count": 7699,
-      "reading_time_minutes": 38,
-      "reading_time_display": "38 minutes"
+      "reading_time_minutes": 31,
+      "reading_time_display": "31 minutes"
     },
     "image": {
       "kind": "scenario_banner",
@@ -16869,9 +16869,9 @@
         "Slime girl"
       ],
       "nsfw": "yes",
-      "word_count": 99787,
-      "reading_time_minutes": 499,
-      "reading_time_display": "8 hours and 19 minutes",
+      "word_count": 100612,
+      "reading_time_minutes": 402,
+      "reading_time_display": "6 hours and 42 minutes",
       "completed": false,
       "characters": []
     },
@@ -16928,9 +16928,9 @@
         "Transformation"
       ],
       "nsfw": "unknown",
-      "word_count": 12093,
-      "reading_time_minutes": 60,
-      "reading_time_display": "1 hour",
+      "word_count": 12441,
+      "reading_time_minutes": 50,
+      "reading_time_display": "50 minutes",
       "completed": true,
       "characters": [
         "Abby",
@@ -17005,9 +17005,9 @@
       "characters": [],
       "nsfw": "no",
       "completed": true,
-      "word_count": 44369,
-      "reading_time_minutes": 222,
-      "reading_time_display": "3 hours and 42 minutes"
+      "word_count": 45041,
+      "reading_time_minutes": 180,
+      "reading_time_display": "3 hours"
     },
     "image": {
       "kind": "forum_image",
@@ -17058,7 +17058,7 @@
         "Short"
       ],
       "nsfw": "no",
-      "word_count": 619,
+      "word_count": 641,
       "reading_time_minutes": 3,
       "reading_time_display": "3 minutes",
       "completed": true,
@@ -17133,8 +17133,8 @@
       "nsfw": "no",
       "completed": false,
       "word_count": 28351,
-      "reading_time_minutes": 142,
-      "reading_time_display": "2 hours and 22 minutes"
+      "reading_time_minutes": 113,
+      "reading_time_display": "1 hour and 53 minutes"
     },
     "image": {
       "kind": "forum_image",
@@ -17185,9 +17185,9 @@
         "Transformation"
       ],
       "nsfw": "no",
-      "word_count": 3024,
-      "reading_time_minutes": 15,
-      "reading_time_display": "15 minutes",
+      "word_count": 3128,
+      "reading_time_minutes": 13,
+      "reading_time_display": "13 minutes",
       "completed": true,
       "characters": [
         "Abby",
@@ -17278,9 +17278,9 @@
       ],
       "nsfw": "no",
       "completed": false,
-      "word_count": 7517,
-      "reading_time_minutes": 38,
-      "reading_time_display": "38 minutes"
+      "word_count": 7543,
+      "reading_time_minutes": 30,
+      "reading_time_display": "30 minutes"
     },
     "image": {
       "kind": "placeholder",
@@ -17334,9 +17334,9 @@
       "characters": [],
       "nsfw": "no",
       "completed": true,
-      "word_count": 102,
-      "reading_time_minutes": 1,
-      "reading_time_display": "1 minute"
+      "word_count": 117,
+      "reading_time_minutes": 0,
+      "reading_time_display": "0 minutes"
     },
     "image": {
       "kind": "placeholder",
@@ -17386,9 +17386,9 @@
         "Reality alteration"
       ],
       "nsfw": "no",
-      "word_count": 8695,
-      "reading_time_minutes": 43,
-      "reading_time_display": "43 minutes",
+      "word_count": 8855,
+      "reading_time_minutes": 35,
+      "reading_time_display": "35 minutes",
       "completed": true,
       "characters": []
     },
@@ -17442,8 +17442,8 @@
       ],
       "nsfw": "no",
       "word_count": 5218,
-      "reading_time_minutes": 26,
-      "reading_time_display": "26 minutes",
+      "reading_time_minutes": 21,
+      "reading_time_display": "21 minutes",
       "completed": false,
       "characters": [
         "John"
@@ -17559,9 +17559,9 @@
       ],
       "nsfw": "no",
       "completed": true,
-      "word_count": 33643,
-      "reading_time_minutes": 168,
-      "reading_time_display": "2 hours and 48 minutes"
+      "word_count": 33661,
+      "reading_time_minutes": 135,
+      "reading_time_display": "2 hours and 15 minutes"
     },
     "image": {
       "kind": "forum_image",
@@ -17619,9 +17619,9 @@
       ],
       "nsfw": "no",
       "completed": true,
-      "word_count": 9279,
-      "reading_time_minutes": 46,
-      "reading_time_display": "46 minutes"
+      "word_count": 9287,
+      "reading_time_minutes": 37,
+      "reading_time_display": "37 minutes"
     },
     "image": {
       "kind": "forum_image",
@@ -17674,8 +17674,8 @@
       ],
       "nsfw": "no",
       "word_count": 9149,
-      "reading_time_minutes": 46,
-      "reading_time_display": "46 minutes",
+      "reading_time_minutes": 37,
+      "reading_time_display": "37 minutes",
       "completed": false,
       "characters": [
         "John",
@@ -17748,8 +17748,8 @@
       "nsfw": "no",
       "completed": true,
       "word_count": 10089,
-      "reading_time_minutes": 50,
-      "reading_time_display": "50 minutes"
+      "reading_time_minutes": 40,
+      "reading_time_display": "40 minutes"
     },
     "image": {
       "kind": "scenario_banner",
@@ -17803,9 +17803,9 @@
         "ST Scenario Jam II"
       ],
       "nsfw": "no",
-      "word_count": 11267,
-      "reading_time_minutes": 56,
-      "reading_time_display": "56 minutes",
+      "word_count": 11332,
+      "reading_time_minutes": 45,
+      "reading_time_display": "45 minutes",
       "completed": true,
       "characters": [
         "John",
@@ -17863,9 +17863,9 @@
         "Strong language"
       ],
       "nsfw": "no",
-      "word_count": 2947,
-      "reading_time_minutes": 15,
-      "reading_time_display": "15 minutes",
+      "word_count": 2973,
+      "reading_time_minutes": 12,
+      "reading_time_display": "12 minutes",
       "completed": false,
       "characters": [
         "Katrina"
@@ -17915,9 +17915,9 @@
         "Transformation"
       ],
       "nsfw": "unknown",
-      "word_count": 1108,
-      "reading_time_minutes": 6,
-      "reading_time_display": "6 minutes",
+      "word_count": 1172,
+      "reading_time_minutes": 5,
+      "reading_time_display": "5 minutes",
       "completed": false,
       "characters": []
     },
@@ -17968,9 +17968,9 @@
         "Strategy fighting mini game"
       ],
       "nsfw": "unknown",
-      "word_count": 62524,
-      "reading_time_minutes": 313,
-      "reading_time_display": "5 hours and 13 minutes",
+      "word_count": 67119,
+      "reading_time_minutes": 268,
+      "reading_time_display": "4 hours and 28 minutes",
       "completed": false,
       "characters": []
     },
@@ -18027,9 +18027,9 @@
         "Yandere"
       ],
       "nsfw": "no",
-      "word_count": 9825,
-      "reading_time_minutes": 49,
-      "reading_time_display": "49 minutes",
+      "word_count": 12898,
+      "reading_time_minutes": 52,
+      "reading_time_display": "52 minutes",
       "completed": true,
       "characters": [
         "Carrie",
@@ -18092,9 +18092,9 @@
         "Virtual reality"
       ],
       "nsfw": "no",
-      "word_count": 7105,
-      "reading_time_minutes": 36,
-      "reading_time_display": "36 minutes",
+      "word_count": 7155,
+      "reading_time_minutes": 29,
+      "reading_time_display": "29 minutes",
       "completed": false,
       "characters": []
     },
@@ -19550,9 +19550,9 @@
       ],
       "nsfw": "no",
       "completed": false,
-      "word_count": 25986,
-      "reading_time_minutes": 130,
-      "reading_time_display": "2 hours and 10 minutes"
+      "word_count": 26088,
+      "reading_time_minutes": 104,
+      "reading_time_display": "1 hour and 44 minutes"
     },
     "image": {
       "kind": "forum_image",
@@ -19608,8 +19608,8 @@
       ],
       "nsfw": "yes",
       "word_count": 6598,
-      "reading_time_minutes": 33,
-      "reading_time_display": "33 minutes",
+      "reading_time_minutes": 26,
+      "reading_time_display": "26 minutes",
       "completed": false,
       "characters": [
         "Nemuri",
@@ -19851,9 +19851,9 @@
         "Supernatural"
       ],
       "nsfw": "no",
-      "word_count": 795,
-      "reading_time_minutes": 4,
-      "reading_time_display": "4 minutes",
+      "word_count": 796,
+      "reading_time_minutes": 3,
+      "reading_time_display": "3 minutes",
       "completed": false,
       "characters": [
         "John",
@@ -19909,9 +19909,9 @@
         "Transformation"
       ],
       "nsfw": "yes",
-      "word_count": 50678,
-      "reading_time_minutes": 253,
-      "reading_time_display": "4 hours and 13 minutes",
+      "word_count": 51045,
+      "reading_time_minutes": 204,
+      "reading_time_display": "3 hours and 24 minutes",
       "completed": false,
       "characters": []
     },
@@ -19962,9 +19962,9 @@
         "Workplace drama"
       ],
       "nsfw": "yes",
-      "word_count": 24169,
-      "reading_time_minutes": 121,
-      "reading_time_display": "2 hours and 1 minute",
+      "word_count": 24294,
+      "reading_time_minutes": 97,
+      "reading_time_display": "1 hour and 37 minutes",
       "completed": false,
       "characters": []
     },
