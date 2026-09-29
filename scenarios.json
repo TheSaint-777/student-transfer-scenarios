@@ -449,56 +449,6 @@
     }
   },
   {
-    "id": "cal-vs-carrie-6d136e60a7",
-    "title": "Cal vs. Carrie",
-    "authors": [
-      "The7Saint7"
-    ],
-    "description": "A comedic meta-scenario in which Carrie's wish for control over her fate triggers a body swap with the scenario's author, letting her rewrite events while he struggles with life inside the visual novel.",
-    "dates": {
-      "published": null,
-      "updated": null,
-      "last_checked": null
-    },
-    "source": {
-      "forum_url": null,
-      "forum_topic_id": null,
-      "download_url": null,
-      "link_status": "unknown"
-    },
-    "release": {
-      "scenario_version": "1.0.0",
-      "target_st_version": null,
-      "package_version": "1.0.0"
-    },
-    "content": {
-      "tags": [
-        "Body swapping",
-        "Comedy",
-        "Explicit sex",
-        "Gender transformation",
-        "Mind control",
-        "Metafiction",
-        "Reality alteration"
-      ],
-      "nsfw": "yes",
-      "word_count": 4368,
-      "reading_time_minutes": 22,
-      "reading_time_display": "22 minutes",
-      "completed": true,
-      "characters": []
-    },
-    "image": {
-      "kind": "scenario_banner",
-      "path": "images/cal-vs-carrie-6d136e60a7.png",
-      "source_url": null
-    },
-    "availability": {
-      "archive_available": true,
-      "link_status": "unknown"
-    }
-  },
-  {
     "id": "careless-wish-8fdfb8e13d",
     "title": "Careless Wish",
     "authors": [
@@ -3246,69 +3196,6 @@
     }
   },
   {
-    "id": "remote-control-fun-3335ecb751",
-    "title": "Remote Control Fun",
-    "authors": [
-      "Paulbert"
-    ],
-    "description": "John experiments with the remote shortly after discovering it, setting off a branching series of temporary gender changes, body swaps, possession, and mind-control mishaps involving his friends and classmates.",
-    "dates": {
-      "published": null,
-      "updated": null,
-      "last_checked": null
-    },
-    "source": {
-      "forum_url": null,
-      "forum_topic_id": null,
-      "download_url": null,
-      "link_status": "unknown"
-    },
-    "release": {
-      "scenario_version": "1.0.0",
-      "target_st_version": null,
-      "package_version": "1.0.0"
-    },
-    "content": {
-      "tags": [
-        "Alien technology",
-        "Body swapping",
-        "Body swaps",
-        "Branching paths",
-        "device",
-        "Gender transformation",
-        "Mind control",
-        "non permanent",
-        "Nudity",
-        "Possession",
-        "Transformation"
-      ],
-      "characters": [
-        "John",
-        "Kiyoshi",
-        "Allison",
-        "Irene",
-        "Yui",
-        "Katrina",
-        "Kyoko",
-        "Riley"
-      ],
-      "nsfw": "unknown",
-      "completed": false,
-      "word_count": 15970,
-      "reading_time_minutes": 80,
-      "reading_time_display": "1 hour and 20 minutes"
-    },
-    "image": {
-      "kind": "placeholder",
-      "path": null,
-      "source_url": null
-    },
-    "availability": {
-      "archive_available": true,
-      "link_status": "unknown"
-    }
-  },
-  {
     "id": "robot-kat-7a9655cbac",
     "title": "Robot Kat",
     "authors": [
@@ -3952,56 +3839,6 @@
     }
   },
   {
-    "id": "terms-of-service-575e3f5be3",
-    "title": "Terms of Service",
-    "authors": [
-      "The7Saint7"
-    ],
-    "description": "A short interactive gag that traps the player in an endlessly expanding terms-of-service screen before resolving their choice to accept or refuse.",
-    "dates": {
-      "published": null,
-      "updated": null,
-      "last_checked": null
-    },
-    "source": {
-      "forum_url": null,
-      "forum_topic_id": null,
-      "download_url": null,
-      "link_status": "unknown"
-    },
-    "release": {
-      "scenario_version": "1.0.0",
-      "target_st_version": null,
-      "package_version": "1.0.0"
-    },
-    "content": {
-      "tags": [
-        "Acceptance",
-        "Branching paths",
-        "Comedy",
-        "Denial",
-        "Metafiction",
-        "Scrolling",
-        "Short"
-      ],
-      "characters": [],
-      "nsfw": "no",
-      "completed": true,
-      "word_count": 102,
-      "reading_time_minutes": 1,
-      "reading_time_display": "1 minute"
-    },
-    "image": {
-      "kind": "placeholder",
-      "path": null,
-      "source_url": null
-    },
-    "availability": {
-      "archive_available": true,
-      "link_status": "unknown"
-    }
-  },
-  {
     "id": "the-gyaru-college-life-39f85622aa",
     "title": "The gyaru college life",
     "authors": [
@@ -4420,7 +4257,7 @@
   },
   {
     "id": "topic-10044-library-antics",
-    "title": "Library Antics",
+    "title": "Library Antics for ST",
     "authors": [
       "ZeBeste"
     ],
@@ -4428,7 +4265,7 @@
     "dates": {
       "published": "2017-09-03T03:28:00",
       "updated": "2019-10-29T22:57:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:22-04:00",
       "title_date": null
     },
     "source": {
@@ -4497,7 +4334,7 @@
     "dates": {
       "published": "2017-10-02T01:59:00",
       "updated": "2021-03-16T22:57:00",
-      "last_checked": "2026-09-28T21:07:38-04:00"
+      "last_checked": "2026-09-28T21:23:22-04:00"
     },
     "source": {
       "forum_url": "https://tfgames.site/phpbb3/viewtopic.php?t=10167",
@@ -4539,7 +4376,7 @@
     "dates": {
       "published": "2017-10-02T01:59:00",
       "updated": "2021-03-16T22:57:00",
-      "last_checked": "2026-09-28T21:07:38-04:00"
+      "last_checked": "2026-09-28T21:23:22-04:00"
     },
     "source": {
       "forum_url": "https://tfgames.site/phpbb3/viewtopic.php?t=10167",
@@ -4581,7 +4418,7 @@
     "dates": {
       "published": "2017-10-02T01:59:00",
       "updated": "2021-03-16T22:57:00",
-      "last_checked": "2026-09-28T21:07:38-04:00"
+      "last_checked": "2026-09-28T21:23:22-04:00"
     },
     "source": {
       "forum_url": "https://tfgames.site/phpbb3/viewtopic.php?t=10167",
@@ -4623,7 +4460,7 @@
     "dates": {
       "published": "2017-10-02T01:59:00",
       "updated": "2021-03-16T22:57:00",
-      "last_checked": "2026-09-28T21:07:38-04:00"
+      "last_checked": "2026-09-28T21:23:22-04:00"
     },
     "source": {
       "forum_url": "https://tfgames.site/phpbb3/viewtopic.php?t=10167",
@@ -4673,7 +4510,7 @@
     "dates": {
       "published": "2017-10-21T21:32:00",
       "updated": "2017-10-26T01:15:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:22-04:00",
       "title_date": "10/21/17"
     },
     "source": {
@@ -4718,7 +4555,7 @@
     "dates": {
       "published": "2017-10-30T18:53:00",
       "updated": "2019-07-23T23:39:00",
-      "last_checked": "2026-09-28T21:07:38-04:00"
+      "last_checked": "2026-09-28T21:23:22-04:00"
     },
     "source": {
       "forum_url": "https://tfgames.site/phpbb3/viewtopic.php?t=10285",
@@ -4760,7 +4597,7 @@
     "dates": {
       "published": "2017-10-30T18:53:00",
       "updated": "2019-07-23T23:39:00",
-      "last_checked": "2026-09-28T21:07:38-04:00"
+      "last_checked": "2026-09-28T21:23:22-04:00"
     },
     "source": {
       "forum_url": "https://tfgames.site/phpbb3/viewtopic.php?t=10285",
@@ -4802,7 +4639,7 @@
     "dates": {
       "published": "2017-11-25T21:20:00",
       "updated": "2017-11-25T23:17:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:22-04:00",
       "title_date": "11/25/17"
     },
     "source": {
@@ -4839,7 +4676,7 @@
   },
   {
     "id": "topic-10516-harem1-9-04-26-2018",
-    "title": "Harem1.9",
+    "title": "Harem",
     "authors": [
       "GeraltDeRives"
     ],
@@ -4847,7 +4684,7 @@
     "dates": {
       "published": "2017-12-24T07:28:00",
       "updated": "2018-06-10T03:21:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:22-04:00",
       "title_date": "04/26/2018"
     },
     "source": {
@@ -4858,9 +4695,9 @@
       "forum_title": "[Scenario] Harem1.9 (04/26/2018)"
     },
     "release": {
-      "scenario_version": "1.8",
+      "scenario_version": "1.9",
       "target_st_version": "3.1",
-      "advertised_version": null,
+      "advertised_version": "1.9",
       "status": null,
       "package_version": "1.8"
     },
@@ -4934,7 +4771,7 @@
     "dates": {
       "published": "2018-01-29T07:56:00",
       "updated": "2019-03-13T21:33:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:22-04:00",
       "title_date": null
     },
     "source": {
@@ -4979,7 +4816,7 @@
     "dates": {
       "published": "2018-03-12T04:28:00",
       "updated": "2018-04-10T17:13:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:22-04:00",
       "title_date": null
     },
     "source": {
@@ -5024,7 +4861,7 @@
     "dates": {
       "published": "2018-03-29T06:33:00",
       "updated": "2018-04-10T17:14:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:22-04:00",
       "title_date": null
     },
     "source": {
@@ -5061,7 +4898,7 @@
   },
   {
     "id": "topic-11013-odds-and-ends",
-    "title": "Odds and Ends",
+    "title": "Odds and Ends ST V4.1 compatible",
     "authors": [
       "Vuanaunt"
     ],
@@ -5069,7 +4906,7 @@
     "dates": {
       "published": "2018-04-10T19:55:00",
       "updated": "2019-03-08T19:48:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:22-04:00",
       "title_date": null
     },
     "source": {
@@ -5124,7 +4961,7 @@
     "dates": {
       "published": "2018-04-12T12:55:00",
       "updated": "2019-03-18T13:04:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:22-04:00",
       "title_date": null
     },
     "source": {
@@ -5179,7 +5016,7 @@
     "dates": {
       "published": "2018-04-29T05:47:00",
       "updated": "2018-05-02T10:56:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:22-04:00",
       "title_date": "01/05/2018"
     },
     "source": {
@@ -5190,9 +5027,9 @@
       "forum_title": "[Scenario] Forced0.4.1 (01/05/2018)"
     },
     "release": {
-      "scenario_version": "0.4",
+      "scenario_version": "0.4.1",
       "target_st_version": "3.1",
-      "advertised_version": null,
+      "advertised_version": "0.4.1",
       "status": null,
       "package_version": "0.4"
     },
@@ -5234,7 +5071,7 @@
     "dates": {
       "published": "2018-04-30T07:11:00",
       "updated": "2018-06-22T11:43:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:22-04:00",
       "title_date": null
     },
     "source": {
@@ -5279,7 +5116,7 @@
     "dates": {
       "published": "2018-05-08T00:32:00",
       "updated": "2018-05-08T17:38:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:22-04:00",
       "title_date": null
     },
     "source": {
@@ -5330,7 +5167,7 @@
     "dates": {
       "published": "2018-05-17T01:02:00",
       "updated": "2018-05-17T01:02:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:22-04:00",
       "title_date": null
     },
     "source": {
@@ -5385,7 +5222,7 @@
     "dates": {
       "published": "2018-05-22T12:25:00",
       "updated": "2023-07-23T12:08:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:22-04:00",
       "title_date": null
     },
     "source": {
@@ -5430,7 +5267,7 @@
     "dates": {
       "published": "2018-05-27T15:41:00",
       "updated": "2019-06-22T08:09:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:22-04:00",
       "title_date": null
     },
     "source": {
@@ -5467,7 +5304,7 @@
   },
   {
     "id": "topic-11246-yui-spellbook-continuation",
-    "title": "Yui Spellbook continuation",
+    "title": "Yui Spellbook - Continuation of the main story (v",
     "authors": [
       "Applemelon"
     ],
@@ -5475,7 +5312,7 @@
     "dates": {
       "published": "2018-06-09T14:52:00",
       "updated": "2021-03-08T19:16:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:22-04:00",
       "title_date": null
     },
     "source": {
@@ -5486,9 +5323,9 @@
       "forum_title": "[Scenario] Yui Spellbook - Continuation of the main story (v.2.0)"
     },
     "release": {
-      "scenario_version": "1.2.0",
+      "scenario_version": "2.0",
       "target_st_version": null,
-      "advertised_version": null,
+      "advertised_version": "2.0",
       "status": null,
       "package_version": "1.2.0"
     },
@@ -5524,7 +5361,7 @@
   },
   {
     "id": "topic-11343-phantom-thieves-vs-student-council",
-    "title": "Phantom thieves vs student council",
+    "title": "Phantom thieves vs Student council Final Remix",
     "authors": [
       "adamsteiner"
     ],
@@ -5532,7 +5369,7 @@
     "dates": {
       "published": "2018-07-01T23:37:00",
       "updated": "2023-06-30T22:08:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:22-04:00",
       "title_date": "27/04/2023"
     },
     "source": {
@@ -5606,7 +5443,7 @@
   },
   {
     "id": "topic-11354-hunting-the-witch-hunter",
-    "title": "Hunting The Witch Hunter",
+    "title": "Hunting The Witch Hunter Ver 0.5.2",
     "authors": [
       "Kat-Box"
     ],
@@ -5614,7 +5451,7 @@
     "dates": {
       "published": "2018-07-03T23:25:00",
       "updated": "2018-07-06T21:21:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:22-04:00",
       "title_date": null
     },
     "source": {
@@ -5670,7 +5507,7 @@
     "dates": {
       "published": "2018-07-15T16:42:00",
       "updated": "2021-10-03T11:24:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:22-04:00",
       "title_date": "25/07/2021"
     },
     "source": {
@@ -5707,7 +5544,7 @@
   },
   {
     "id": "topic-11439-stone-to-the-head",
-    "title": "Stone to the head Upd:[03.12.18]",
+    "title": "Stone to the head Upd:[",
     "authors": [
       "GarySavage"
     ],
@@ -5715,7 +5552,7 @@
     "dates": {
       "published": "2018-07-23T12:17:00",
       "updated": "2020-02-16T17:43:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:22-04:00",
       "title_date": null
     },
     "source": {
@@ -5726,9 +5563,9 @@
       "forum_title": "[Scenario] Stone to the head Upd:[03.12.18]"
     },
     "release": {
-      "scenario_version": null,
+      "scenario_version": "03.12.18",
       "target_st_version": null,
-      "advertised_version": null,
+      "advertised_version": "03.12.18",
       "status": null
     },
     "content": {
@@ -5752,7 +5589,7 @@
   },
   {
     "id": "topic-11466-the-festival",
-    "title": "The Festival",
+    "title": "The Festival v0.3.3 - ST v4.5 Compatible!",
     "authors": [
       "ChoripanKiller"
     ],
@@ -5760,7 +5597,7 @@
     "dates": {
       "published": "2018-07-28T13:47:00",
       "updated": "2019-09-20T17:42:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:22-04:00",
       "title_date": null
     },
     "source": {
@@ -5898,7 +5735,7 @@
   },
   {
     "id": "topic-11623-wandering-kiyoshi",
-    "title": "Wandering Kiyoshi",
+    "title": "Wandering Kiyoshi (Need Opinions)",
     "authors": [
       "ageraldy"
     ],
@@ -5906,7 +5743,7 @@
     "dates": {
       "published": "2018-09-14T04:17:00",
       "updated": "2018-09-14T04:17:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:22-04:00",
       "title_date": null
     },
     "source": {
@@ -5968,7 +5805,7 @@
     "dates": {
       "published": "2018-09-16T13:00:00",
       "updated": "2018-09-16T13:00:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:22-04:00",
       "title_date": null
     },
     "source": {
@@ -6054,7 +5891,7 @@
     "dates": {
       "published": "2018-09-22T16:34:00",
       "updated": "2020-07-19T00:27:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:22-04:00",
       "title_date": "01/03/19"
     },
     "source": {
@@ -6099,7 +5936,7 @@
     "dates": {
       "published": "2018-09-23T16:46:00",
       "updated": "2022-08-13T14:50:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:22-04:00",
       "title_date": null
     },
     "source": {
@@ -6154,7 +5991,7 @@
     "dates": {
       "published": "2018-09-26T18:57:00",
       "updated": "2018-10-21T21:15:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:22-04:00",
       "title_date": "21/10/2018"
     },
     "source": {
@@ -6217,7 +6054,7 @@
     "dates": {
       "published": "2018-11-18T08:31:00",
       "updated": "2021-08-29T02:55:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:22-04:00",
       "title_date": null
     },
     "source": {
@@ -6262,7 +6099,7 @@
     "dates": {
       "published": "2018-11-25T14:32:00",
       "updated": "2018-12-04T06:42:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:22-04:00",
       "title_date": null
     },
     "source": {
@@ -6348,7 +6185,7 @@
     "dates": {
       "published": "2019-01-06T14:47:00",
       "updated": "2019-08-31T11:40:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:22-04:00",
       "title_date": null
     },
     "source": {
@@ -6393,7 +6230,7 @@
     "dates": {
       "published": "2019-01-23T09:20:00",
       "updated": "2020-11-17T08:41:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:22-04:00",
       "title_date": null
     },
     "source": {
@@ -6438,7 +6275,7 @@
     "dates": {
       "published": "2019-01-25T19:51:00",
       "updated": "2019-02-01T13:23:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:22-04:00",
       "title_date": null
     },
     "source": {
@@ -6500,7 +6337,7 @@
     "dates": {
       "published": "2019-02-23T15:51:00",
       "updated": "2019-03-29T20:34:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:22-04:00",
       "title_date": null
     },
     "source": {
@@ -6576,7 +6413,7 @@
     "dates": {
       "published": "2019-02-28T06:10:00",
       "updated": "2019-03-05T15:15:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:22-04:00",
       "title_date": null
     },
     "source": {
@@ -6621,7 +6458,7 @@
     "dates": {
       "published": "2019-03-09T13:59:00",
       "updated": "2020-07-25T09:09:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:22-04:00",
       "title_date": null
     },
     "source": {
@@ -6666,7 +6503,7 @@
     "dates": {
       "published": "2019-03-22T02:31:00",
       "updated": "2019-03-22T11:48:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:22-04:00",
       "title_date": null
     },
     "source": {
@@ -6711,7 +6548,7 @@
     "dates": {
       "published": "2019-04-16T21:59:00",
       "updated": "2020-08-04T15:56:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:22-04:00",
       "title_date": null
     },
     "source": {
@@ -6812,7 +6649,7 @@
     "dates": {
       "published": "2019-05-06T04:27:00",
       "updated": "2019-09-06T01:26:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:22-04:00",
       "title_date": "8/14/2019"
     },
     "source": {
@@ -6865,7 +6702,7 @@
     "dates": {
       "published": "2019-05-09T23:49:00",
       "updated": "2020-10-18T22:18:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:22-04:00",
       "title_date": "06/07/2019"
     },
     "source": {
@@ -6964,7 +6801,7 @@
     "dates": {
       "published": "2019-06-08T07:15:00",
       "updated": "2019-07-21T11:08:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:22-04:00",
       "title_date": "07/21/2019"
     },
     "source": {
@@ -7009,7 +6846,7 @@
     "dates": {
       "published": "2019-06-09T10:29:00",
       "updated": "2020-09-18T18:47:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:22-04:00",
       "title_date": null
     },
     "source": {
@@ -7054,7 +6891,7 @@
     "dates": {
       "published": "2019-06-10T12:46:00",
       "updated": "2019-06-10T12:46:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:22-04:00",
       "title_date": null
     },
     "source": {
@@ -7108,7 +6945,7 @@
     "dates": {
       "published": "2019-06-11T22:02:00",
       "updated": "2022-03-09T00:47:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:22-04:00",
       "title_date": null
     },
     "source": {
@@ -7145,7 +6982,7 @@
   },
   {
     "id": "topic-12821-beyond-death",
-    "title": "Beyond death",
+    "title": "Beyond death. 26/08/2020",
     "authors": [
       "Bombaman"
     ],
@@ -7153,7 +6990,7 @@
     "dates": {
       "published": "2019-07-07T22:36:00",
       "updated": "2023-01-14T18:52:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:22-04:00",
       "title_date": "26/08/2020"
     },
     "source": {
@@ -7210,7 +7047,7 @@
     "dates": {
       "published": "2019-08-03T14:20:00",
       "updated": "2024-09-17T18:14:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:22-04:00",
       "title_date": null
     },
     "source": {
@@ -7259,7 +7096,7 @@
   },
   {
     "id": "topic-12952-summergals",
-    "title": "SummerGals!",
+    "title": "SummerGals! (WIP) (Active Poll)",
     "authors": [
       "Geobreaker"
     ],
@@ -7267,7 +7104,7 @@
     "dates": {
       "published": "2019-08-06T23:00:00",
       "updated": "2026-08-08T23:04:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:22-04:00",
       "title_date": null
     },
     "source": {
@@ -7368,7 +7205,7 @@
     "dates": {
       "published": "2019-08-16T10:30:00",
       "updated": "2019-08-16T14:16:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:22-04:00",
       "title_date": null
     },
     "source": {
@@ -7413,7 +7250,7 @@
     "dates": {
       "published": "2019-08-17T18:42:00",
       "updated": "2020-02-17T05:45:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:22-04:00",
       "title_date": null
     },
     "source": {
@@ -7458,7 +7295,7 @@
     "dates": {
       "published": "2019-08-22T10:48:00",
       "updated": "2021-11-04T00:07:00",
-      "last_checked": "2026-09-28T21:07:38-04:00"
+      "last_checked": "2026-09-28T21:23:22-04:00"
     },
     "source": {
       "forum_url": "https://tfgames.site/phpbb3/viewtopic.php?t=13015",
@@ -7500,7 +7337,7 @@
     "dates": {
       "published": "2019-08-22T10:48:00",
       "updated": "2021-11-04T00:07:00",
-      "last_checked": "2026-09-28T21:07:38-04:00"
+      "last_checked": "2026-09-28T21:23:22-04:00"
     },
     "source": {
       "forum_url": "https://tfgames.site/phpbb3/viewtopic.php?t=13015",
@@ -7553,7 +7390,7 @@
     "dates": {
       "published": "2019-09-22T18:02:00",
       "updated": "2019-09-28T11:38:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:22-04:00",
       "title_date": null
     },
     "source": {
@@ -7620,7 +7457,7 @@
     "dates": {
       "published": "2019-10-08T14:31:00",
       "updated": "2019-11-30T14:53:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:22-04:00",
       "title_date": null
     },
     "source": {
@@ -7691,7 +7528,7 @@
     "dates": {
       "published": "2019-10-20T04:13:00",
       "updated": "2023-03-12T08:38:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:22-04:00",
       "title_date": null
     },
     "source": {
@@ -7752,7 +7589,7 @@
     "dates": {
       "published": "2019-10-25T22:38:00",
       "updated": "2021-08-17T20:18:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:22-04:00",
       "title_date": null
     },
     "source": {
@@ -7817,7 +7654,7 @@
     "dates": {
       "published": "2019-10-27T12:25:00",
       "updated": "2020-04-09T08:16:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:22-04:00",
       "title_date": null
     },
     "source": {
@@ -7854,7 +7691,7 @@
   },
   {
     "id": "topic-13272-a-new-life",
-    "title": "A New Life",
+    "title": "A New Life [+DLC]",
     "authors": [
       "BuggsB"
     ],
@@ -7862,7 +7699,7 @@
     "dates": {
       "published": "2019-11-04T12:33:00",
       "updated": "2025-06-27T16:52:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:22-04:00",
       "title_date": null
     },
     "source": {
@@ -7923,7 +7760,7 @@
     "dates": {
       "published": "2019-11-22T20:19:00",
       "updated": "2020-09-12T03:43:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:22-04:00",
       "title_date": null
     },
     "source": {
@@ -8000,7 +7837,7 @@
     "dates": {
       "published": "2019-11-27T10:32:00",
       "updated": "2021-09-19T10:24:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:22-04:00",
       "title_date": null
     },
     "source": {
@@ -8181,7 +8018,7 @@
     "dates": {
       "published": "2020-01-12T07:32:00",
       "updated": "2021-11-22T11:53:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:22-04:00",
       "title_date": null
     },
     "source": {
@@ -8240,7 +8077,7 @@
     "dates": {
       "published": "2020-01-26T07:42:00",
       "updated": "2021-04-29T06:08:00",
-      "last_checked": "2026-09-28T21:07:38-04:00"
+      "last_checked": "2026-09-28T21:23:22-04:00"
     },
     "source": {
       "forum_url": "https://tfgames.site/phpbb3/viewtopic.php?t=13603",
@@ -8282,7 +8119,7 @@
     "dates": {
       "published": "2020-01-26T07:42:00",
       "updated": "2021-04-29T06:08:00",
-      "last_checked": "2026-09-28T21:07:38-04:00"
+      "last_checked": "2026-09-28T21:23:22-04:00"
     },
     "source": {
       "forum_url": "https://tfgames.site/phpbb3/viewtopic.php?t=13603",
@@ -8324,7 +8161,7 @@
     "dates": {
       "published": "2020-01-26T07:42:00",
       "updated": "2021-04-29T06:08:00",
-      "last_checked": "2026-09-28T21:07:38-04:00"
+      "last_checked": "2026-09-28T21:23:22-04:00"
     },
     "source": {
       "forum_url": "https://tfgames.site/phpbb3/viewtopic.php?t=13603",
@@ -8358,7 +8195,7 @@
   },
   {
     "id": "topic-13624-my-arch-nemesis",
-    "title": "My Arch Nemesis",
+    "title": "My Arch Nemesis - Finished scenario",
     "authors": [
       "Applemelon"
     ],
@@ -8366,7 +8203,7 @@
     "dates": {
       "published": "2020-02-01T11:57:00",
       "updated": "2020-03-14T15:18:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:22-04:00",
       "title_date": null
     },
     "source": {
@@ -8420,7 +8257,7 @@
     "dates": {
       "published": "2020-02-12T12:39:00",
       "updated": "2020-02-12T12:39:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:22-04:00",
       "title_date": null
     },
     "source": {
@@ -8468,7 +8305,7 @@
   },
   {
     "id": "topic-13683-cold-as-ice",
-    "title": "Cold as Ice",
+    "title": "Cold as Ice {Dead}",
     "authors": [
       "hizack"
     ],
@@ -8476,7 +8313,7 @@
     "dates": {
       "published": "2020-02-14T23:53:00",
       "updated": "2023-08-14T19:33:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:22-04:00",
       "title_date": "24-08-20"
     },
     "source": {
@@ -8524,7 +8361,7 @@
   },
   {
     "id": "topic-13770-principiis-magicae",
-    "title": "Principiis Magicae",
+    "title": "Principiis Magicae [EN/RU]",
     "authors": [
       "Adamdead"
     ],
@@ -8532,7 +8369,7 @@
     "dates": {
       "published": "2020-03-09T19:50:00",
       "updated": "2020-10-08T15:14:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:22-04:00",
       "title_date": null
     },
     "source": {
@@ -8543,9 +8380,9 @@
       "forum_title": "[Scenario] Principiis Magicae [EN/RU] (30.08.2020)"
     },
     "release": {
-      "scenario_version": "0.0.3.2",
+      "scenario_version": "30.08.2020",
       "target_st_version": null,
-      "advertised_version": null,
+      "advertised_version": "30.08.2020",
       "status": null,
       "package_version": "0.0.3.2"
     },
@@ -8591,7 +8428,7 @@
     "dates": {
       "published": "2020-04-21T13:35:00",
       "updated": "2021-07-07T15:45:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:22-04:00",
       "title_date": null
     },
     "source": {
@@ -8638,7 +8475,7 @@
   },
   {
     "id": "topic-14111-truth-or-syn",
-    "title": "Truth or Syn",
+    "title": "Truth Or Syn",
     "authors": [
       "the7saint7"
     ],
@@ -8646,7 +8483,7 @@
     "dates": {
       "published": "2020-05-20T16:06:00",
       "updated": "2025-12-31T22:29:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:22-04:00",
       "title_date": "June 25, 2024"
     },
     "source": {
@@ -8659,7 +8496,7 @@
     "release": {
       "scenario_version": "1.4.1",
       "target_st_version": null,
-      "advertised_version": null,
+      "advertised_version": "1.4.1",
       "status": null,
       "package_version": "1.4.1"
     },
@@ -8705,7 +8542,7 @@
     "dates": {
       "published": "2020-05-23T19:01:00",
       "updated": "2020-06-07T10:59:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:22-04:00",
       "title_date": null
     },
     "source": {
@@ -8760,7 +8597,7 @@
     "dates": {
       "published": "2020-07-03T05:28:00",
       "updated": "2020-11-10T03:30:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:22-04:00",
       "title_date": null
     },
     "source": {
@@ -8813,7 +8650,7 @@
     "dates": {
       "published": "2020-07-04T05:01:00",
       "updated": "2021-07-07T19:11:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:22-04:00",
       "title_date": null
     },
     "source": {
@@ -8858,7 +8695,7 @@
     "dates": {
       "published": "2020-07-13T01:50:00",
       "updated": "2020-07-13T01:50:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:22-04:00",
       "title_date": "7/13/20"
     },
     "source": {
@@ -8903,7 +8740,7 @@
     "dates": {
       "published": "2020-07-19T20:32:00",
       "updated": "2020-09-29T21:50:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:22-04:00",
       "title_date": null
     },
     "source": {
@@ -8957,7 +8794,7 @@
     "dates": {
       "published": "2020-07-19T23:54:00",
       "updated": "2020-08-27T09:45:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:22-04:00",
       "title_date": null
     },
     "source": {
@@ -9020,7 +8857,7 @@
     "dates": {
       "published": "2020-07-20T12:28:00",
       "updated": "2020-07-20T12:28:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:22-04:00",
       "title_date": "10/06/20"
     },
     "source": {
@@ -9065,7 +8902,7 @@
     "dates": {
       "published": "2020-07-29T17:32:00",
       "updated": "2021-11-16T23:06:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:22-04:00",
       "title_date": null
     },
     "source": {
@@ -9119,7 +8956,7 @@
   },
   {
     "id": "topic-14434-a-sayaka-scorned",
-    "title": "A Sayaka Scorned",
+    "title": "A Sayaka Scorned 7/5/2024 Ver 0.8.0",
     "authors": [
       "Soffia"
     ],
@@ -9127,7 +8964,7 @@
     "dates": {
       "published": "2020-08-01T08:10:00",
       "updated": "2024-07-09T23:32:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:22-04:00",
       "title_date": "7/5/2024"
     },
     "source": {
@@ -9185,7 +9022,7 @@
     "dates": {
       "published": "2020-08-04T17:54:00",
       "updated": "2023-07-12T11:00:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:22-04:00",
       "title_date": null
     },
     "source": {
@@ -9230,7 +9067,7 @@
     "dates": {
       "published": "2020-08-07T21:21:00",
       "updated": "2024-01-12T22:17:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:22-04:00",
       "title_date": "4/12/21"
     },
     "source": {
@@ -9281,7 +9118,7 @@
   },
   {
     "id": "topic-14490-cornswap",
-    "title": "Cornswap",
+    "title": "Cornswap Version 0.2.0",
     "authors": [
       "IK12345"
     ],
@@ -9289,7 +9126,7 @@
     "dates": {
       "published": "2020-08-11T19:56:00",
       "updated": "2021-08-17T15:07:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:22-04:00",
       "title_date": null
     },
     "source": {
@@ -9343,7 +9180,7 @@
     "dates": {
       "published": "2020-08-14T04:03:00",
       "updated": "2020-08-14T04:03:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:22-04:00",
       "title_date": null
     },
     "source": {
@@ -9429,7 +9266,7 @@
     "dates": {
       "published": "2020-08-16T20:33:00",
       "updated": "2025-02-01T18:51:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:22-04:00",
       "title_date": null
     },
     "source": {
@@ -9474,7 +9311,7 @@
     "dates": {
       "published": "2020-08-25T20:32:00",
       "updated": "2022-01-15T07:39:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:22-04:00",
       "title_date": null
     },
     "source": {
@@ -9531,7 +9368,7 @@
     "dates": {
       "published": "2020-08-27T10:06:00",
       "updated": "2020-08-28T02:17:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:22-04:00",
       "title_date": null
     },
     "source": {
@@ -9589,7 +9426,7 @@
     "dates": {
       "published": "2020-09-06T08:07:00",
       "updated": "2026-02-21T05:53:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:22-04:00",
       "title_date": null
     },
     "source": {
@@ -9648,7 +9485,7 @@
     "dates": {
       "published": "2020-09-17T10:47:00",
       "updated": "2021-02-12T13:25:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:22-04:00",
       "title_date": null
     },
     "source": {
@@ -9706,7 +9543,7 @@
     "dates": {
       "published": "2020-09-30T05:46:00",
       "updated": "2020-09-30T05:46:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:22-04:00",
       "title_date": null
     },
     "source": {
@@ -9760,7 +9597,7 @@
     "dates": {
       "published": "2020-10-02T22:44:00",
       "updated": "2020-10-02T22:44:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:22-04:00",
       "title_date": null
     },
     "source": {
@@ -9825,7 +9662,7 @@
     "dates": {
       "published": "2020-10-16T14:57:00",
       "updated": "2020-10-16T14:57:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:22-04:00",
       "title_date": null
     },
     "source": {
@@ -9870,7 +9707,7 @@
     "dates": {
       "published": "2020-10-20T16:52:00",
       "updated": "2023-10-14T06:57:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:22-04:00",
       "title_date": "19/02/2023"
     },
     "source": {
@@ -9915,7 +9752,7 @@
     "dates": {
       "published": "2020-10-31T15:55:00",
       "updated": "2020-10-31T16:45:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:22-04:00",
       "title_date": null
     },
     "source": {
@@ -9960,7 +9797,7 @@
     "dates": {
       "published": "2020-11-01T07:41:00",
       "updated": "2021-09-24T13:28:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:22-04:00",
       "title_date": null
     },
     "source": {
@@ -10014,7 +9851,7 @@
     "dates": {
       "published": "2020-12-08T11:12:00",
       "updated": "2024-11-15T22:06:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:22-04:00",
       "title_date": null
     },
     "source": {
@@ -10027,7 +9864,7 @@
     "release": {
       "scenario_version": "1.3.1",
       "target_st_version": null,
-      "advertised_version": null,
+      "advertised_version": "1.3.1",
       "status": "completed",
       "package_version": "1.3.1"
     },
@@ -10064,7 +9901,7 @@
   },
   {
     "id": "topic-15056-to-go-all-wrong",
-    "title": "To Go All Wrong",
+    "title": "To Go All Wrong [DISCONTINUED] , [SCENARIO Last update: 1 Octo 2021, DISCONTINUED]]",
     "authors": [
       "TGaw aka pikeofao"
     ],
@@ -10072,7 +9909,7 @@
     "dates": {
       "published": "2020-12-16T00:45:00",
       "updated": "2024-01-07T04:05:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:22-04:00",
       "title_date": null
     },
     "source": {
@@ -10126,7 +9963,7 @@
     "dates": {
       "published": "2020-12-22T00:24:00",
       "updated": "2023-07-12T10:58:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:22-04:00",
       "title_date": null
     },
     "source": {
@@ -10163,7 +10000,7 @@
   },
   {
     "id": "topic-15142-magica-doctrina",
-    "title": "Magica Doctrina 1.0.5 (Feb. 27, 2022)",
+    "title": "Magica Doctrina",
     "authors": [
       "the7saint7"
     ],
@@ -10171,7 +10008,7 @@
     "dates": {
       "published": "2021-01-04T11:02:00",
       "updated": "2025-02-25T10:41:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:22-04:00",
       "title_date": null
     },
     "source": {
@@ -10182,9 +10019,9 @@
       "forum_title": "[Scenario] Magica Doctrina 1.0.5 (Feb. 27, 2022)"
     },
     "release": {
-      "scenario_version": null,
+      "scenario_version": "1.0.5",
       "target_st_version": null,
-      "advertised_version": null,
+      "advertised_version": "1.0.5",
       "status": null
     },
     "content": {
@@ -10216,7 +10053,7 @@
     "dates": {
       "published": "2021-01-07T18:36:00",
       "updated": "2021-02-20T16:20:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:22-04:00",
       "title_date": null
     },
     "source": {
@@ -10261,7 +10098,7 @@
     "dates": {
       "published": "2021-02-02T15:23:00",
       "updated": "2024-05-09T11:47:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:22-04:00",
       "title_date": null
     },
     "source": {
@@ -10321,7 +10158,7 @@
     "dates": {
       "published": "2021-02-14T02:47:00",
       "updated": "2021-02-19T01:03:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:22-04:00",
       "title_date": null
     },
     "source": {
@@ -10366,7 +10203,7 @@
     "dates": {
       "published": "2021-02-21T03:11:00",
       "updated": "2021-02-24T00:38:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:22-04:00",
       "title_date": "Feb 2021"
     },
     "source": {
@@ -10452,7 +10289,7 @@
     "dates": {
       "published": "2021-03-13T18:36:00",
       "updated": "2021-07-06T22:59:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:22-04:00",
       "title_date": "July 6, 2021"
     },
     "source": {
@@ -10465,7 +10302,7 @@
     "release": {
       "scenario_version": "1.1.4",
       "target_st_version": null,
-      "advertised_version": null,
+      "advertised_version": "1.1.4",
       "status": null,
       "package_version": "1.1.4"
     },
@@ -10510,7 +10347,7 @@
     "dates": {
       "published": "2021-03-14T22:40:00",
       "updated": "2021-03-14T22:40:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:22-04:00",
       "title_date": null
     },
     "source": {
@@ -10576,7 +10413,7 @@
     "dates": {
       "published": "2021-03-27T15:38:00",
       "updated": "2023-02-13T03:08:00",
-      "last_checked": "2026-09-28T21:07:38-04:00"
+      "last_checked": "2026-09-28T21:23:22-04:00"
     },
     "source": {
       "forum_url": "https://tfgames.site/phpbb3/viewtopic.php?t=15456",
@@ -10627,7 +10464,7 @@
     "dates": {
       "published": "2021-03-27T15:38:00",
       "updated": "2023-02-13T03:08:00",
-      "last_checked": "2026-09-28T21:07:38-04:00"
+      "last_checked": "2026-09-28T21:23:23-04:00"
     },
     "source": {
       "forum_url": "https://tfgames.site/phpbb3/viewtopic.php?t=15456",
@@ -10679,7 +10516,7 @@
     "dates": {
       "published": "2021-03-27T15:38:00",
       "updated": "2023-02-13T03:08:00",
-      "last_checked": "2026-09-28T21:07:38-04:00"
+      "last_checked": "2026-09-28T21:23:23-04:00"
     },
     "source": {
       "forum_url": "https://tfgames.site/phpbb3/viewtopic.php?t=15456",
@@ -10732,7 +10569,7 @@
     "dates": {
       "published": "2021-03-27T15:38:00",
       "updated": "2023-02-13T03:08:00",
-      "last_checked": "2026-09-28T21:07:38-04:00"
+      "last_checked": "2026-09-28T21:23:23-04:00"
     },
     "source": {
       "forum_url": "https://tfgames.site/phpbb3/viewtopic.php?t=15456",
@@ -10782,7 +10619,7 @@
     "dates": {
       "published": "2021-04-01T10:08:00",
       "updated": "2021-07-25T16:15:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -10840,7 +10677,7 @@
     "dates": {
       "published": "2021-04-04T13:23:00",
       "updated": "2024-08-29T13:52:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": "April 25, 2022"
     },
     "source": {
@@ -10897,7 +10734,7 @@
     "dates": {
       "published": "2021-04-22T02:02:00",
       "updated": "2024-01-29T04:41:00",
-      "last_checked": "2026-09-28T21:07:38-04:00"
+      "last_checked": "2026-09-28T21:23:23-04:00"
     },
     "source": {
       "forum_url": "https://tfgames.site/phpbb3/viewtopic.php?t=15559",
@@ -10939,7 +10776,7 @@
     "dates": {
       "published": "2021-04-22T02:02:00",
       "updated": "2024-01-29T04:41:00",
-      "last_checked": "2026-09-28T21:07:38-04:00"
+      "last_checked": "2026-09-28T21:23:23-04:00"
     },
     "source": {
       "forum_url": "https://tfgames.site/phpbb3/viewtopic.php?t=15559",
@@ -11022,7 +10859,7 @@
     "dates": {
       "published": "2021-04-26T09:59:00",
       "updated": "2024-06-29T13:18:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": "4/25/23"
     },
     "source": {
@@ -11033,9 +10870,9 @@
       "forum_title": "[Scenario] Reality Warp (0.5) [New Update 4/25/23!]"
     },
     "release": {
-      "scenario_version": "1.0",
+      "scenario_version": "0.5",
       "target_st_version": null,
-      "advertised_version": null,
+      "advertised_version": "0.5",
       "status": null,
       "package_version": "1.0"
     },
@@ -11076,7 +10913,7 @@
     "dates": {
       "published": "2021-05-02T16:09:00",
       "updated": "2021-05-11T05:28:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -11113,7 +10950,7 @@
   },
   {
     "id": "topic-15634-mayhem-and-mischief",
-    "title": "Mayhem and Mischief",
+    "title": "Mayhem and Mischief update!",
     "authors": [
       "dansusket"
     ],
@@ -11121,7 +10958,7 @@
     "dates": {
       "published": "2021-05-11T18:11:00",
       "updated": "2022-04-12T20:12:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -11134,7 +10971,7 @@
     "release": {
       "scenario_version": "1.0.6",
       "target_st_version": null,
-      "advertised_version": null,
+      "advertised_version": "1.0.6",
       "status": null,
       "package_version": "1.0.6"
     },
@@ -11187,7 +11024,7 @@
     "dates": {
       "published": "2021-05-18T17:40:00",
       "updated": "2021-05-18T17:40:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -11198,9 +11035,9 @@
       "forum_title": "[Scenario] StS 0.0.1"
     },
     "release": {
-      "scenario_version": "0.0.1\"",
+      "scenario_version": "0.0.1",
       "target_st_version": null,
-      "advertised_version": null,
+      "advertised_version": "0.0.1",
       "status": null,
       "package_version": "0.0.1\""
     },
@@ -11249,7 +11086,7 @@
     "dates": {
       "published": "2021-05-19T17:05:00",
       "updated": "2022-07-11T23:01:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": "July 12 2021"
     },
     "source": {
@@ -11294,7 +11131,7 @@
     "dates": {
       "published": "2021-06-03T09:40:00",
       "updated": "2021-06-09T07:43:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -11351,7 +11188,7 @@
     "dates": {
       "published": "2021-07-08T14:18:00",
       "updated": "2021-07-16T06:01:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -11396,7 +11233,7 @@
     "dates": {
       "published": "2021-07-18T18:08:00",
       "updated": "2021-12-23T13:26:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": "12/25/21"
     },
     "source": {
@@ -11441,7 +11278,7 @@
     "dates": {
       "published": "2021-07-22T15:49:00",
       "updated": "2024-07-02T12:52:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -11478,7 +11315,7 @@
   },
   {
     "id": "topic-15983-my-girlfriend-is-a-shapeshifter-demo-0-0-2",
-    "title": "My Girlfriend is a Shapeshifter Demo 0.0.2",
+    "title": "My Girlfriend is a Shapeshifter Demo",
     "authors": [
       "khanhninh"
     ],
@@ -11486,7 +11323,7 @@
     "dates": {
       "published": "2021-07-29T15:36:00",
       "updated": "2021-07-30T23:51:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -11497,9 +11334,9 @@
       "forum_title": "[Scenario] My Girlfriend is a Shapeshifter Demo 0.0.2"
     },
     "release": {
-      "scenario_version": null,
+      "scenario_version": "0.0.2",
       "target_st_version": null,
-      "advertised_version": null,
+      "advertised_version": "0.0.2",
       "status": "demo"
     },
     "content": {
@@ -11531,7 +11368,7 @@
     "dates": {
       "published": "2021-08-04T18:48:00",
       "updated": "2026-07-22T17:40:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": "September 4th 2023"
     },
     "source": {
@@ -11586,7 +11423,7 @@
     "dates": {
       "published": "2021-08-15T12:22:00",
       "updated": "2021-08-15T12:22:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -11642,7 +11479,7 @@
     "dates": {
       "published": "2021-08-29T17:05:00",
       "updated": "2023-02-25T10:38:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -11696,7 +11533,7 @@
     "dates": {
       "published": "2021-08-30T03:01:00",
       "updated": "2021-08-30T03:01:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -11756,7 +11593,7 @@
     "dates": {
       "published": "2021-08-30T11:33:00",
       "updated": "2021-08-31T15:01:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -11809,7 +11646,7 @@
     "dates": {
       "published": "2021-08-31T17:00:00",
       "updated": "2023-01-01T16:07:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": "March 10, 2022"
     },
     "source": {
@@ -11868,7 +11705,7 @@
     "dates": {
       "published": "2021-08-31T23:30:00",
       "updated": "2021-09-03T20:51:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -11946,7 +11783,7 @@
     "dates": {
       "published": "2021-09-03T22:40:00",
       "updated": "2021-09-04T09:15:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -11991,7 +11828,7 @@
     "dates": {
       "published": "2021-09-06T14:45:00",
       "updated": "2021-09-06T14:45:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -12028,7 +11865,7 @@
   },
   {
     "id": "topic-16129-a-deal-with-the-devil",
-    "title": "A deal with the devil",
+    "title": "A Deal With The Devil - Episode 4 Update (Tori Path)",
     "authors": [
       "AmelRose"
     ],
@@ -12036,7 +11873,7 @@
     "dates": {
       "published": "2021-09-15T11:13:00",
       "updated": "2022-06-05T10:34:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": "01/06/2022"
     },
     "source": {
@@ -12092,7 +11929,7 @@
     "dates": {
       "published": "2021-09-18T10:01:00",
       "updated": "2021-10-02T11:35:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -12146,7 +11983,7 @@
     "dates": {
       "published": "2021-10-22T13:33:00",
       "updated": "2021-10-24T12:08:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -12191,7 +12028,7 @@
     "dates": {
       "published": "2021-10-30T09:37:00",
       "updated": "2024-11-15T21:32:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": "May 17, 2022"
     },
     "source": {
@@ -12204,7 +12041,7 @@
     "release": {
       "scenario_version": "1.4.2",
       "target_st_version": null,
-      "advertised_version": null,
+      "advertised_version": "1.4.2",
       "status": null,
       "package_version": "1.4.2"
     },
@@ -12247,7 +12084,7 @@
     "dates": {
       "published": "2021-10-30T18:11:00",
       "updated": "2023-04-10T17:38:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -12302,7 +12139,7 @@
     "dates": {
       "published": "2021-10-31T16:39:00",
       "updated": "2021-11-01T07:20:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -12347,7 +12184,7 @@
     "dates": {
       "published": "2021-11-01T12:18:00",
       "updated": "2026-02-23T13:34:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": "September 1, 2024"
     },
     "source": {
@@ -12406,7 +12243,7 @@
     "dates": {
       "published": "2021-12-13T06:45:00",
       "updated": "2024-07-12T18:26:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -12451,7 +12288,7 @@
     "dates": {
       "published": "2021-12-20T14:09:00",
       "updated": "2024-06-21T15:33:00",
-      "last_checked": "2026-09-28T21:07:38-04:00"
+      "last_checked": "2026-09-28T21:23:23-04:00"
     },
     "source": {
       "forum_url": "https://tfgames.site/phpbb3/viewtopic.php?t=16441",
@@ -12493,7 +12330,7 @@
     "dates": {
       "published": "2021-12-20T14:09:00",
       "updated": "2024-06-21T15:33:00",
-      "last_checked": "2026-09-28T21:07:38-04:00"
+      "last_checked": "2026-09-28T21:23:23-04:00"
     },
     "source": {
       "forum_url": "https://tfgames.site/phpbb3/viewtopic.php?t=16441",
@@ -12535,7 +12372,7 @@
     "dates": {
       "published": "2021-12-20T14:09:00",
       "updated": "2024-06-21T15:33:00",
-      "last_checked": "2026-09-28T21:07:38-04:00"
+      "last_checked": "2026-09-28T21:23:23-04:00"
     },
     "source": {
       "forum_url": "https://tfgames.site/phpbb3/viewtopic.php?t=16441",
@@ -12577,7 +12414,7 @@
     "dates": {
       "published": "2022-01-08T15:27:00",
       "updated": "2022-01-08T15:27:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -12636,7 +12473,7 @@
     "dates": {
       "published": "2022-01-14T20:50:00",
       "updated": "2022-03-21T22:03:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -12691,7 +12528,7 @@
     "dates": {
       "published": "2022-01-16T15:57:00",
       "updated": "2022-03-01T09:01:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -12736,7 +12573,7 @@
     "dates": {
       "published": "2022-01-19T19:17:00",
       "updated": "2022-02-15T10:40:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -12791,7 +12628,7 @@
     "dates": {
       "published": "2022-03-26T18:16:00",
       "updated": "2022-05-13T10:35:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": "March 26, 2022"
     },
     "source": {
@@ -12804,7 +12641,7 @@
     "release": {
       "scenario_version": "0.0.4",
       "target_st_version": null,
-      "advertised_version": null,
+      "advertised_version": "0.0.4",
       "status": null,
       "package_version": "0.0.4"
     },
@@ -12844,7 +12681,7 @@
     "dates": {
       "published": "2022-04-05T04:30:00",
       "updated": "2023-10-14T03:53:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -12901,7 +12738,7 @@
     "dates": {
       "published": "2022-04-12T07:31:00",
       "updated": "2022-04-14T16:54:00",
-      "last_checked": "2026-09-28T21:07:38-04:00"
+      "last_checked": "2026-09-28T21:23:23-04:00"
     },
     "source": {
       "forum_url": "https://tfgames.site/phpbb3/viewtopic.php?t=16780",
@@ -12952,7 +12789,7 @@
     "dates": {
       "published": "2022-04-12T07:31:00",
       "updated": "2022-04-14T16:54:00",
-      "last_checked": "2026-09-28T21:07:38-04:00"
+      "last_checked": "2026-09-28T21:23:23-04:00"
     },
     "source": {
       "forum_url": "https://tfgames.site/phpbb3/viewtopic.php?t=16780",
@@ -13003,7 +12840,7 @@
     "dates": {
       "published": "2022-04-15T05:25:00",
       "updated": "2022-04-18T02:30:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -13048,7 +12885,7 @@
     "dates": {
       "published": "2022-04-16T09:08:00",
       "updated": "2024-03-15T03:32:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -13061,7 +12898,7 @@
     "release": {
       "scenario_version": "1.0.1",
       "target_st_version": null,
-      "advertised_version": null,
+      "advertised_version": "1.0.1",
       "status": null,
       "package_version": "1.0.1"
     },
@@ -13103,7 +12940,7 @@
     "dates": {
       "published": "2022-04-26T17:12:00",
       "updated": "2024-01-28T11:52:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -13140,7 +12977,7 @@
   },
   {
     "id": "topic-16855-slowly-swapping",
-    "title": "Slowly Swapping",
+    "title": "Slowly Swapping (early work in progress)",
     "authors": [
       "RatherNot"
     ],
@@ -13148,7 +12985,7 @@
     "dates": {
       "published": "2022-05-08T12:39:00",
       "updated": "2022-05-09T17:04:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -13203,7 +13040,7 @@
     "dates": {
       "published": "2022-05-20T18:45:00",
       "updated": "2022-05-21T16:01:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -13258,7 +13095,7 @@
     "dates": {
       "published": "2022-05-24T21:31:00",
       "updated": "2022-05-24T21:31:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -13303,7 +13140,7 @@
     "dates": {
       "published": "2022-06-20T02:39:00",
       "updated": "2022-06-25T09:15:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -13440,7 +13277,7 @@
     "dates": {
       "published": "2022-08-09T08:40:00",
       "updated": "2022-08-29T01:36:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -13489,7 +13326,7 @@
   },
   {
     "id": "topic-17176-axiomatic",
-    "title": "Axiomatic",
+    "title": "Axiomatic (Updated: Sept 29th 2023)",
     "authors": [
       "Mimo"
     ],
@@ -13497,7 +13334,7 @@
     "dates": {
       "published": "2022-08-17T05:20:00",
       "updated": "2023-09-29T14:05:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -13552,7 +13389,7 @@
     "dates": {
       "published": "2022-08-26T23:07:00",
       "updated": "2022-08-31T21:33:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -13608,7 +13445,7 @@
     "dates": {
       "published": "2022-08-28T07:25:00",
       "updated": "2022-11-23T04:19:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -13653,7 +13490,7 @@
     "dates": {
       "published": "2022-09-06T23:03:00",
       "updated": "2023-05-11T18:58:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -13708,7 +13545,7 @@
     "dates": {
       "published": "2022-09-09T15:26:00",
       "updated": "2022-10-19T17:13:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -13753,7 +13590,7 @@
     "dates": {
       "published": "2022-10-25T19:33:00",
       "updated": "2022-12-12T12:43:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -13798,7 +13635,7 @@
     "dates": {
       "published": "2022-11-08T00:07:00",
       "updated": "2022-11-27T19:01:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -13845,7 +13682,7 @@
   },
   {
     "id": "topic-17422-crossing-the-line",
-    "title": "Crossing the line",
+    "title": "Crossing the line (Nov. 8, 2022)",
     "authors": [
       "the7saint7"
     ],
@@ -13853,7 +13690,7 @@
     "dates": {
       "published": "2022-11-08T08:28:00",
       "updated": "2022-11-11T08:16:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -13907,7 +13744,7 @@
     "dates": {
       "published": "2022-11-27T06:55:00",
       "updated": "2022-11-27T06:55:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -13961,7 +13798,7 @@
     "dates": {
       "published": "2022-12-06T23:08:00",
       "updated": "2022-12-08T12:37:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -14016,7 +13853,7 @@
     "dates": {
       "published": "2022-12-19T18:31:00",
       "updated": "2023-07-09T07:59:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -14072,7 +13909,7 @@
     "dates": {
       "published": "2022-12-25T03:11:00",
       "updated": "2022-12-25T03:11:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -14164,7 +14001,7 @@
     "dates": {
       "published": "2023-01-13T16:21:00",
       "updated": "2023-10-24T11:21:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": "9/6/2023"
     },
     "source": {
@@ -14222,7 +14059,7 @@
     "dates": {
       "published": "2023-01-16T19:53:00",
       "updated": "2023-01-16T19:53:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -14309,7 +14146,7 @@
   },
   {
     "id": "topic-17763-valentines-lies",
-    "title": "Valentines Lies",
+    "title": "Valentines' Lies (Link updated!)",
     "authors": [
       "ChoripanKiller"
     ],
@@ -14317,7 +14154,7 @@
     "dates": {
       "published": "2023-02-19T15:43:00",
       "updated": "2023-02-19T15:43:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -14380,7 +14217,7 @@
     "dates": {
       "published": "2023-03-03T18:09:00",
       "updated": "2023-03-23T05:48:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -14425,7 +14262,7 @@
     "dates": {
       "published": "2023-03-06T12:54:00",
       "updated": "2023-04-08T16:51:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -14480,7 +14317,7 @@
     "dates": {
       "published": "2023-03-29T02:36:00",
       "updated": "2023-03-31T11:50:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -14535,7 +14372,7 @@
     "dates": {
       "published": "2023-04-04T11:06:00",
       "updated": "2023-08-11T15:08:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -14580,7 +14417,7 @@
     "dates": {
       "published": "2023-04-10T20:31:00",
       "updated": "2023-05-09T21:05:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -14625,7 +14462,7 @@
     "dates": {
       "published": "2023-04-18T22:06:00",
       "updated": "2024-02-08T00:26:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": "July 31st, 2023"
     },
     "source": {
@@ -14681,7 +14518,7 @@
     "dates": {
       "published": "2023-04-21T16:37:00",
       "updated": "2024-09-15T01:58:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": "April 21, 2023"
     },
     "source": {
@@ -14737,7 +14574,7 @@
     "dates": {
       "published": "2023-05-10T03:10:00",
       "updated": "2023-05-10T03:10:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -14774,7 +14611,7 @@
   },
   {
     "id": "topic-18009-springbreak-vn",
-    "title": "Spring break VN",
+    "title": "Springbreak VN (May, 2023)",
     "authors": [
       "the7saint7"
     ],
@@ -14782,7 +14619,7 @@
     "dates": {
       "published": "2023-05-12T16:59:00",
       "updated": "2024-02-18T16:04:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -14840,7 +14677,7 @@
     "dates": {
       "published": "2023-08-10T03:27:00",
       "updated": "2023-08-14T17:08:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -14877,7 +14714,7 @@
   },
   {
     "id": "topic-18259-katastrophe",
-    "title": "Katastrophe ALPHA (0.0.4)",
+    "title": "Katastrophe ALPHA",
     "authors": [
       "KatrinaKreations"
     ],
@@ -14885,7 +14722,7 @@
     "dates": {
       "published": "2023-08-13T14:23:00",
       "updated": "2023-08-16T20:25:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -14896,9 +14733,9 @@
       "forum_title": "[Scenario] Katastrophe ALPHA (0.0.4)"
     },
     "release": {
-      "scenario_version": null,
+      "scenario_version": "0.0.4",
       "target_st_version": null,
-      "advertised_version": null,
+      "advertised_version": "0.0.4",
       "status": null
     },
     "content": {
@@ -14963,7 +14800,7 @@
   },
   {
     "id": "topic-18306-new-body-old-life",
-    "title": "New Body, Old Life",
+    "title": "New Body, Old Life (Sept. 1st 2023)",
     "authors": [
       "Apocrypha"
     ],
@@ -14971,7 +14808,7 @@
     "dates": {
       "published": "2023-09-01T08:11:00",
       "updated": "2023-09-01T08:11:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -15024,7 +14861,7 @@
     "dates": {
       "published": "2023-10-20T13:49:00",
       "updated": "2024-04-21T14:05:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -15078,7 +14915,7 @@
     "dates": {
       "published": "2023-10-26T09:54:00",
       "updated": "2024-01-04T09:41:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -15123,7 +14960,7 @@
     "dates": {
       "published": "2023-10-28T20:12:00",
       "updated": "2023-11-02T15:36:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -15168,7 +15005,7 @@
     "dates": {
       "published": "2023-11-06T13:33:00",
       "updated": "2023-11-06T13:33:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -15223,7 +15060,7 @@
     "dates": {
       "published": "2023-11-12T21:51:00",
       "updated": "2024-01-26T09:14:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": "April 1st, 2024"
     },
     "source": {
@@ -15236,7 +15073,7 @@
     "release": {
       "scenario_version": "1.1.3",
       "target_st_version": null,
-      "advertised_version": null,
+      "advertised_version": "1.1.3",
       "status": null,
       "package_version": "1.1.3"
     },
@@ -15280,7 +15117,7 @@
     "dates": {
       "published": "2023-11-26T06:41:00",
       "updated": "2024-01-12T19:28:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -15335,7 +15172,7 @@
     "dates": {
       "published": "2023-12-03T02:05:00",
       "updated": "2026-03-01T10:57:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -15389,7 +15226,7 @@
     "dates": {
       "published": "2023-12-05T17:35:00",
       "updated": "2024-03-19T11:39:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -15475,7 +15312,7 @@
     "dates": {
       "published": "2023-12-23T10:05:00",
       "updated": "2023-12-23T12:11:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -15643,7 +15480,7 @@
     "dates": {
       "published": "2024-05-08T19:32:00",
       "updated": "2025-04-09T07:20:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": "May 08, 2024"
     },
     "source": {
@@ -15688,7 +15525,7 @@
     "dates": {
       "published": "2024-05-28T14:34:00",
       "updated": "2026-01-12T09:34:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": "July 5, 2024"
     },
     "source": {
@@ -15733,7 +15570,7 @@
     "dates": {
       "published": "2024-06-04T08:11:00",
       "updated": "2024-06-16T09:29:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -15770,15 +15607,16 @@
   },
   {
     "id": "topic-19078-cal-vs-carrie-1-0-0-june-7-2024",
-    "title": "Cal vs. Carrie (1.0.0) June 7, 2024",
+    "title": "Cal vs. Carrie",
     "authors": [
-      "the7saint7"
+      "the7saint7",
+      "The7Saint7"
     ],
-    "description": "Synopsis\nExplore the potential secret love story between Cal and Carrie. Or not.\nThis is a joke scenario from a single suggestion on Discord.\nOnly 17 minutes long. (For those who read at a normal speed)\n\nDownload (1.0.0)\nhttps://mega.nz/file/T0V1WCBJ#q4-k8inZm ... _hrSrKCy-s\n\nTags\n- Bodyswap\n- Mind Control\n- Reality Altering\n- ID\n\nNotes\nIf you meet someone named \"Cal\" on Discord, or anything that begins with \"Cal\", better be careful not to piss 'em off\nSpoiler:",
+    "description": "A comedic meta-scenario in which Carrie's wish for control over her fate triggers a body swap with the scenario's author, letting her rewrite events while he struggles with life inside the visual novel.",
     "dates": {
       "published": "2024-06-07T16:05:00",
       "updated": "2024-06-08T12:48:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": "June 7, 2024"
     },
     "source": {
@@ -15789,27 +15627,36 @@
       "forum_title": "[Scenario] Cal vs. Carrie (1.0.0) June 7, 2024"
     },
     "release": {
-      "scenario_version": null,
+      "scenario_version": "1.0.0",
       "target_st_version": null,
-      "advertised_version": null,
+      "package_version": "1.0.0",
+      "advertised_version": "1.0.0",
       "status": null
     },
     "content": {
-      "tags": [],
-      "nsfw": "unknown",
-      "word_count": null,
-      "reading_time_minutes": null,
-      "reading_time_display": null,
-      "completed": false,
+      "tags": [
+        "Body swapping",
+        "Comedy",
+        "Explicit sex",
+        "Gender transformation",
+        "Mind control",
+        "Metafiction",
+        "Reality alteration"
+      ],
+      "nsfw": "yes",
+      "word_count": 4368,
+      "reading_time_minutes": 22,
+      "reading_time_display": "22 minutes",
+      "completed": true,
       "characters": []
     },
     "image": {
-      "kind": "placeholder",
-      "path": null,
+      "kind": "scenario_banner",
+      "path": "images/topic-19078-cal-vs-carrie-1-0-0-june-7-2024.png",
       "source_url": null
     },
     "availability": {
-      "archive_available": false,
+      "archive_available": true,
       "link_status": "working"
     }
   },
@@ -15823,7 +15670,7 @@
     "dates": {
       "published": "2024-07-11T01:32:00",
       "updated": "2024-08-30T11:03:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -15869,7 +15716,7 @@
     "dates": {
       "published": "2024-08-26T01:06:00",
       "updated": "2026-03-01T21:36:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": "29/12/2025"
     },
     "source": {
@@ -15925,7 +15772,7 @@
     "dates": {
       "published": "2024-09-07T19:38:00",
       "updated": "2025-03-18T17:05:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": "Nov 20, 2024"
     },
     "source": {
@@ -15983,7 +15830,7 @@
     "dates": {
       "published": "2024-09-15T13:28:00",
       "updated": "2025-01-12T13:30:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -16045,7 +15892,7 @@
     "dates": {
       "published": "2024-09-16T09:16:00",
       "updated": "2024-10-24T15:21:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -16105,7 +15952,7 @@
     "dates": {
       "published": "2024-09-22T16:22:00",
       "updated": "2024-09-22T16:22:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -16166,7 +16013,7 @@
     "dates": {
       "published": "2024-09-22T17:15:00",
       "updated": "2024-09-22T17:15:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -16231,7 +16078,7 @@
     "dates": {
       "published": "2024-10-11T10:33:00",
       "updated": "2024-10-15T19:22:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": "Oct 11 2024"
     },
     "source": {
@@ -16307,7 +16154,7 @@
     "dates": {
       "published": "2024-10-30T16:26:00",
       "updated": "2024-11-06T22:49:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -16352,7 +16199,7 @@
     "dates": {
       "published": "2024-11-08T09:01:00",
       "updated": "2024-11-11T07:14:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -16405,7 +16252,7 @@
   },
   {
     "id": "topic-19427-fantasy-world-transfer-ch-4-0-2-revamped-combat-07-01-25",
-    "title": "Fantasy World Transfer Ch.4.0.2 + Revamped Combat",
+    "title": "Fantasy World Transfer Ch",
     "authors": [
       "Luabara"
     ],
@@ -16413,7 +16260,7 @@
     "dates": {
       "published": "2024-11-15T14:55:00",
       "updated": "2025-07-01T21:35:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": "07/01/25"
     },
     "source": {
@@ -16424,9 +16271,9 @@
       "forum_title": "[Scenario] Fantasy World Transfer Ch.4.0.2 + Revamped Combat (07/01/25)"
     },
     "release": {
-      "scenario_version": null,
+      "scenario_version": "4.0.2",
       "target_st_version": null,
-      "advertised_version": null,
+      "advertised_version": "4.0.2",
       "status": null
     },
     "content": {
@@ -16458,7 +16305,7 @@
     "dates": {
       "published": "2024-11-24T21:45:00",
       "updated": "2025-05-12T14:09:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": "4/30/2025"
     },
     "source": {
@@ -16471,7 +16318,7 @@
     "release": {
       "scenario_version": "2.0.0",
       "target_st_version": null,
-      "advertised_version": null,
+      "advertised_version": "2.0.0",
       "status": null,
       "package_version": "2.0.0"
     },
@@ -16523,7 +16370,7 @@
     "dates": {
       "published": "2024-12-09T16:25:00",
       "updated": "2024-12-13T08:51:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -16568,7 +16415,7 @@
     "dates": {
       "published": "2025-01-01T15:54:00",
       "updated": "2025-01-01T15:54:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -16628,7 +16475,7 @@
     "dates": {
       "published": "2025-01-08T00:59:00",
       "updated": "2025-01-10T16:06:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -16673,7 +16520,7 @@
     "dates": {
       "published": "2025-01-10T16:46:00",
       "updated": "2025-01-10T16:46:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -16729,7 +16576,7 @@
     "dates": {
       "published": "2025-01-12T09:18:00",
       "updated": "2025-02-10T22:00:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -16776,7 +16623,7 @@
     "dates": {
       "published": "2025-01-12T15:51:00",
       "updated": "2025-01-30T15:05:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -16841,7 +16688,7 @@
     "dates": {
       "published": "2025-01-16T11:01:00",
       "updated": "2026-06-14T09:55:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -16886,7 +16733,7 @@
     "dates": {
       "published": "2025-01-27T03:00:00",
       "updated": "2025-01-30T01:24:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -16931,7 +16778,7 @@
     "dates": {
       "published": "2025-01-31T15:09:00",
       "updated": "2025-06-05T12:55:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -16976,7 +16823,7 @@
     "dates": {
       "published": "2025-02-03T19:08:00",
       "updated": "2025-03-20T22:03:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -17055,7 +16902,7 @@
     "dates": {
       "published": "2025-03-14T17:56:00",
       "updated": "2025-03-14T17:56:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -17100,7 +16947,7 @@
     "dates": {
       "published": "2025-04-09T11:20:00",
       "updated": "2025-10-09T13:12:00",
-      "last_checked": "2026-09-28T21:07:38-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -17175,7 +17022,7 @@
     "dates": {
       "published": "2025-04-26T13:08:00",
       "updated": "2025-04-26T13:08:00",
-      "last_checked": "2026-09-28T21:07:39-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -17243,7 +17090,7 @@
     "dates": {
       "published": "2025-04-27T04:46:00",
       "updated": "2025-04-27T11:55:00",
-      "last_checked": "2026-09-28T21:07:39-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -17288,7 +17135,7 @@
     "dates": {
       "published": "2025-05-03T07:18:00",
       "updated": "2025-05-18T00:10:00",
-      "last_checked": "2026-09-28T21:07:39-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -17355,7 +17202,7 @@
     "dates": {
       "published": "2025-05-24T19:52:00",
       "updated": "2025-05-24T19:52:00",
-      "last_checked": "2026-09-28T21:07:39-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -17416,7 +17263,7 @@
     "dates": {
       "published": "2025-05-26T06:33:00",
       "updated": "2026-07-03T21:13:00",
-      "last_checked": "2026-09-28T21:07:39-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -17461,7 +17308,7 @@
     "dates": {
       "published": "2025-06-02T08:32:00",
       "updated": "2026-07-15T15:00:00",
-      "last_checked": "2026-09-28T21:07:39-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -17507,7 +17354,7 @@
     "dates": {
       "published": "2025-06-20T10:28:00",
       "updated": "2026-01-08T21:35:00",
-      "last_checked": "2026-09-28T21:07:39-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -17570,7 +17417,7 @@
     "dates": {
       "published": "2025-06-29T23:54:00",
       "updated": "2026-05-13T20:59:00",
-      "last_checked": "2026-09-28T21:07:39-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -17644,7 +17491,7 @@
     "dates": {
       "published": "2025-07-07T18:45:00",
       "updated": "2025-08-10T21:27:00",
-      "last_checked": "2026-09-28T21:07:39-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -17689,7 +17536,7 @@
     "dates": {
       "published": "2025-08-07T01:38:00",
       "updated": "2025-08-09T00:55:00",
-      "last_checked": "2026-09-28T21:07:39-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -17734,7 +17581,7 @@
     "dates": {
       "published": "2025-08-07T16:57:00",
       "updated": "2025-08-07T16:57:00",
-      "last_checked": "2026-09-28T21:07:39-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -17779,7 +17626,7 @@
     "dates": {
       "published": "2025-08-22T13:34:00",
       "updated": "2025-08-22T13:39:00",
-      "last_checked": "2026-09-28T21:07:39-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -17824,7 +17671,7 @@
     "dates": {
       "published": "2025-08-25T23:26:00",
       "updated": "2026-01-15T21:58:00",
-      "last_checked": "2026-09-28T21:07:39-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -17870,7 +17717,7 @@
     "dates": {
       "published": "2025-08-30T08:24:00",
       "updated": "2025-08-30T08:24:00",
-      "last_checked": "2026-09-28T21:07:39-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -17929,7 +17776,7 @@
     "dates": {
       "published": "2025-10-19T17:29:00",
       "updated": "2025-10-20T08:30:00",
-      "last_checked": "2026-09-28T21:07:39-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -17974,7 +17821,7 @@
     "dates": {
       "published": "2025-10-24T20:46:00",
       "updated": "2025-10-24T20:46:00",
-      "last_checked": "2026-09-28T21:07:39-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -18019,7 +17866,7 @@
     "dates": {
       "published": "2025-10-30T01:27:00",
       "updated": "2025-12-01T23:53:00",
-      "last_checked": "2026-09-28T21:07:39-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -18064,7 +17911,7 @@
     "dates": {
       "published": "2025-10-30T17:57:00",
       "updated": "2025-11-10T10:14:00",
-      "last_checked": "2026-09-28T21:07:39-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -18109,7 +17956,7 @@
     "dates": {
       "published": "2025-11-02T02:03:00",
       "updated": "2025-11-21T17:45:00",
-      "last_checked": "2026-09-28T21:07:39-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -18177,7 +18024,7 @@
     "dates": {
       "published": "2025-11-02T14:01:00",
       "updated": "2025-11-03T23:57:00",
-      "last_checked": "2026-09-28T21:07:39-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -18232,7 +18079,7 @@
     "dates": {
       "published": "2025-11-07T15:11:00",
       "updated": "2025-11-10T10:28:00",
-      "last_checked": "2026-09-28T21:07:39-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": "Nov 2025"
     },
     "source": {
@@ -18299,7 +18146,7 @@
     "dates": {
       "published": "2025-11-08T16:03:00",
       "updated": "2025-12-01T19:09:00",
-      "last_checked": "2026-09-28T21:07:39-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -18344,7 +18191,7 @@
     "dates": {
       "published": "2025-12-29T01:16:00",
       "updated": "2025-12-29T01:16:00",
-      "last_checked": "2026-09-28T21:07:39-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -18389,7 +18236,7 @@
     "dates": {
       "published": "2025-12-31T23:55:00",
       "updated": "2026-01-08T20:33:00",
-      "last_checked": "2026-09-28T21:07:39-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -18444,15 +18291,16 @@
   },
   {
     "id": "topic-20273-remote-control-fun-1-0-jan-03-2026",
-    "title": "Remote Control Fun (1.0) Jan. 03, 2026",
+    "title": "Remote Control Fun",
     "authors": [
-      "PaulBert"
+      "PaulBert",
+      "Paulbert"
     ],
-    "description": "Hello everybody.\n\nThis is my first scenario and it has taken me longer than I am willing to admit.\n\nI wanted to make something lighthearted where John +friends are just messing around with the alien device (I called it \"remote\" for most of the time).\nSo please don't expect any high stakes or idendity deaths here.\n\nIt mainly splits into 3 routes (so far): Allison, Yui, and Friends.\n\nRight now most of the content is in the Allison+Riley-Path where they mess around with regular old hypnosis in combination with the device. (Shoutout to the \"Riley does not dream of Bunny Girl Assistant\" Scenario for the inspiration).\n\nI will probably work on expanding the Yui Route next.\n\nAnd I have a rough layout of where the Friends-Route is going.\n\nAs for the other open ends.... I have concepts of ideas with varying levels of details...\n\nSome example images:\nSpoiler: \nSpoiler: \nSpoiler: \nSpoiler: \nDownload Link:\nSpoiler: \nFlowchart:\nSpoiler: \nThere are some custom Sprites that were made with help of AI and my own editing.\nNo music, because I can't decide which music to pick for which scenes (but there are sound effects, so there's that)\n\nI wrote most of it on Version 8, but I finished and tested it on V9.\nSo there shouldn't be any issues (famous last words, I know.)\nAnd of course the usual disclaimer that english isn't my first language.",
+    "description": "John experiments with the remote shortly after discovering it, setting off a branching series of temporary gender changes, body swaps, possession, and mind-control mishaps involving his friends and classmates.",
     "dates": {
       "published": "2026-01-04T02:35:00",
       "updated": "2026-01-04T02:35:00",
-      "last_checked": "2026-09-28T21:07:39-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -18463,19 +18311,41 @@
       "forum_title": "[Scenario] Remote Control Fun (1.0) Jan. 03, 2026"
     },
     "release": {
-      "scenario_version": null,
+      "scenario_version": "1.0",
       "target_st_version": null,
-      "advertised_version": null,
+      "package_version": "1.0.0",
+      "advertised_version": "1.0",
       "status": null
     },
     "content": {
-      "tags": [],
+      "tags": [
+        "Alien technology",
+        "Body swapping",
+        "Body swaps",
+        "Branching paths",
+        "device",
+        "Gender transformation",
+        "Mind control",
+        "non permanent",
+        "Nudity",
+        "Possession",
+        "Transformation"
+      ],
+      "characters": [
+        "John",
+        "Kiyoshi",
+        "Allison",
+        "Irene",
+        "Yui",
+        "Katrina",
+        "Kyoko",
+        "Riley"
+      ],
       "nsfw": "unknown",
-      "word_count": null,
-      "reading_time_minutes": null,
-      "reading_time_display": null,
       "completed": false,
-      "characters": []
+      "word_count": 15970,
+      "reading_time_minutes": 80,
+      "reading_time_display": "1 hour and 20 minutes"
     },
     "image": {
       "kind": "forum_image",
@@ -18483,7 +18353,7 @@
       "source_url": "https://imgur.com/a/yVChyvs"
     },
     "availability": {
-      "archive_available": false,
+      "archive_available": true,
       "link_status": "unknown"
     }
   },
@@ -18497,7 +18367,7 @@
     "dates": {
       "published": "2026-01-09T10:07:00",
       "updated": "2026-01-19T17:30:00",
-      "last_checked": "2026-09-28T21:07:39-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -18542,7 +18412,7 @@
     "dates": {
       "published": "2026-01-12T04:35:00",
       "updated": "2026-01-12T04:35:00",
-      "last_checked": "2026-09-28T21:07:39-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -18587,7 +18457,7 @@
     "dates": {
       "published": "2026-01-31T13:46:00",
       "updated": "2026-02-27T18:26:00",
-      "last_checked": "2026-09-28T21:07:39-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -18632,7 +18502,7 @@
     "dates": {
       "published": "2026-03-07T22:43:00",
       "updated": "2026-08-22T09:45:00",
-      "last_checked": "2026-09-28T21:07:39-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": "March 10, 2026"
     },
     "source": {
@@ -18643,9 +18513,9 @@
       "forum_title": "[Scenario] Treats of Summer (1.1.0 - March 10, 2026)"
     },
     "release": {
-      "scenario_version": null,
+      "scenario_version": "1.1.0",
       "target_st_version": null,
-      "advertised_version": null,
+      "advertised_version": "1.1.0",
       "status": null
     },
     "content": {
@@ -18677,7 +18547,7 @@
     "dates": {
       "published": "2026-03-14T13:28:00",
       "updated": "2026-03-14T13:28:00",
-      "last_checked": "2026-09-28T21:07:39-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -18752,7 +18622,7 @@
     "dates": {
       "published": "2026-04-01T01:31:00",
       "updated": "2026-04-01T01:31:00",
-      "last_checked": "2026-09-28T21:07:39-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -18797,7 +18667,7 @@
     "dates": {
       "published": "2026-04-01T15:52:00",
       "updated": "2026-04-01T18:47:00",
-      "last_checked": "2026-09-28T21:07:39-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -18856,7 +18726,7 @@
     "dates": {
       "published": "2026-04-03T12:53:00",
       "updated": "2026-04-06T19:41:00",
-      "last_checked": "2026-09-28T21:07:39-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": "7/3/26"
     },
     "source": {
@@ -18922,7 +18792,7 @@
     "dates": {
       "published": "2026-04-03T21:18:00",
       "updated": "2026-04-09T15:50:00",
-      "last_checked": "2026-09-28T21:07:39-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -19003,7 +18873,7 @@
     "dates": {
       "published": "2026-04-07T19:58:00",
       "updated": "2026-06-05T02:25:00",
-      "last_checked": "2026-09-28T21:07:39-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -19040,15 +18910,16 @@
   },
   {
     "id": "topic-20600-terms-of-service-1-0",
-    "title": "Terms Of Service 1.0",
+    "title": "Terms Of Service",
     "authors": [
-      "the7saint7"
+      "the7saint7",
+      "The7Saint7"
     ],
-    "description": "Terms of Service\n\nNew exciting game!\nSign your life away!\n\nHave you ever wanted to read a legally questionable agreement? No? Perfect.\n\nWARNING\nAI - Lots of it was used.\n\nDownload\nhttps://mega.nz/file/q58QlKYb#c86Id1iv6 ... YCXJAUXYoU\n\nTags\n- Acceptance\n- Denial\n- Scrolling\n\nClarification\nMany poeple have reached out asking WTH did I just publish. So let me explain.\nSpoiler:",
+    "description": "A short interactive gag that traps the player in an endlessly expanding terms-of-service screen before resolving their choice to accept or refuse.",
     "dates": {
       "published": "2026-04-24T15:50:00",
       "updated": "2026-04-25T10:20:00",
-      "last_checked": "2026-09-28T21:07:39-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -19059,19 +18930,28 @@
       "forum_title": "[Scenario] Terms Of Service 1.0"
     },
     "release": {
-      "scenario_version": null,
+      "scenario_version": "1.0",
       "target_st_version": null,
-      "advertised_version": null,
+      "package_version": "1.0.0",
+      "advertised_version": "1.0",
       "status": null
     },
     "content": {
-      "tags": [],
-      "nsfw": "unknown",
-      "word_count": null,
-      "reading_time_minutes": null,
-      "reading_time_display": null,
-      "completed": false,
-      "characters": []
+      "tags": [
+        "Acceptance",
+        "Branching paths",
+        "Comedy",
+        "Denial",
+        "Metafiction",
+        "Scrolling",
+        "Short"
+      ],
+      "characters": [],
+      "nsfw": "no",
+      "completed": true,
+      "word_count": 102,
+      "reading_time_minutes": 1,
+      "reading_time_display": "1 minute"
     },
     "image": {
       "kind": "placeholder",
@@ -19079,7 +18959,7 @@
       "source_url": null
     },
     "availability": {
-      "archive_available": false,
+      "archive_available": true,
       "link_status": "working"
     }
   },
@@ -19093,7 +18973,7 @@
     "dates": {
       "published": "2026-05-01T17:22:00",
       "updated": "2026-05-01T17:22:00",
-      "last_checked": "2026-09-28T21:07:39-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -19138,7 +19018,7 @@
     "dates": {
       "published": "2026-05-23T07:40:00",
       "updated": "2026-05-23T07:40:00",
-      "last_checked": "2026-09-28T21:07:39-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -19194,7 +19074,7 @@
     "dates": {
       "published": "2026-07-08T12:44:00",
       "updated": "2026-08-15T17:21:00",
-      "last_checked": "2026-09-28T21:07:39-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -19239,7 +19119,7 @@
     "dates": {
       "published": "2026-08-22T13:16:00",
       "updated": "2026-08-23T06:06:00",
-      "last_checked": "2026-09-28T21:07:39-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -19306,7 +19186,7 @@
     "dates": {
       "published": "2026-09-01T19:01:00",
       "updated": "2026-09-01T19:01:00",
-      "last_checked": "2026-09-28T21:07:39-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": "Sep 1, 2026"
     },
     "source": {
@@ -19365,7 +19245,7 @@
     "dates": {
       "published": "2026-09-01T23:17:00",
       "updated": "2026-09-03T02:53:00",
-      "last_checked": "2026-09-28T21:07:39-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -19427,7 +19307,7 @@
     "dates": {
       "published": "2026-09-02T08:31:00",
       "updated": "2026-09-03T13:57:00",
-      "last_checked": "2026-09-28T21:07:39-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -19472,7 +19352,7 @@
     "dates": {
       "published": "2026-09-02T14:00:00",
       "updated": "2026-09-05T05:45:00",
-      "last_checked": "2026-09-28T21:07:39-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -19534,7 +19414,7 @@
     "dates": {
       "published": "2026-09-02T15:18:00",
       "updated": "2026-09-02T15:18:00",
-      "last_checked": "2026-09-28T21:07:39-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -19590,7 +19470,7 @@
     "dates": {
       "published": "2026-09-05T03:02:00",
       "updated": "2026-09-05T03:02:00",
-      "last_checked": "2026-09-28T21:07:39-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -19627,7 +19507,7 @@
   },
   {
     "id": "topic-20884-trials-of-souls-1-1-0-sept-10-2026",
-    "title": "Trials of Souls 1.1.0 - Sept. 10, 2026",
+    "title": "Trials of Souls",
     "authors": [
       "the7saint7"
     ],
@@ -19635,7 +19515,7 @@
     "dates": {
       "published": "2026-09-05T23:34:00",
       "updated": "2026-09-08T18:53:00",
-      "last_checked": "2026-09-28T21:07:39-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -19646,17 +19526,24 @@
       "forum_title": "[Scenario] Trials of Souls 1.1.0 - Sept. 10, 2026"
     },
     "release": {
-      "scenario_version": null,
+      "scenario_version": "1.1.0",
       "target_st_version": null,
-      "advertised_version": null,
-      "status": null
+      "advertised_version": "1.1.0",
+      "status": null,
+      "package_version": "1.1.0"
     },
     "content": {
-      "tags": [],
+      "tags": [
+        "AI-generated art",
+        "Main story hook",
+        "Mind control",
+        "Strategy fighting mini game",
+        "Gender transformation"
+      ],
       "nsfw": "unknown",
-      "word_count": null,
-      "reading_time_minutes": null,
-      "reading_time_display": null,
+      "word_count": 62524,
+      "reading_time_minutes": 313,
+      "reading_time_display": "5 hours and 13 minutes",
       "completed": false,
       "characters": []
     },
@@ -19666,7 +19553,7 @@
       "source_url": "https://i.imgur.com/5PUqFWX.png"
     },
     "availability": {
-      "archive_available": false,
+      "archive_available": true,
       "link_status": "working"
     }
   },
@@ -19680,7 +19567,7 @@
     "dates": {
       "published": "2026-09-20T21:09:00",
       "updated": "2026-09-20T21:09:00",
-      "last_checked": "2026-09-28T21:07:39-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -19747,7 +19634,7 @@
     "dates": {
       "published": "2026-09-26T16:20:00",
       "updated": "2026-09-26T16:20:00",
-      "last_checked": "2026-09-28T21:07:39-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -21155,7 +21042,7 @@
     "dates": {
       "published": "2017-05-29T00:59:00",
       "updated": "2018-02-19T11:12:00",
-      "last_checked": "2026-09-28T21:07:39-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -21216,7 +21103,7 @@
   },
   {
     "id": "topic-9362-chasing-setsuna",
-    "title": "Chasing Setsuna",
+    "title": "Chasing Setsuna {Cancelled: No New Content}",
     "authors": [
       "CXT Group"
     ],
@@ -21224,7 +21111,7 @@
     "dates": {
       "published": "2017-05-30T13:42:00",
       "updated": "2022-02-10T22:36:00",
-      "last_checked": "2026-09-28T21:07:39-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": "09/19/21"
     },
     "source": {
@@ -21291,7 +21178,7 @@
     "dates": {
       "published": "2017-06-03T20:44:00",
       "updated": "2017-09-04T12:38:00",
-      "last_checked": "2026-09-28T21:07:39-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -21336,7 +21223,7 @@
     "dates": {
       "published": "2017-06-05T15:51:00",
       "updated": "2017-06-28T07:33:00",
-      "last_checked": "2026-09-28T21:07:39-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": null
     },
     "source": {
@@ -21381,7 +21268,7 @@
     "dates": {
       "published": "2017-07-04T09:10:00",
       "updated": "2020-04-01T16:42:00",
-      "last_checked": "2026-09-28T21:07:39-04:00"
+      "last_checked": "2026-09-28T21:23:23-04:00"
     },
     "source": {
       "forum_url": "https://tfgames.site/phpbb3/viewtopic.php?t=9784",
@@ -21423,7 +21310,7 @@
     "dates": {
       "published": "2017-07-04T09:10:00",
       "updated": "2020-04-01T16:42:00",
-      "last_checked": "2026-09-28T21:07:39-04:00"
+      "last_checked": "2026-09-28T21:23:23-04:00"
     },
     "source": {
       "forum_url": "https://tfgames.site/phpbb3/viewtopic.php?t=9784",
@@ -21457,7 +21344,7 @@
   },
   {
     "id": "topic-9949-powers",
-    "title": "Powers",
+    "title": "Powers 8/13/17",
     "authors": [
       "royal422"
     ],
@@ -21465,7 +21352,7 @@
     "dates": {
       "published": "2017-08-13T23:16:00",
       "updated": "2018-03-02T03:27:00",
-      "last_checked": "2026-09-28T21:07:39-04:00",
+      "last_checked": "2026-09-28T21:23:23-04:00",
       "title_date": "8/13/17"
     },
     "source": {
@@ -21515,57 +21402,6 @@
     "availability": {
       "archive_available": true,
       "link_status": "working"
-    }
-  },
-  {
-    "id": "tos-game-3-dcf6d0ebc6",
-    "title": "ToS: Game #3",
-    "authors": [
-      "The7Saint7"
-    ],
-    "description": "John and his friends return for another branching game of Truth or Syn, carrying forward several possible prior outcomes into magical transformations, dares, body swaps, and adult encounters.",
-    "dates": {
-      "published": null,
-      "updated": null,
-      "last_checked": null
-    },
-    "source": {
-      "forum_url": null,
-      "forum_topic_id": null,
-      "download_url": null,
-      "link_status": "unknown"
-    },
-    "release": {
-      "scenario_version": "-1",
-      "target_st_version": null,
-      "package_version": "-1"
-    },
-    "content": {
-      "tags": [
-        "Body swapping",
-        "Branching paths",
-        "Explicit sex",
-        "Gender transformation",
-        "Magic",
-        "Mind control",
-        "Transformation",
-        "Truth or Dare"
-      ],
-      "nsfw": "yes",
-      "word_count": 51230,
-      "reading_time_minutes": 256,
-      "reading_time_display": "4 hours and 16 minutes",
-      "completed": false,
-      "characters": []
-    },
-    "image": {
-      "kind": "scenario_banner",
-      "path": "tos_g3_banner",
-      "source_url": null
-    },
-    "availability": {
-      "archive_available": true,
-      "link_status": "unknown"
     }
   },
   {
@@ -21770,61 +21606,6 @@
     "image": {
       "kind": "scenario_banner",
       "path": "images/tos-treats-of-summer-36dad699a1.webp",
-      "source_url": null
-    },
-    "availability": {
-      "archive_available": true,
-      "link_status": "unknown"
-    }
-  },
-  {
-    "id": "trials-of-souls-e8d6e4bd9a",
-    "title": "Trials of Souls",
-    "authors": [
-      "The7Saint7"
-    ],
-    "description": "John discovers a mysterious alien game that can capture and transform his friends into customizable fantasy allies. He must navigate classes, roles, relationships, and strategic battles while trying to understand the game's lasting effects.",
-    "dates": {
-      "published": null,
-      "updated": null,
-      "last_checked": null
-    },
-    "source": {
-      "forum_url": null,
-      "forum_topic_id": null,
-      "download_url": null,
-      "link_status": "unknown"
-    },
-    "release": {
-      "scenario_version": "2.0.0",
-      "target_st_version": null,
-      "package_version": "2.0.0"
-    },
-    "content": {
-      "tags": [
-        "AI-generated art",
-        "Branching paths",
-        "Character customization",
-        "Explicit sex",
-        "Fantasy",
-        "Gender transformation",
-        "Main story hook",
-        "Mind control",
-        "Romance",
-        "Strategy combat",
-        "Strategy fighting mini game",
-        "Transformation"
-      ],
-      "nsfw": "yes",
-      "word_count": 77694,
-      "reading_time_minutes": 388,
-      "reading_time_display": "6 hours and 28 minutes",
-      "completed": false,
-      "characters": []
-    },
-    "image": {
-      "kind": "scenario_banner",
-      "path": "images/trials-of-souls-e8d6e4bd9a.png",
       "source_url": null
     },
     "availability": {
