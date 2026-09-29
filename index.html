@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="Browse community-made scenarios for Student Transfer.">
+  <title>Student Transfer Scenario Library</title>
+  <link rel="stylesheet" href="styles.css?v=1">
+  <link rel="stylesheet" href="tags.css?v=1"><link rel="stylesheet" href="toggles.css?v=1">
+</head>
+<body>
+  <header class="hero">
+    <nav><a class="brand" href="#">ST<span>/</span>Library</a><a href="#collection">Browse</a><a href="#about">About</a></nav>
+    <div class="hero-copy"><p class="eyebrow">Community scenario archive</p><h1>More stories.<br><em>One library.</em></h1><p class="intro">Discover fan-made Student Transfer stories by character, theme, length, and content rating.</p><a class="primary" href="#collection">Explore the collection ↓</a></div>
+    <div class="orbit" aria-hidden="true"><span>ST</span></div>
+  </header>
+  <main id="collection">
+    <section class="summary" aria-label="Library summary">
+      <div><strong id="total-count">—</strong><span>known scenarios</span></div><div><strong id="download-count">—</strong><span>download links</span></div><div><strong id="completed-count">—</strong><span>completed stories</span></div><div><strong id="image-count">—</strong><span>with artwork</span></div>
+    </section>
+    <section class="collection-head"><div><p class="eyebrow dark">The collection</p><h2>Find your next route</h2></div><p><strong id="visible-count">0</strong> results</p></section>
+    <section class="controls" aria-label="Catalog filters">
+      <label class="search"><span>Search</span><input id="search" type="search" placeholder="Title, author, description…"></label>
+      <div class="tag-filter"><span class="control-label">Themes</span><button id="theme-toggle" type="button" aria-expanded="false">All themes</button><div id="theme-menu" class="tag-menu" hidden><input id="theme-search" class="facet-search" type="search" placeholder="Find a theme…"><div id="theme-options" class="facet-options"></div></div></div>
+      <div class="tag-filter"><span class="control-label">Characters</span><button id="character-toggle" type="button" aria-expanded="false">All characters</button><div id="character-menu" class="tag-menu" hidden><input id="character-search" class="facet-search" type="search" placeholder="Find a character…"><div id="character-options" class="facet-options"></div></div></div>
+      <label class="toggle-filter"><input id="nsfw" type="checkbox"><span><strong>NSFW only</strong><small>Show explicit scenarios</small></span></label>
+      <label class="toggle-filter"><input id="completed" type="checkbox"><span><strong>Completed only</strong><small>Hide incomplete scenarios</small></span></label>
+      <label class="toggle-filter"><input id="availability" type="checkbox" checked><span><strong>Available only</strong><small>Hide dead or missing links</small></span></label>
+      <label><span>Sort</span><select id="sort"><option value="updated">Recently updated</option><option value="title">Title A–Z</option><option value="duration">Longest first</option></select></label>
+      <button id="reset" type="button">Reset filters</button><div id="selected-tags" class="selected-tags" aria-live="polite"></div>
+    </section>
+    <p id="empty" class="empty" hidden>No scenarios match these filters.</p>
+    <section id="grid" class="grid" aria-live="polite"></section>
+  </main>
+  <section id="about" class="about"><div><p class="eyebrow">About this archive</p><h2>Built by the community</h2></div><p>Student Transfer scenarios are fan-made extensions supported by the game. This catalog preserves public releases and their original attribution. Availability varies because many older file-hosting links have expired.</p></section>
+  <footer><span>Unofficial community project</span><span>Student Transfer belongs to its respective creators.</span></footer>
+
+  <template id="card-template"><article class="card" tabindex="0"><div class="art"><div class="placeholder"><span>ST</span></div><div class="badges"><span class="completion"></span><span class="rating"></span></div></div><div class="body"><p class="author"></p><h3></h3><p class="description"></p><div class="tags"></div><div class="meta"><span class="duration"></span><span class="date"></span></div><button class="details" type="button">View details</button></div></article></template>
+
+  <dialog id="detail-dialog"><button class="close" type="button" aria-label="Close">×</button><div class="detail-art"><div class="placeholder"><span>ST</span></div></div><div class="detail-body"><p class="detail-author eyebrow dark"></p><h2 class="detail-title"></h2><div class="detail-badges"></div><p class="detail-description"></p><dl><div><dt>Estimated length</dt><dd class="detail-duration"></dd></div><div><dt>Scenario version</dt><dd class="detail-version"></dd></div><div><dt>Made for ST</dt><dd class="detail-st-version"></dd></div><div><dt>Last updated</dt><dd class="detail-date"></dd></div></dl><div class="detail-tags"></div><div class="detail-actions"><a class="detail-download primary" target="_blank" rel="noopener">Download scenario</a><a class="detail-forum secondary" target="_blank" rel="noopener">Forum discussion</a></div><p class="availability-note"></p></div></dialog>
+  <script src="app.js?v=1" defer></script>
+</body></html>
