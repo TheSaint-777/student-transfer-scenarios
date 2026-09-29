@@ -55,7 +55,10 @@ function openDetails(s) {
   dialog.querySelector('.detail-title').textContent = s.title;
   dialog.querySelector('.detail-description').textContent = s.description || 'A description is not yet available for this scenario.';
   dialog.querySelector('.detail-duration').textContent = s.content?.reading_time_display || 'Unknown';
-  dialog.querySelector('.detail-version').textContent = s.release?.scenario_version || 'Unknown';
+  const advertised=s.release?.advertised_version, packaged=s.release?.package_version;
+  dialog.querySelector('.detail-version').textContent = advertised && packaged && advertised!==packaged
+    ? `${advertised} advertised · ${packaged} downloaded`
+    : (advertised || packaged || s.release?.scenario_version || 'Unknown');
   dialog.querySelector('.detail-st-version').textContent = s.release?.target_st_version || 'Unknown';
   dialog.querySelector('.detail-date').textContent = formattedDate(s);
   labelsInto(s, dialog.querySelector('.detail-tags'), 20);
