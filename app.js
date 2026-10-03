@@ -1,9 +1,16 @@
 const state = {
   scenarios: [], filtered: [], themes: [], characters: [],
-  selectedThemes: new Set(), selectedCharacters: new Set(),
+  selectedThemes: new Set(), selectedCharacters: new Set(), selectedAuthor: null,
 };
 const $ = id => document.getElementById(id);
 const text = value => (value ?? '').toString();
+const AUTHOR_ALIASES = new Map([
+  ['thesaint', 'the7saint7'],
+]);
+function authorKey(value) {
+  const normalized = text(value).trim().toLocaleLowerCase();
+  return AUTHOR_ALIASES.get(normalized) || normalized;
+}
 
 function searchable(s) {
   return [s.title, ...(s.authors || []), s.description,
@@ -83,7 +90,8 @@ function matchesAny(values, selected) {
 function render() {
   const query = $('search').value.trim().toLowerCase();
   const nsfwOnly = $('nsfw').checked, completedOnly = $('completed').checked, availableOnly = $('availability').checked;
-  let rows = state.scenarios.filter(s => !query || searchable(s).includes(query));
+  let rows = state.scenarios.filter(s => !state.selectedAuthor || (s.authors || []).some(name => authorKey(name) === state.selectedAuthor));
+  rows = rows.filter(s => !query || searchable(s).includes(query));
   rows = rows.filter(s => matchesAny(s.content?.tags, state.selectedThemes));
   rows = rows.filter(s => matchesAny(s.content?.characters, state.selectedCharacters));
   rows = rows.filter(s => !nsfwOnly || s.content?.nsfw === 'yes');
@@ -117,6 +125,63 @@ function render() {
     grid.append(fragment);
   }
   $('visible-count').textContent = rows.length; $('empty').hidden = rows.length > 0;
+}
+function formatTotalMinutes(minutes) {
+  if (!minutes) return 'Time not estimated';
+  if (minutes < 60) return `${minutes} min estimated total`;
+  const hours = Math.floor(minutes / 60), remainder = minutes % 60;
+  return `${hours} hr${hours === 1 ? '' : 's'}${remainder ? ` ${remainder} min` : ''} estimated total`;
+}
+function authorRows() {
+  const authors = new Map();
+  for (const scenario of state.scenarios) {
+    const scenarioAuthors = new Set();
+    for (const name of scenario.authors || []) {
+      if (!name?.trim()) continue;
+      const key = authorKey(name);
+      if (scenarioAuthors.has(key)) continue;
+      scenarioAuthors.add(key);
+      const item = authors.get(key) || {key, name, variants: new Map(), count: 0, minutes: 0};
+      item.count += 1;
+      item.minutes += Number(scenario.content?.reading_time_minutes) || 0;
+      item.variants.set(name, (item.variants.get(name) || 0) + 1);
+      item.name = [...item.variants].sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]))[0][0];
+      authors.set(key, item);
+    }
+  }
+  return [...authors.values()].sort((a, b) => a.name.localeCompare(b.name));
+}
+function renderAuthors() {
+  const query = $('author-search').value.trim().toLowerCase();
+  const rows = authorRows().filter(author => author.name.toLowerCase().includes(query));
+  const grid = $('author-grid'); grid.replaceChildren();
+  for (const author of rows) {
+    const fragment = $('author-template').content.cloneNode(true), card = fragment.querySelector('.author-card');
+    card.href = `#author=${encodeURIComponent(author.key)}`;
+    card.querySelector('.author-avatar').textContent = author.name.trim().charAt(0).toUpperCase() || '?';
+    card.querySelector('.author-info strong').textContent = author.name;
+    card.querySelector('.author-stats').textContent = `${author.count} scenario${author.count === 1 ? '' : 's'} · ${formatTotalMinutes(author.minutes)}`;
+    grid.append(fragment);
+  }
+  $('author-visible-count').textContent = rows.length;
+  $('author-empty').hidden = rows.length > 0;
+}
+function applyRoute() {
+  const hash = location.hash.slice(1);
+  const showingAuthors = hash === 'authors';
+  if (hash.startsWith('author=')) {
+    try { state.selectedAuthor = authorKey(decodeURIComponent(hash.slice(7))); }
+    catch { state.selectedAuthor = null; }
+  } else state.selectedAuthor = null;
+  $('authors-view').hidden = !showingAuthors;
+  $('catalog-view').hidden = showingAuthors;
+  $('author-filter').hidden = !state.selectedAuthor;
+  $('active-author').textContent = authorRows().find(author => author.key === state.selectedAuthor)?.name || state.selectedAuthor || '';
+  if (showingAuthors) renderAuthors();
+  else {
+    render();
+    if (state.selectedAuthor) requestAnimationFrame(() => $('collection').scrollIntoView());
+  }
 }
 function facet(kind) {
   const character = kind === 'character';
@@ -165,9 +230,10 @@ function toggleFacet(kind) {
 }
 function reset() {
   $('search').value = ''; $('availability').checked = true; $('nsfw').checked = false; $('completed').checked = false;
-  state.selectedThemes.clear(); state.selectedCharacters.clear();
+  state.selectedThemes.clear(); state.selectedCharacters.clear(); state.selectedAuthor = null;
   $('theme-search').value = ''; $('character-search').value = ''; $('sort').value = 'updated';
-  renderFacetOptions('theme'); renderFacetOptions('character'); renderSelectedLabels(); render();
+  renderFacetOptions('theme'); renderFacetOptions('character'); renderSelectedLabels();
+  if (location.hash !== '#collection') location.hash = 'collection'; else applyRoute();
 }
 
 fetch('scenarios.json').then(response => {
@@ -185,7 +251,10 @@ fetch('scenarios.json').then(response => {
     facet(kind).toggle.onclick = () => toggleFacet(kind);
   }
   document.querySelectorAll('.controls>label input,.controls>label select').forEach(element => element.addEventListener('input', render));
-  $('reset').onclick = reset; render();
+  $('reset').onclick = reset;
+  $('author-search').oninput = renderAuthors;
+  $('clear-author').onclick = () => { location.hash = 'authors'; };
+  applyRoute();
 }).catch(() => {
   $('empty').hidden = false; $('empty').textContent = 'The catalog could not be loaded.';
 });
@@ -198,3 +267,4 @@ document.addEventListener('click', event => {
 });
 $('detail-dialog').querySelector('.close').onclick = () => $('detail-dialog').close();
 $('detail-dialog').onclick = event => { if (event.target === $('detail-dialog')) $('detail-dialog').close(); };
+window.addEventListener('hashchange', applyRoute);

@@ -1,0 +1,24 @@
+.authors-view { padding: 70px 0 10px; }
+.authors-head { display: flex; align-items: end; justify-content: space-between; gap: 30px; margin-bottom: 28px; }
+.authors-head h2 { margin: 0; font: 700 clamp(2rem, 4vw, 3.5rem)/1 Georgia, serif; letter-spacing: -.035em; }
+.authors-head div > p:last-child { max-width: 620px; margin: 16px 0 0; color: var(--muted); line-height: 1.6; }
+.authors-head > p { color: var(--muted); }
+.author-search { display: block; max-width: 620px; margin-bottom: 28px; }
+.author-search span { display: block; margin: 0 0 8px 3px; color: var(--muted); font-size: .68rem; font-weight: 900; text-transform: uppercase; letter-spacing: .08em; }
+.author-search input { width: 100%; height: 50px; padding: 0 15px; border: 1px solid #d5ccbd; border-radius: 8px; background: var(--card); color: var(--ink); font: inherit; }
+.author-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 14px; }
+.author-card { display: flex; align-items: center; gap: 14px; padding: 18px; border: 1px solid var(--line); border-radius: 10px; background: var(--card); box-shadow: 0 6px 20px #3e291008; transition: .18s transform, .18s border-color; }
+.author-card:hover, .author-card:focus { outline: none; border-color: var(--rose); transform: translateY(-2px); }
+.author-avatar { flex: 0 0 44px; height: 44px; display: grid; place-items: center; border-radius: 50%; color: white; background: linear-gradient(135deg, var(--wine), var(--rose)); font: 700 1.2rem Georgia, serif; }
+.author-info { min-width: 0; display: flex; flex: 1; flex-direction: column; gap: 5px; }
+.author-info strong { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.author-stats { color: var(--muted); font-size: .76rem; }
+.author-arrow { color: var(--wine); font-size: 1.25rem; }
+.author-filter { display: flex; align-items: center; justify-content: space-between; gap: 16px; margin: -8px 0 18px; padding: 14px 18px; border-left: 4px solid var(--wine); border-radius: 7px; background: #eadedc; }
+.author-filter button { padding: 8px 12px; border: 0; border-radius: 6px; color: white; background: var(--wine); font-weight: 800; cursor: pointer; }
+
+@media (max-width: 720px) {
+  nav a[href="#authors"] { display: block; }
+  .authors-head { display: block; }
+  .author-filter { align-items: flex-start; flex-direction: column; }
+}
