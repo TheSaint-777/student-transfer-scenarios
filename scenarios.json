@@ -286,7 +286,7 @@
     "dates": {
       "published": "2025-10-19T17:29:00",
       "updated": "2025-10-20T08:30:00",
-      "last_checked": "2026-09-28T21:48:14-04:00",
+      "last_checked": "2026-10-11T13:28:14-04:00",
       "title_date": null
     },
     "source": {
@@ -398,7 +398,7 @@
     "dates": {
       "published": "2026-09-05T03:02:00",
       "updated": "2026-09-05T03:02:00",
-      "last_checked": "2026-09-28T21:48:14-04:00",
+      "last_checked": "2026-10-11T13:28:14-04:00",
       "title_date": null
     },
     "source": {
@@ -460,7 +460,7 @@
     "dates": {
       "published": "2025-10-19T17:29:00",
       "updated": "2025-10-20T08:30:00",
-      "last_checked": "2026-09-28T21:48:14-04:00",
+      "last_checked": "2026-10-11T13:28:14-04:00",
       "title_date": null
     },
     "source": {
@@ -535,7 +535,7 @@
     "dates": {
       "published": "2026-09-05T03:02:00",
       "updated": "2026-09-05T03:02:00",
-      "last_checked": "2026-09-28T21:48:14-04:00",
+      "last_checked": "2026-10-11T13:28:15-04:00",
       "title_date": null
     },
     "source": {
@@ -1317,7 +1317,7 @@
     "dates": {
       "published": "2026-09-05T03:02:00",
       "updated": "2026-09-05T03:02:00",
-      "last_checked": "2026-09-28T21:48:14-04:00",
+      "last_checked": "2026-10-11T13:28:15-04:00",
       "title_date": null
     },
     "source": {
@@ -1730,14 +1730,14 @@
     "dates": {
       "published": "2017-09-03T03:28:00",
       "updated": "2019-10-29T22:57:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:11-04:00",
       "title_date": null
     },
     "source": {
       "forum_url": "https://tfgames.site/phpbb3/viewtopic.php?t=10044",
       "forum_topic_id": "10044",
-      "download_url": "https://www.mediafire.com/file/r33fv1iex1o5wsf/Library_Antics.zip/file",
-      "link_status": "working",
+      "download_url": "https://mega.nz/file/Usk02JQL#6c5UwCFqnKnBFEh_BDeQGJZoeTNj2eU4K3AU2YddroA",
+      "link_status": "unknown",
       "forum_title": "[Scenario] Library Antics for ST v6"
     },
     "release": {
@@ -1786,7 +1786,7 @@
     },
     "availability": {
       "archive_available": true,
-      "link_status": "working"
+      "link_status": "unknown"
     }
   },
   {
@@ -1800,7 +1800,7 @@
     "dates": {
       "published": "2017-10-02T01:59:00",
       "updated": "2021-03-16T22:57:00",
-      "last_checked": "2026-09-28T21:48:13-04:00"
+      "last_checked": "2026-10-11T13:28:11-04:00"
     },
     "source": {
       "forum_url": "https://tfgames.site/phpbb3/viewtopic.php?t=10167",
@@ -1843,7 +1843,7 @@
     "dates": {
       "published": "2017-10-02T01:59:00",
       "updated": "2021-03-16T22:57:00",
-      "last_checked": "2026-09-28T21:48:13-04:00"
+      "last_checked": "2026-10-11T13:28:11-04:00"
     },
     "source": {
       "forum_url": "https://tfgames.site/phpbb3/viewtopic.php?t=10167",
@@ -1886,7 +1886,7 @@
     "dates": {
       "published": "2017-10-02T01:59:00",
       "updated": "2021-03-16T22:57:00",
-      "last_checked": "2026-09-28T21:48:13-04:00"
+      "last_checked": "2026-10-11T13:28:11-04:00"
     },
     "source": {
       "forum_url": "https://tfgames.site/phpbb3/viewtopic.php?t=10167",
@@ -1929,7 +1929,7 @@
     "dates": {
       "published": "2017-10-02T01:59:00",
       "updated": "2021-03-16T22:57:00",
-      "last_checked": "2026-09-28T21:48:13-04:00"
+      "last_checked": "2026-10-11T13:28:11-04:00"
     },
     "source": {
       "forum_url": "https://tfgames.site/phpbb3/viewtopic.php?t=10167",
@@ -1980,7 +1980,7 @@
     "dates": {
       "published": "2017-10-21T21:32:00",
       "updated": "2017-10-26T01:15:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:11-04:00",
       "title_date": "10/21/17"
     },
     "source": {
@@ -2026,7 +2026,7 @@
     "dates": {
       "published": "2017-10-30T18:53:00",
       "updated": "2019-07-23T23:39:00",
-      "last_checked": "2026-09-28T21:48:13-04:00"
+      "last_checked": "2026-10-11T13:28:11-04:00"
     },
     "source": {
       "forum_url": "https://tfgames.site/phpbb3/viewtopic.php?t=10285",
@@ -2086,7 +2086,7 @@
     "dates": {
       "published": "2017-10-30T18:53:00",
       "updated": "2019-07-23T23:39:00",
-      "last_checked": "2026-09-28T21:48:13-04:00"
+      "last_checked": "2026-10-11T13:28:11-04:00"
     },
     "source": {
       "forum_url": "https://tfgames.site/phpbb3/viewtopic.php?t=10285",
@@ -2139,7 +2139,7 @@
     "dates": {
       "published": "2017-11-25T21:20:00",
       "updated": "2017-11-25T23:17:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:11-04:00",
       "title_date": "11/25/17"
     },
     "source": {
@@ -2154,7 +2154,7 @@
       "target_st_version": "2.2",
       "advertised_version": "1.0a",
       "status": null,
-      "package_version": "1.0a"
+      "package_version": null
     },
     "content": {
       "tags": [
@@ -2196,7 +2196,7 @@
     "dates": {
       "published": "2017-12-24T07:28:00",
       "updated": "2018-06-10T03:21:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:11-04:00",
       "title_date": "04/26/2018"
     },
     "source": {
@@ -2284,7 +2284,7 @@
     "dates": {
       "published": "2018-01-29T07:56:00",
       "updated": "2019-03-13T21:33:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:11-04:00",
       "title_date": null
     },
     "source": {
@@ -2330,7 +2330,7 @@
     "dates": {
       "published": "2018-03-12T04:28:00",
       "updated": "2018-04-10T17:13:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:11-04:00",
       "title_date": null
     },
     "source": {
@@ -2376,7 +2376,7 @@
     "dates": {
       "published": "2018-03-29T06:33:00",
       "updated": "2018-04-10T17:14:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:11-04:00",
       "title_date": null
     },
     "source": {
@@ -2422,14 +2422,14 @@
     "dates": {
       "published": "2018-04-10T19:55:00",
       "updated": "2019-03-08T19:48:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:11-04:00",
       "title_date": null
     },
     "source": {
       "forum_url": "https://tfgames.site/phpbb3/viewtopic.php?t=11013",
       "forum_topic_id": "11013",
-      "download_url": "https://mega.nz/#!8McQAQwI!kX8QoxGePmm1Mv70iz7kirLuxIfBwXZSl-zj5WqVmeE",
-      "link_status": "working",
+      "download_url": "https://mega.nz/#!hYUH0YrI!_KlH7K_Z3QBT8CANOoFk5xAtDp__Z4tVYPvYxJUSDNw",
+      "link_status": "unknown",
       "forum_title": "[Scenario] Odds and Ends ST V4.1 compatible"
     },
     "release": {
@@ -2464,7 +2464,7 @@
     },
     "availability": {
       "archive_available": true,
-      "link_status": "working"
+      "link_status": "unknown"
     }
   },
   {
@@ -2478,7 +2478,7 @@
     "dates": {
       "published": "2018-04-12T12:55:00",
       "updated": "2019-03-18T13:04:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:11-04:00",
       "title_date": null
     },
     "source": {
@@ -2534,13 +2534,13 @@
     "dates": {
       "published": "2018-04-29T05:47:00",
       "updated": "2018-05-02T10:56:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:11-04:00",
       "title_date": "01/05/2018"
     },
     "source": {
       "forum_url": "https://tfgames.site/phpbb3/viewtopic.php?t=11082",
       "forum_topic_id": "11082",
-      "download_url": "http://www.mediafire.com/file/g99i0cz967iaacb/Forced.zip",
+      "download_url": "http://www.mediafire.com/file/0f5z2do5ub40nd7/Forced.rar",
       "link_status": "working",
       "forum_title": "[Scenario] Forced0.4.1 (01/05/2018)"
     },
@@ -2590,14 +2590,14 @@
     "dates": {
       "published": "2018-04-30T07:11:00",
       "updated": "2018-06-22T11:43:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:11-04:00",
       "title_date": null
     },
     "source": {
       "forum_url": "https://tfgames.site/phpbb3/viewtopic.php?t=11088",
       "forum_topic_id": "11088",
-      "download_url": "http://www.mediafire.com/file/2u5xmco6v3dcf9t/Tentative%20%231.zip",
-      "link_status": "dead",
+      "download_url": "http://www.mediafire.com/file/h94qukjoyn5z6uf/Tentative+%231.rar",
+      "link_status": "unknown",
       "forum_title": "[Scenario] Expect the unexpected"
     },
     "release": {
@@ -2622,7 +2622,7 @@
     },
     "availability": {
       "archive_available": false,
-      "link_status": "dead"
+      "link_status": "unknown"
     }
   },
   {
@@ -2636,7 +2636,7 @@
     "dates": {
       "published": "2018-05-08T00:32:00",
       "updated": "2018-05-08T17:38:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:11-04:00",
       "title_date": null
     },
     "source": {
@@ -2688,7 +2688,7 @@
     "dates": {
       "published": "2018-05-17T01:02:00",
       "updated": "2018-05-17T01:02:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:11-04:00",
       "title_date": null
     },
     "source": {
@@ -2744,7 +2744,7 @@
     "dates": {
       "published": "2018-05-22T12:25:00",
       "updated": "2023-07-23T12:08:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:11-04:00",
       "title_date": null
     },
     "source": {
@@ -2790,7 +2790,7 @@
     "dates": {
       "published": "2018-05-27T15:41:00",
       "updated": "2019-06-22T08:09:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:11-04:00",
       "title_date": null
     },
     "source": {
@@ -2836,7 +2836,7 @@
     "dates": {
       "published": "2018-06-09T14:52:00",
       "updated": "2021-03-08T19:16:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:11-04:00",
       "title_date": null
     },
     "source": {
@@ -2894,7 +2894,7 @@
     "dates": {
       "published": "2018-07-01T23:37:00",
       "updated": "2023-06-30T22:08:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:11-04:00",
       "title_date": "27/04/2023"
     },
     "source": {
@@ -2977,13 +2977,13 @@
     "dates": {
       "published": "2018-07-03T23:25:00",
       "updated": "2018-07-06T21:21:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:11-04:00",
       "title_date": null
     },
     "source": {
       "forum_url": "https://tfgames.site/phpbb3/viewtopic.php?t=11354",
       "forum_topic_id": "11354",
-      "download_url": "https://mega.nz/#!qTBUEaxY!VHGJDMdE3fWoP7aNjnbnJ27YaUXTf3n2GO2OFD63DvU",
+      "download_url": "https://mega.nz/#!STRAmQbA!oWPMUJ936vBk1xhNPYeWQZaKZQDMlR63d88nBqTuPxA",
       "link_status": "dead",
       "forum_title": "[Scenario] Hunting The Witch Hunter Ver 0.5.2"
     },
@@ -3034,7 +3034,7 @@
     "dates": {
       "published": "2018-07-15T16:42:00",
       "updated": "2021-10-03T11:24:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:12-04:00",
       "title_date": "25/07/2021"
     },
     "source": {
@@ -3080,7 +3080,7 @@
     "dates": {
       "published": "2018-07-23T12:17:00",
       "updated": "2020-02-16T17:43:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:12-04:00",
       "title_date": null
     },
     "source": {
@@ -3126,14 +3126,14 @@
     "dates": {
       "published": "2018-07-28T13:47:00",
       "updated": "2019-09-20T17:42:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:12-04:00",
       "title_date": null
     },
     "source": {
       "forum_url": "https://tfgames.site/phpbb3/viewtopic.php?t=11466",
       "forum_topic_id": "11466",
-      "download_url": "http://www.mediafire.com/file/sc69xqa6tth7rhg/Festival+0.3.zip",
-      "link_status": "working",
+      "download_url": "https://www.mediafire.com/file/wq8591a3smsl7cn/festival033.zip",
+      "link_status": "unknown",
       "forum_title": "[Scenario] The Festival v0.3.3 - ST v4.5 Compatible!"
     },
     "release": {
@@ -3177,7 +3177,7 @@
     },
     "availability": {
       "archive_available": true,
-      "link_status": "working"
+      "link_status": "unknown"
     }
   },
   {
@@ -3275,7 +3275,7 @@
     "dates": {
       "published": "2018-09-14T04:17:00",
       "updated": "2018-09-14T04:17:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:12-04:00",
       "title_date": null
     },
     "source": {
@@ -3338,7 +3338,7 @@
     "dates": {
       "published": "2018-09-16T13:00:00",
       "updated": "2018-09-16T13:00:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:12-04:00",
       "title_date": null
     },
     "source": {
@@ -3426,7 +3426,7 @@
     "dates": {
       "published": "2018-09-22T16:34:00",
       "updated": "2020-07-19T00:27:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:12-04:00",
       "title_date": "01/03/19"
     },
     "source": {
@@ -3472,7 +3472,7 @@
     "dates": {
       "published": "2018-09-23T16:46:00",
       "updated": "2022-08-13T14:50:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:12-04:00",
       "title_date": null
     },
     "source": {
@@ -3528,14 +3528,14 @@
     "dates": {
       "published": "2018-09-26T18:57:00",
       "updated": "2018-10-21T21:15:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:12-04:00",
       "title_date": "21/10/2018"
     },
     "source": {
       "forum_url": "https://tfgames.site/phpbb3/viewtopic.php?t=11671",
       "forum_topic_id": "11671",
-      "download_url": "http://www.mediafire.com/file/2y9g88audplxl5i/The_hard_summer_trip%25282%2529.zip/file",
-      "link_status": "working",
+      "download_url": "https://www.mediafire.com/file/2y9g88audplxl5i/The_hard_summer_trip.zip/file",
+      "link_status": "unknown",
       "forum_title": "[Scenario] The hard summer trip (updated 21/10/2018)"
     },
     "release": {
@@ -3578,7 +3578,7 @@
     },
     "availability": {
       "archive_available": true,
-      "link_status": "working"
+      "link_status": "unknown"
     }
   },
   {
@@ -3592,7 +3592,7 @@
     "dates": {
       "published": "2018-11-18T08:31:00",
       "updated": "2021-08-29T02:55:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:12-04:00",
       "title_date": null
     },
     "source": {
@@ -3644,7 +3644,7 @@
     "dates": {
       "published": "2018-11-25T14:32:00",
       "updated": "2018-12-04T06:42:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:12-04:00",
       "title_date": null
     },
     "source": {
@@ -3732,7 +3732,7 @@
     "dates": {
       "published": "2019-01-06T14:47:00",
       "updated": "2019-08-31T11:40:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:12-04:00",
       "title_date": null
     },
     "source": {
@@ -3778,7 +3778,7 @@
     "dates": {
       "published": "2019-01-23T09:20:00",
       "updated": "2020-11-17T08:41:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:12-04:00",
       "title_date": null
     },
     "source": {
@@ -3824,7 +3824,7 @@
     "dates": {
       "published": "2019-01-25T19:51:00",
       "updated": "2019-02-01T13:23:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:12-04:00",
       "title_date": null
     },
     "source": {
@@ -3887,7 +3887,7 @@
     "dates": {
       "published": "2019-02-23T15:51:00",
       "updated": "2019-03-29T20:34:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:12-04:00",
       "title_date": null
     },
     "source": {
@@ -3964,7 +3964,7 @@
     "dates": {
       "published": "2019-02-28T06:10:00",
       "updated": "2019-03-05T15:15:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:12-04:00",
       "title_date": null
     },
     "source": {
@@ -4010,7 +4010,7 @@
     "dates": {
       "published": "2019-03-09T13:59:00",
       "updated": "2020-07-25T09:09:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:12-04:00",
       "title_date": null
     },
     "source": {
@@ -4056,7 +4056,7 @@
     "dates": {
       "published": "2019-03-22T02:31:00",
       "updated": "2019-03-22T11:48:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:12-04:00",
       "title_date": null
     },
     "source": {
@@ -4102,7 +4102,7 @@
     "dates": {
       "published": "2019-04-16T21:59:00",
       "updated": "2020-08-04T15:56:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:12-04:00",
       "title_date": null
     },
     "source": {
@@ -4205,7 +4205,7 @@
     "dates": {
       "published": "2019-05-06T04:27:00",
       "updated": "2019-09-06T01:26:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:12-04:00",
       "title_date": "8/14/2019"
     },
     "source": {
@@ -4259,7 +4259,7 @@
     "dates": {
       "published": "2019-05-09T23:49:00",
       "updated": "2020-10-18T22:18:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:12-04:00",
       "title_date": "06/07/2019"
     },
     "source": {
@@ -4360,7 +4360,7 @@
     "dates": {
       "published": "2019-06-08T07:15:00",
       "updated": "2019-07-21T11:08:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:12-04:00",
       "title_date": "07/21/2019"
     },
     "source": {
@@ -4406,7 +4406,7 @@
     "dates": {
       "published": "2019-06-09T10:29:00",
       "updated": "2020-09-18T18:47:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:12-04:00",
       "title_date": null
     },
     "source": {
@@ -4452,14 +4452,14 @@
     "dates": {
       "published": "2019-06-10T12:46:00",
       "updated": "2019-06-10T12:46:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:12-04:00",
       "title_date": null
     },
     "source": {
       "forum_url": "https://tfgames.site/phpbb3/viewtopic.php?t=12678",
       "forum_topic_id": "12678",
-      "download_url": "https://mega.nz/#!euAkWa4L!65g9uNKMz_a5UBNaQgKAInjOorgSEHquxZxFEhbQL5U",
-      "link_status": "working",
+      "download_url": "https://mega.nz/#!b6wF0SqQ!5eI6Ops6t03gRrnhO7uFaUmOYGnuyUH8MeKYK6XGnn8",
+      "link_status": "dead",
       "forum_title": "[Scenario] Reliving"
     },
     "release": {
@@ -4493,7 +4493,7 @@
     },
     "availability": {
       "archive_available": true,
-      "link_status": "working"
+      "link_status": "dead"
     }
   },
   {
@@ -4507,7 +4507,7 @@
     "dates": {
       "published": "2019-06-11T22:02:00",
       "updated": "2022-03-09T00:47:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:12-04:00",
       "title_date": null
     },
     "source": {
@@ -4553,7 +4553,7 @@
     "dates": {
       "published": "2019-07-07T22:36:00",
       "updated": "2023-01-14T18:52:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:12-04:00",
       "title_date": "26/08/2020"
     },
     "source": {
@@ -4611,14 +4611,14 @@
     "dates": {
       "published": "2019-08-03T14:20:00",
       "updated": "2024-09-17T18:14:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:12-04:00",
       "title_date": null
     },
     "source": {
       "forum_url": "https://tfgames.site/phpbb3/viewtopic.php?t=12932",
       "forum_topic_id": "12932",
-      "download_url": "https://mega.nz/file/5oUDWZqD#kuk8ZhCllJ-C9MUGKls9D-fkS2ek5QHgWhrg55m_qGg",
-      "link_status": "working",
+      "download_url": "https://mega.nz/#!jpdn3a5L!rDBV3zcmQTRDiwW67cSswsFDhIUAnURsyVM1SOlZrwM",
+      "link_status": "dead",
       "forum_title": "[Scenario] Escape the Manor"
     },
     "release": {
@@ -4655,7 +4655,7 @@
     },
     "availability": {
       "archive_available": true,
-      "link_status": "working"
+      "link_status": "dead"
     }
   },
   {
@@ -4669,7 +4669,7 @@
     "dates": {
       "published": "2019-08-06T23:00:00",
       "updated": "2026-08-08T23:04:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:12-04:00",
       "title_date": null
     },
     "source": {
@@ -4772,7 +4772,7 @@
     "dates": {
       "published": "2019-08-16T10:30:00",
       "updated": "2019-08-16T14:16:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:12-04:00",
       "title_date": null
     },
     "source": {
@@ -4818,7 +4818,7 @@
     "dates": {
       "published": "2019-08-17T18:42:00",
       "updated": "2020-02-17T05:45:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:12-04:00",
       "title_date": null
     },
     "source": {
@@ -4864,7 +4864,7 @@
     "dates": {
       "published": "2019-08-22T10:48:00",
       "updated": "2021-11-04T00:07:00",
-      "last_checked": "2026-09-28T21:48:13-04:00"
+      "last_checked": "2026-10-11T13:28:12-04:00"
     },
     "source": {
       "forum_url": "https://tfgames.site/phpbb3/viewtopic.php?t=13015",
@@ -4907,7 +4907,7 @@
     "dates": {
       "published": "2019-08-22T10:48:00",
       "updated": "2021-11-04T00:07:00",
-      "last_checked": "2026-09-28T21:48:13-04:00"
+      "last_checked": "2026-10-11T13:28:12-04:00"
     },
     "source": {
       "forum_url": "https://tfgames.site/phpbb3/viewtopic.php?t=13015",
@@ -4961,7 +4961,7 @@
     "dates": {
       "published": "2019-09-22T18:02:00",
       "updated": "2019-09-28T11:38:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:12-04:00",
       "title_date": null
     },
     "source": {
@@ -5029,7 +5029,7 @@
     "dates": {
       "published": "2019-10-08T14:31:00",
       "updated": "2019-11-30T14:53:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:12-04:00",
       "title_date": null
     },
     "source": {
@@ -5101,7 +5101,7 @@
     "dates": {
       "published": "2019-10-20T04:13:00",
       "updated": "2023-03-12T08:38:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:12-04:00",
       "title_date": null
     },
     "source": {
@@ -5163,7 +5163,7 @@
     "dates": {
       "published": "2019-10-25T22:38:00",
       "updated": "2021-08-17T20:18:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:12-04:00",
       "title_date": null
     },
     "source": {
@@ -5229,7 +5229,7 @@
     "dates": {
       "published": "2019-10-27T12:25:00",
       "updated": "2020-04-09T08:16:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:12-04:00",
       "title_date": null
     },
     "source": {
@@ -5275,14 +5275,14 @@
     "dates": {
       "published": "2019-11-04T12:33:00",
       "updated": "2025-06-27T16:52:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:12-04:00",
       "title_date": null
     },
     "source": {
       "forum_url": "https://tfgames.site/phpbb3/viewtopic.php?t=13272",
       "forum_topic_id": "13272",
-      "download_url": "https://mega.nz/file/T8AjWaaJ#WiPo8WUHRPGtZWOFP9n-Zl0H6_6FltRbthLp0rlSH0g",
-      "link_status": "working",
+      "download_url": "https://mega.nz/file/2pAXSbDA#uRwByx_H2xcqxT1zfsH55ltfmc_2MXXiq8pVk2EDnFI",
+      "link_status": "unknown",
       "forum_title": "[Scenario] A New Life (v2.8)  [+DLC]"
     },
     "release": {
@@ -5323,7 +5323,7 @@
     },
     "availability": {
       "archive_available": true,
-      "link_status": "working"
+      "link_status": "unknown"
     }
   },
   {
@@ -5337,7 +5337,7 @@
     "dates": {
       "published": "2019-11-22T20:19:00",
       "updated": "2020-09-12T03:43:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:12-04:00",
       "title_date": null
     },
     "source": {
@@ -5415,7 +5415,7 @@
     "dates": {
       "published": "2019-11-27T10:32:00",
       "updated": "2021-09-19T10:24:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:12-04:00",
       "title_date": null
     },
     "source": {
@@ -5600,7 +5600,7 @@
     "dates": {
       "published": "2020-01-12T07:32:00",
       "updated": "2021-11-22T11:53:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:12-04:00",
       "title_date": null
     },
     "source": {
@@ -5660,7 +5660,7 @@
     "dates": {
       "published": "2020-01-26T07:42:00",
       "updated": "2021-04-29T06:08:00",
-      "last_checked": "2026-09-28T21:48:13-04:00"
+      "last_checked": "2026-10-11T13:28:12-04:00"
     },
     "source": {
       "forum_url": "https://tfgames.site/phpbb3/viewtopic.php?t=13603",
@@ -5703,7 +5703,7 @@
     "dates": {
       "published": "2020-01-26T07:42:00",
       "updated": "2021-04-29T06:08:00",
-      "last_checked": "2026-09-28T21:48:13-04:00"
+      "last_checked": "2026-10-11T13:28:12-04:00"
     },
     "source": {
       "forum_url": "https://tfgames.site/phpbb3/viewtopic.php?t=13603",
@@ -5746,7 +5746,7 @@
     "dates": {
       "published": "2020-01-26T07:42:00",
       "updated": "2021-04-29T06:08:00",
-      "last_checked": "2026-09-28T21:48:13-04:00"
+      "last_checked": "2026-10-11T13:28:12-04:00"
     },
     "source": {
       "forum_url": "https://tfgames.site/phpbb3/viewtopic.php?t=13603",
@@ -5789,7 +5789,7 @@
     "dates": {
       "published": "2020-02-01T11:57:00",
       "updated": "2020-03-14T15:18:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:12-04:00",
       "title_date": null
     },
     "source": {
@@ -5844,7 +5844,7 @@
     "dates": {
       "published": "2020-02-12T12:39:00",
       "updated": "2020-02-12T12:39:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:12-04:00",
       "title_date": null
     },
     "source": {
@@ -5901,7 +5901,7 @@
     "dates": {
       "published": "2020-02-14T23:53:00",
       "updated": "2023-08-14T19:33:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:12-04:00",
       "title_date": "24-08-20"
     },
     "source": {
@@ -5958,7 +5958,7 @@
     "dates": {
       "published": "2020-03-09T19:50:00",
       "updated": "2020-10-08T15:14:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:12-04:00",
       "title_date": null
     },
     "source": {
@@ -6018,7 +6018,7 @@
     "dates": {
       "published": "2020-04-21T13:35:00",
       "updated": "2021-07-07T15:45:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:12-04:00",
       "title_date": null
     },
     "source": {
@@ -6074,7 +6074,7 @@
     "dates": {
       "published": "2020-05-20T16:06:00",
       "updated": "2025-12-31T22:29:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:12-04:00",
       "title_date": "June 25, 2024"
     },
     "source": {
@@ -6134,7 +6134,7 @@
     "dates": {
       "published": "2020-05-23T19:01:00",
       "updated": "2020-06-07T10:59:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:12-04:00",
       "title_date": null
     },
     "source": {
@@ -6190,13 +6190,13 @@
     "dates": {
       "published": "2020-07-03T05:28:00",
       "updated": "2020-11-10T03:30:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:12-04:00",
       "title_date": null
     },
     "source": {
       "forum_url": "https://tfgames.site/phpbb3/viewtopic.php?t=14305",
       "forum_topic_id": "14305",
-      "download_url": "https://mega.nz/folder/ZklnHaRJ#DQenUZplRxu-b1gVB7YLlA",
+      "download_url": "https://mega.nz/file/9pU1RCoS#NJ8xYH2G1eeyawVXWRbtH4v47h1H-mMl1NI2ZPeU7Fg",
       "link_status": "working",
       "forum_title": "[Scenario] Power and Temptation"
     },
@@ -6244,7 +6244,7 @@
     "dates": {
       "published": "2020-07-04T05:01:00",
       "updated": "2021-07-07T19:11:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:12-04:00",
       "title_date": null
     },
     "source": {
@@ -6290,7 +6290,7 @@
     "dates": {
       "published": "2020-07-13T01:50:00",
       "updated": "2020-07-13T01:50:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:12-04:00",
       "title_date": "7/13/20"
     },
     "source": {
@@ -6336,7 +6336,7 @@
     "dates": {
       "published": "2020-07-19T20:32:00",
       "updated": "2020-09-29T21:50:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:12-04:00",
       "title_date": null
     },
     "source": {
@@ -6391,7 +6391,7 @@
     "dates": {
       "published": "2020-07-19T23:54:00",
       "updated": "2020-08-27T09:45:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:12-04:00",
       "title_date": null
     },
     "source": {
@@ -6455,7 +6455,7 @@
     "dates": {
       "published": "2020-07-20T12:28:00",
       "updated": "2020-07-20T12:28:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:12-04:00",
       "title_date": "10/06/20"
     },
     "source": {
@@ -6501,14 +6501,14 @@
     "dates": {
       "published": "2020-07-29T17:32:00",
       "updated": "2021-11-16T23:06:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:12-04:00",
       "title_date": null
     },
     "source": {
       "forum_url": "https://tfgames.site/phpbb3/viewtopic.php?t=14428",
       "forum_topic_id": "14428",
-      "download_url": "http://www.mediafire.com/file/ykd19mj035lad89/SH.zip/file",
-      "link_status": "dead",
+      "download_url": "https://mega.nz/file/yt12BSiQ#ADVq48BcVLGf1q-_Sx2zBwPpDDl9DV1TByEuk8gpJi0",
+      "link_status": "unknown",
       "forum_title": "[Scenario] A Matter of the Heart (And the Head) [Complete]"
     },
     "release": {
@@ -6550,7 +6550,7 @@
     },
     "availability": {
       "archive_available": true,
-      "link_status": "dead"
+      "link_status": "unknown"
     }
   },
   {
@@ -6564,7 +6564,7 @@
     "dates": {
       "published": "2020-08-01T08:10:00",
       "updated": "2024-07-09T23:32:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:12-04:00",
       "title_date": "7/5/2024"
     },
     "source": {
@@ -6623,7 +6623,7 @@
     "dates": {
       "published": "2020-08-04T17:54:00",
       "updated": "2023-07-12T11:00:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:12-04:00",
       "title_date": null
     },
     "source": {
@@ -6669,13 +6669,13 @@
     "dates": {
       "published": "2020-08-07T21:21:00",
       "updated": "2024-01-12T22:17:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:12-04:00",
       "title_date": "4/12/21"
     },
     "source": {
       "forum_url": "https://tfgames.site/phpbb3/viewtopic.php?t=14475",
       "forum_topic_id": "14475",
-      "download_url": "https://mega.nz/file/xl13lQgQ#j4HeRdUMLMY4jEBdAbXiO5uX6v74oFSm4qkyhZDEA_8",
+      "download_url": "https://mega.nz/file/ApFlTB6T#nPAuLu0ARgtkxRf9f0BKU8VRuYx17kUglLnwu_J5wMM",
       "link_status": "working",
       "forum_title": "[Scenario] Kwumpus Hunt [Updated 4/12/21]"
     },
@@ -6729,14 +6729,14 @@
     "dates": {
       "published": "2020-08-11T19:56:00",
       "updated": "2021-08-17T15:07:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:12-04:00",
       "title_date": null
     },
     "source": {
       "forum_url": "https://tfgames.site/phpbb3/viewtopic.php?t=14490",
       "forum_topic_id": "14490",
-      "download_url": "https://mega.nz/file/uIcQxbgb#CwGjYYemqJfYfK8twzG0kyKCFR4rXsXvFE7i-LYy3sE",
-      "link_status": "working",
+      "download_url": "https://mega.nz/file/6I9BnJ4K#hZA5ln0W7AAyXYvI04cZRcV-27Lsrg6uQQ0eW5AO2uU",
+      "link_status": "unknown",
       "forum_title": "[Scenario] Cornswap Version 0.2.0 (Now V6 compatible)"
     },
     "release": {
@@ -6770,7 +6770,7 @@
     },
     "availability": {
       "archive_available": true,
-      "link_status": "working"
+      "link_status": "unknown"
     }
   },
   {
@@ -6784,7 +6784,7 @@
     "dates": {
       "published": "2020-08-14T04:03:00",
       "updated": "2020-08-14T04:03:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:12-04:00",
       "title_date": null
     },
     "source": {
@@ -6872,7 +6872,7 @@
     "dates": {
       "published": "2020-08-16T20:33:00",
       "updated": "2025-02-01T18:51:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:12-04:00",
       "title_date": null
     },
     "source": {
@@ -6918,7 +6918,7 @@
     "dates": {
       "published": "2020-08-25T20:32:00",
       "updated": "2022-01-15T07:39:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:12-04:00",
       "title_date": null
     },
     "source": {
@@ -6976,7 +6976,7 @@
     "dates": {
       "published": "2020-08-27T10:06:00",
       "updated": "2020-08-28T02:17:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:12-04:00",
       "title_date": null
     },
     "source": {
@@ -7035,13 +7035,13 @@
     "dates": {
       "published": "2020-09-06T08:07:00",
       "updated": "2026-02-21T05:53:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:12-04:00",
       "title_date": null
     },
     "source": {
       "forum_url": "https://tfgames.site/phpbb3/viewtopic.php?t=14625",
       "forum_topic_id": "14625",
-      "download_url": "https://mega.nz/file/VEkzXYbI#jY1VMMGCZBORD64lFlS304zHZuGPR6DAAuiLTv4A6_o",
+      "download_url": "https://mega.nz/file/MZ9T2KKB#EMzZApacWl-VUftYxmOBeC8Z5o1Mr0R9275U51zawf8",
       "link_status": "working",
       "forum_title": "[Scenario] John's Gradual Life change"
     },
@@ -7095,7 +7095,7 @@
     "dates": {
       "published": "2020-09-17T10:47:00",
       "updated": "2021-02-12T13:25:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:12-04:00",
       "title_date": null
     },
     "source": {
@@ -7154,7 +7154,7 @@
     "dates": {
       "published": "2020-09-30T05:46:00",
       "updated": "2020-09-30T05:46:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:12-04:00",
       "title_date": null
     },
     "source": {
@@ -7209,7 +7209,7 @@
     "dates": {
       "published": "2020-10-02T22:44:00",
       "updated": "2020-10-02T22:44:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:12-04:00",
       "title_date": null
     },
     "source": {
@@ -7275,7 +7275,7 @@
     "dates": {
       "published": "2020-10-16T14:57:00",
       "updated": "2020-10-16T14:57:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:12-04:00",
       "title_date": null
     },
     "source": {
@@ -7321,7 +7321,7 @@
     "dates": {
       "published": "2020-10-20T16:52:00",
       "updated": "2023-10-14T06:57:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:12-04:00",
       "title_date": "19/02/2023"
     },
     "source": {
@@ -7396,7 +7396,7 @@
     "dates": {
       "published": "2020-10-31T15:55:00",
       "updated": "2020-10-31T16:45:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:12-04:00",
       "title_date": null
     },
     "source": {
@@ -7442,13 +7442,13 @@
     "dates": {
       "published": "2020-11-01T07:41:00",
       "updated": "2021-09-24T13:28:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:12-04:00",
       "title_date": null
     },
     "source": {
       "forum_url": "https://tfgames.site/phpbb3/viewtopic.php?t=14885",
       "forum_topic_id": "14885",
-      "download_url": "https://mega.nz/file/b2IT2YwI#SyOLSEReXW2CWEGAX5HQDx_LjjTX3HTZCQivKDl_uKE",
+      "download_url": "https://mega.nz/file/WzhgCJbI#hMHc7TGLbrl8IN_VTVrmKXcUWszZBeAn-3NA01sJsvA",
       "link_status": "working",
       "forum_title": "[Scenario] John and the seven witches"
     },
@@ -7497,13 +7497,13 @@
     "dates": {
       "published": "2020-12-08T11:12:00",
       "updated": "2024-11-15T22:06:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:12-04:00",
       "title_date": null
     },
     "source": {
       "forum_url": "https://tfgames.site/phpbb3/viewtopic.php?t=15012",
       "forum_topic_id": "15012",
-      "download_url": "https://mega.nz/file/DgNiSBrD#Y6gwg3iISuiU4299Gt-nN18CT_65dRjGhz3R7eJ6Nvc",
+      "download_url": "https://mega.nz/file/flFShRCR#FK7SGHA0JAwUF58s6q6yGIyZNfi5OQidEk5otDxxxDA",
       "link_status": "working",
       "forum_title": "[Scenario] VR Experiment 1.3.1 (Complete) for ST 8"
     },
@@ -7556,13 +7556,13 @@
     "dates": {
       "published": "2020-12-16T00:45:00",
       "updated": "2024-01-07T04:05:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:12-04:00",
       "title_date": null
     },
     "source": {
       "forum_url": "https://tfgames.site/phpbb3/viewtopic.php?t=15056",
       "forum_topic_id": "15056",
-      "download_url": "https://mega.nz/file/FRVE1ZJL#yc9K0NyzRlona0cZksgKXkH8Xv1xy4iduW1ZYMyTMl4",
+      "download_url": "https://mega.nz/file/AddjCZQT#KOHSZr3yj-Z4gBgR8GmfNLEYNswZvyGrT1spVdr8N10",
       "link_status": "working",
       "forum_title": "[Scenario] To Go All Wrong [DISCONTINUED] (ST V7.1+ Compatible only), [SCENARIO Last update: 1 Octo 2021, DISCONTINUED]]"
     },
@@ -7611,7 +7611,7 @@
     "dates": {
       "published": "2020-12-22T00:24:00",
       "updated": "2023-07-12T10:58:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:12-04:00",
       "title_date": null
     },
     "source": {
@@ -7622,9 +7622,9 @@
       "forum_title": "[Scenario] Katrina the Statue (Link revived, V7.1 Compatible)"
     },
     "release": {
-      "scenario_version": null,
+      "scenario_version": "7.1",
       "target_st_version": "7.1",
-      "advertised_version": null,
+      "advertised_version": "7.1",
       "status": null
     },
     "content": {
@@ -7666,7 +7666,7 @@
     "dates": {
       "published": "2021-01-04T11:02:00",
       "updated": "2025-02-25T10:41:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:12-04:00",
       "title_date": null
     },
     "source": {
@@ -7722,7 +7722,7 @@
     "dates": {
       "published": "2021-01-07T18:36:00",
       "updated": "2021-02-20T16:20:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:12-04:00",
       "title_date": null
     },
     "source": {
@@ -7778,7 +7778,7 @@
     "dates": {
       "published": "2021-02-02T15:23:00",
       "updated": "2024-05-09T11:47:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:12-04:00",
       "title_date": null
     },
     "source": {
@@ -7839,7 +7839,7 @@
     "dates": {
       "published": "2021-02-14T02:47:00",
       "updated": "2021-02-19T01:03:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:13-04:00",
       "title_date": null
     },
     "source": {
@@ -7885,7 +7885,7 @@
     "dates": {
       "published": "2021-02-21T03:11:00",
       "updated": "2021-02-24T00:38:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:13-04:00",
       "title_date": "Feb 2021"
     },
     "source": {
@@ -7973,7 +7973,7 @@
     "dates": {
       "published": "2021-03-13T18:36:00",
       "updated": "2021-07-06T22:59:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:13-04:00",
       "title_date": "July 6, 2021"
     },
     "source": {
@@ -8032,7 +8032,7 @@
     "dates": {
       "published": "2021-03-14T22:40:00",
       "updated": "2021-03-14T22:40:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:13-04:00",
       "title_date": null
     },
     "source": {
@@ -8099,7 +8099,7 @@
     "dates": {
       "published": "2021-03-27T15:38:00",
       "updated": "2023-02-13T03:08:00",
-      "last_checked": "2026-09-28T21:48:13-04:00"
+      "last_checked": "2026-10-11T13:28:13-04:00"
     },
     "source": {
       "forum_url": "https://tfgames.site/phpbb3/viewtopic.php?t=15456",
@@ -8151,7 +8151,7 @@
     "dates": {
       "published": "2021-03-27T15:38:00",
       "updated": "2023-02-13T03:08:00",
-      "last_checked": "2026-09-28T21:48:13-04:00"
+      "last_checked": "2026-10-11T13:28:13-04:00"
     },
     "source": {
       "forum_url": "https://tfgames.site/phpbb3/viewtopic.php?t=15456",
@@ -8204,7 +8204,7 @@
     "dates": {
       "published": "2021-03-27T15:38:00",
       "updated": "2023-02-13T03:08:00",
-      "last_checked": "2026-09-28T21:48:13-04:00"
+      "last_checked": "2026-10-11T13:28:13-04:00"
     },
     "source": {
       "forum_url": "https://tfgames.site/phpbb3/viewtopic.php?t=15456",
@@ -8258,7 +8258,7 @@
     "dates": {
       "published": "2021-03-27T15:38:00",
       "updated": "2023-02-13T03:08:00",
-      "last_checked": "2026-09-28T21:48:13-04:00"
+      "last_checked": "2026-10-11T13:28:13-04:00"
     },
     "source": {
       "forum_url": "https://tfgames.site/phpbb3/viewtopic.php?t=15456",
@@ -8309,13 +8309,13 @@
     "dates": {
       "published": "2021-04-01T10:08:00",
       "updated": "2021-07-25T16:15:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:13-04:00",
       "title_date": null
     },
     "source": {
       "forum_url": "https://tfgames.site/phpbb3/viewtopic.php?t=15481",
       "forum_topic_id": "15481",
-      "download_url": "https://mega.nz/file/co8wGCaY#oUxM5HSUT1MbYD7iVH3nJ7BYu3KlQJhDcC2nZMlpU-8",
+      "download_url": "https://mega.nz/file/Q50ByQ7a#VfpSp29s83g2TUJNXRZm5-AZRRWTpCWxVL_dWSgG2Ec",
       "link_status": "working",
       "forum_title": "[Scenario] Devil in the Details"
     },
@@ -8368,7 +8368,7 @@
     "dates": {
       "published": "2021-04-04T13:23:00",
       "updated": "2024-08-29T13:52:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:13-04:00",
       "title_date": "April 25, 2022"
     },
     "source": {
@@ -8426,7 +8426,7 @@
     "dates": {
       "published": "2021-04-22T02:02:00",
       "updated": "2024-01-29T04:41:00",
-      "last_checked": "2026-09-28T21:48:13-04:00"
+      "last_checked": "2026-10-11T13:28:13-04:00"
     },
     "source": {
       "forum_url": "https://tfgames.site/phpbb3/viewtopic.php?t=15559",
@@ -8469,7 +8469,7 @@
     "dates": {
       "published": "2021-04-22T02:02:00",
       "updated": "2024-01-29T04:41:00",
-      "last_checked": "2026-09-28T21:48:13-04:00"
+      "last_checked": "2026-10-11T13:28:13-04:00"
     },
     "source": {
       "forum_url": "https://tfgames.site/phpbb3/viewtopic.php?t=15559",
@@ -8554,14 +8554,14 @@
     "dates": {
       "published": "2021-04-26T09:59:00",
       "updated": "2024-06-29T13:18:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:13-04:00",
       "title_date": "4/25/23"
     },
     "source": {
       "forum_url": "https://tfgames.site/phpbb3/viewtopic.php?t=15583",
       "forum_topic_id": "15583",
-      "download_url": "https://mega.nz/file/l3RQ1bhL#a-0DkJwHwpuRuNkBTf7Bp95b7Y-XYBEPiPL7auPtfAU",
-      "link_status": "working",
+      "download_url": "https://mega.nz/file/wqhRDCQJ#yGfkExOK-tQNGxoYSLFPzF2myNC0em9LpH_8zLi1PGY",
+      "link_status": "unknown",
       "forum_title": "[Scenario] Reality Warp (0.5) [New Update 4/25/23!]"
     },
     "release": {
@@ -8595,7 +8595,7 @@
     },
     "availability": {
       "archive_available": true,
-      "link_status": "working"
+      "link_status": "unknown"
     }
   },
   {
@@ -8609,7 +8609,7 @@
     "dates": {
       "published": "2021-05-02T16:09:00",
       "updated": "2021-05-11T05:28:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:13-04:00",
       "title_date": null
     },
     "source": {
@@ -8655,7 +8655,7 @@
     "dates": {
       "published": "2021-05-11T18:11:00",
       "updated": "2022-04-12T20:12:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:13-04:00",
       "title_date": null
     },
     "source": {
@@ -8722,7 +8722,7 @@
     "dates": {
       "published": "2021-05-18T17:40:00",
       "updated": "2021-05-18T17:40:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:13-04:00",
       "title_date": null
     },
     "source": {
@@ -8785,7 +8785,7 @@
     "dates": {
       "published": "2021-05-19T17:05:00",
       "updated": "2022-07-11T23:01:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:13-04:00",
       "title_date": "July 12 2021"
     },
     "source": {
@@ -8842,7 +8842,7 @@
     "dates": {
       "published": "2021-06-03T09:40:00",
       "updated": "2021-06-09T07:43:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:13-04:00",
       "title_date": null
     },
     "source": {
@@ -8900,7 +8900,7 @@
     "dates": {
       "published": "2021-07-08T14:18:00",
       "updated": "2021-07-16T06:01:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:13-04:00",
       "title_date": null
     },
     "source": {
@@ -8946,7 +8946,7 @@
     "dates": {
       "published": "2021-07-18T18:08:00",
       "updated": "2021-12-23T13:26:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:13-04:00",
       "title_date": "12/25/21"
     },
     "source": {
@@ -8992,7 +8992,7 @@
     "dates": {
       "published": "2021-07-22T15:49:00",
       "updated": "2024-07-02T12:52:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:13-04:00",
       "title_date": null
     },
     "source": {
@@ -9048,7 +9048,7 @@
     "dates": {
       "published": "2021-07-29T15:36:00",
       "updated": "2021-07-30T23:51:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:13-04:00",
       "title_date": null
     },
     "source": {
@@ -9094,7 +9094,7 @@
     "dates": {
       "published": "2021-08-04T18:48:00",
       "updated": "2026-07-22T17:40:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:13-04:00",
       "title_date": "September 4th 2023"
     },
     "source": {
@@ -9150,7 +9150,7 @@
     "dates": {
       "published": "2021-08-15T12:22:00",
       "updated": "2021-08-15T12:22:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:13-04:00",
       "title_date": null
     },
     "source": {
@@ -9207,7 +9207,7 @@
     "dates": {
       "published": "2021-08-29T17:05:00",
       "updated": "2023-02-25T10:38:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:13-04:00",
       "title_date": null
     },
     "source": {
@@ -9262,7 +9262,7 @@
     "dates": {
       "published": "2021-08-30T03:01:00",
       "updated": "2021-08-30T03:01:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:13-04:00",
       "title_date": null
     },
     "source": {
@@ -9323,7 +9323,7 @@
     "dates": {
       "published": "2021-08-30T11:33:00",
       "updated": "2021-08-31T15:01:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:13-04:00",
       "title_date": null
     },
     "source": {
@@ -9377,7 +9377,7 @@
     "dates": {
       "published": "2021-08-31T17:00:00",
       "updated": "2023-01-01T16:07:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:13-04:00",
       "title_date": "March 10, 2022"
     },
     "source": {
@@ -9437,7 +9437,7 @@
     "dates": {
       "published": "2021-08-31T23:30:00",
       "updated": "2021-09-03T20:51:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:13-04:00",
       "title_date": null
     },
     "source": {
@@ -9516,13 +9516,13 @@
     "dates": {
       "published": "2021-09-03T22:40:00",
       "updated": "2021-09-04T09:15:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:13-04:00",
       "title_date": null
     },
     "source": {
       "forum_url": "https://tfgames.site/phpbb3/viewtopic.php?t=16103",
       "forum_topic_id": "16103",
-      "download_url": "https://www.mediafire.com/file/sgnb539hoqckkff/mg1.1.zip/file",
+      "download_url": "https://mega.nz/file/Y8ADlYLQ#08pTEAVcoQIDE4NhuA_SGjc6vxTCova5rUzmvlT5x98",
       "link_status": "dead",
       "forum_title": "[Scenario] Riley Does Not Dream Of Bunny Girl Assistant"
     },
@@ -9562,7 +9562,7 @@
     "dates": {
       "published": "2021-09-06T14:45:00",
       "updated": "2021-09-06T14:45:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:13-04:00",
       "title_date": null
     },
     "source": {
@@ -9608,7 +9608,7 @@
     "dates": {
       "published": "2021-09-15T11:13:00",
       "updated": "2022-06-05T10:34:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:13-04:00",
       "title_date": "01/06/2022"
     },
     "source": {
@@ -9665,7 +9665,7 @@
     "dates": {
       "published": "2021-09-18T10:01:00",
       "updated": "2021-10-02T11:35:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:13-04:00",
       "title_date": null
     },
     "source": {
@@ -9720,13 +9720,13 @@
     "dates": {
       "published": "2021-10-22T13:33:00",
       "updated": "2021-10-24T12:08:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:13-04:00",
       "title_date": null
     },
     "source": {
       "forum_url": "https://tfgames.site/phpbb3/viewtopic.php?t=16229",
       "forum_topic_id": "16229",
-      "download_url": "https://www.mediafire.com/file/2djqt6wsj7w8qmz/Life_Transfer_pt.1.zip/file",
+      "download_url": "https://mega.nz/file/MtsxnSCb#P332uWwY7Nn4wmABdIDYTNCvRacc2K6tQVtZ5Vz176I",
       "link_status": "working",
       "forum_title": "[Scenario] Life transfer Pt1"
     },
@@ -9778,7 +9778,7 @@
     "dates": {
       "published": "2021-10-30T09:37:00",
       "updated": "2024-11-15T21:32:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:13-04:00",
       "title_date": "May 17, 2022"
     },
     "source": {
@@ -9835,7 +9835,7 @@
     "dates": {
       "published": "2021-10-30T18:11:00",
       "updated": "2023-04-10T17:38:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:13-04:00",
       "title_date": null
     },
     "source": {
@@ -9891,7 +9891,7 @@
     "dates": {
       "published": "2021-10-31T16:39:00",
       "updated": "2021-11-01T07:20:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:13-04:00",
       "title_date": null
     },
     "source": {
@@ -9937,7 +9937,7 @@
     "dates": {
       "published": "2021-11-01T12:18:00",
       "updated": "2026-02-23T13:34:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:13-04:00",
       "title_date": "September 1, 2024"
     },
     "source": {
@@ -9997,7 +9997,7 @@
     "dates": {
       "published": "2021-12-13T06:45:00",
       "updated": "2024-07-12T18:26:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:13-04:00",
       "title_date": null
     },
     "source": {
@@ -10052,7 +10052,7 @@
     "dates": {
       "published": "2021-12-20T14:09:00",
       "updated": "2024-06-21T15:33:00",
-      "last_checked": "2026-09-28T21:48:13-04:00"
+      "last_checked": "2026-10-11T13:28:13-04:00"
     },
     "source": {
       "forum_url": "https://tfgames.site/phpbb3/viewtopic.php?t=16441",
@@ -10095,7 +10095,7 @@
     "dates": {
       "published": "2021-12-20T14:09:00",
       "updated": "2024-06-21T15:33:00",
-      "last_checked": "2026-09-28T21:48:13-04:00"
+      "last_checked": "2026-10-11T13:28:13-04:00"
     },
     "source": {
       "forum_url": "https://tfgames.site/phpbb3/viewtopic.php?t=16441",
@@ -10138,7 +10138,7 @@
     "dates": {
       "published": "2021-12-20T14:09:00",
       "updated": "2024-06-21T15:33:00",
-      "last_checked": "2026-09-28T21:48:13-04:00"
+      "last_checked": "2026-10-11T13:28:13-04:00"
     },
     "source": {
       "forum_url": "https://tfgames.site/phpbb3/viewtopic.php?t=16441",
@@ -10181,7 +10181,7 @@
     "dates": {
       "published": "2022-01-08T15:27:00",
       "updated": "2022-01-08T15:27:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:13-04:00",
       "title_date": null
     },
     "source": {
@@ -10241,7 +10241,7 @@
     "dates": {
       "published": "2022-01-14T20:50:00",
       "updated": "2022-03-21T22:03:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:13-04:00",
       "title_date": null
     },
     "source": {
@@ -10297,7 +10297,7 @@
     "dates": {
       "published": "2022-01-16T15:57:00",
       "updated": "2022-03-01T09:01:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:13-04:00",
       "title_date": null
     },
     "source": {
@@ -10343,7 +10343,7 @@
     "dates": {
       "published": "2022-01-19T19:17:00",
       "updated": "2022-02-15T10:40:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:13-04:00",
       "title_date": null
     },
     "source": {
@@ -10399,7 +10399,7 @@
     "dates": {
       "published": "2022-03-26T18:16:00",
       "updated": "2022-05-13T10:35:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:13-04:00",
       "title_date": "March 26, 2022"
     },
     "source": {
@@ -10453,14 +10453,14 @@
     "dates": {
       "published": "2022-04-05T04:30:00",
       "updated": "2023-10-14T03:53:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:13-04:00",
       "title_date": null
     },
     "source": {
       "forum_url": "https://tfgames.site/phpbb3/viewtopic.php?t=16754",
       "forum_topic_id": "16754",
-      "download_url": "https://mega.nz/file/talSxawT#MRoqJ_R3wG1gC_T_G7CjnJaMgsQ4uxkqxTQptIn-Y8s",
-      "link_status": "working",
+      "download_url": "https://www.mediafire.com/file/lj7h5qfzue32e9h/butterfingers1.0.0.zip/file",
+      "link_status": "unknown",
       "forum_title": "[Scenario] Butterfingers"
     },
     "release": {
@@ -10497,7 +10497,7 @@
     },
     "availability": {
       "archive_available": true,
-      "link_status": "working"
+      "link_status": "unknown"
     }
   },
   {
@@ -10511,7 +10511,7 @@
     "dates": {
       "published": "2022-04-12T07:31:00",
       "updated": "2022-04-14T16:54:00",
-      "last_checked": "2026-09-28T21:48:13-04:00"
+      "last_checked": "2026-10-11T13:28:13-04:00"
     },
     "source": {
       "forum_url": "https://tfgames.site/phpbb3/viewtopic.php?t=16780",
@@ -10563,7 +10563,7 @@
     "dates": {
       "published": "2022-04-12T07:31:00",
       "updated": "2022-04-14T16:54:00",
-      "last_checked": "2026-09-28T21:48:13-04:00"
+      "last_checked": "2026-10-11T13:28:13-04:00"
     },
     "source": {
       "forum_url": "https://tfgames.site/phpbb3/viewtopic.php?t=16780",
@@ -10615,13 +10615,13 @@
     "dates": {
       "published": "2022-04-15T05:25:00",
       "updated": "2022-04-18T02:30:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:13-04:00",
       "title_date": null
     },
     "source": {
       "forum_url": "https://tfgames.site/phpbb3/viewtopic.php?t=16783",
       "forum_topic_id": "16783",
-      "download_url": "https://mega.nz/file/ll81TYqY#v5JgypcT5_8BZIyWL4QiNB-qBUZk66aAPddwR6R3eTc",
+      "download_url": "https://mega.nz/file/E0l0zQIa#KYT5gyehkxbOYdEsVgRqIhx07Zr-j-jQ7N5GgByVVJk",
       "link_status": "dead",
       "forum_title": "[Scenario] Riley Time"
     },
@@ -10661,7 +10661,7 @@
     "dates": {
       "published": "2022-04-16T09:08:00",
       "updated": "2024-03-15T03:32:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:13-04:00",
       "title_date": null
     },
     "source": {
@@ -10717,7 +10717,7 @@
     "dates": {
       "published": "2022-04-26T17:12:00",
       "updated": "2024-01-28T11:52:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:13-04:00",
       "title_date": null
     },
     "source": {
@@ -10763,7 +10763,7 @@
     "dates": {
       "published": "2022-05-08T12:39:00",
       "updated": "2022-05-09T17:04:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:13-04:00",
       "title_date": null
     },
     "source": {
@@ -10819,7 +10819,7 @@
     "dates": {
       "published": "2022-05-20T18:45:00",
       "updated": "2022-05-21T16:01:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:13-04:00",
       "title_date": null
     },
     "source": {
@@ -10875,7 +10875,7 @@
     "dates": {
       "published": "2022-05-24T21:31:00",
       "updated": "2022-05-24T21:31:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:13-04:00",
       "title_date": null
     },
     "source": {
@@ -10921,7 +10921,7 @@
     "dates": {
       "published": "2022-06-20T02:39:00",
       "updated": "2022-06-25T09:15:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:13-04:00",
       "title_date": null
     },
     "source": {
@@ -11070,7 +11070,7 @@
     "dates": {
       "published": "2022-08-09T08:40:00",
       "updated": "2022-08-29T01:36:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:13-04:00",
       "title_date": null
     },
     "source": {
@@ -11128,7 +11128,7 @@
     "dates": {
       "published": "2022-08-17T05:20:00",
       "updated": "2023-09-29T14:05:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:13-04:00",
       "title_date": null
     },
     "source": {
@@ -11184,7 +11184,7 @@
     "dates": {
       "published": "2022-08-26T23:07:00",
       "updated": "2022-08-31T21:33:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:13-04:00",
       "title_date": null
     },
     "source": {
@@ -11241,7 +11241,7 @@
     "dates": {
       "published": "2022-08-28T07:25:00",
       "updated": "2022-11-23T04:19:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:13-04:00",
       "title_date": null
     },
     "source": {
@@ -11297,7 +11297,7 @@
     "dates": {
       "published": "2022-09-06T23:03:00",
       "updated": "2023-05-11T18:58:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:13-04:00",
       "title_date": null
     },
     "source": {
@@ -11353,7 +11353,7 @@
     "dates": {
       "published": "2022-09-09T15:26:00",
       "updated": "2022-10-19T17:13:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:13-04:00",
       "title_date": null
     },
     "source": {
@@ -11399,7 +11399,7 @@
     "dates": {
       "published": "2022-10-25T19:33:00",
       "updated": "2022-12-12T12:43:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:13-04:00",
       "title_date": null
     },
     "source": {
@@ -11445,7 +11445,7 @@
     "dates": {
       "published": "2022-11-08T00:07:00",
       "updated": "2022-11-27T19:01:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:13-04:00",
       "title_date": null
     },
     "source": {
@@ -11501,7 +11501,7 @@
     "dates": {
       "published": "2022-11-08T08:28:00",
       "updated": "2022-11-11T08:16:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:13-04:00",
       "title_date": null
     },
     "source": {
@@ -11556,13 +11556,13 @@
     "dates": {
       "published": "2022-11-27T06:55:00",
       "updated": "2022-11-27T06:55:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:13-04:00",
       "title_date": null
     },
     "source": {
       "forum_url": "https://tfgames.site/phpbb3/viewtopic.php?t=17460",
       "forum_topic_id": "17460",
-      "download_url": "https://www.mediafire.com/file/1ae2a0gduczm05m/TV_Remote.zip/file",
+      "download_url": "https://mega.nz/file/rbhhARyC#knQke1WruSFtzYycDvpUuzL4983llX24x-wUazi3UqQ",
       "link_status": "working",
       "forum_title": "[Scenario] The TV Remote v1.0.0"
     },
@@ -11611,7 +11611,7 @@
     "dates": {
       "published": "2022-12-06T23:08:00",
       "updated": "2022-12-08T12:37:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:13-04:00",
       "title_date": null
     },
     "source": {
@@ -11667,7 +11667,7 @@
     "dates": {
       "published": "2022-12-19T18:31:00",
       "updated": "2023-07-09T07:59:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:13-04:00",
       "title_date": null
     },
     "source": {
@@ -11724,7 +11724,7 @@
     "dates": {
       "published": "2022-12-25T03:11:00",
       "updated": "2022-12-25T03:11:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:13-04:00",
       "title_date": null
     },
     "source": {
@@ -11835,14 +11835,14 @@
     "dates": {
       "published": "2023-01-13T16:21:00",
       "updated": "2023-10-24T11:21:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:13-04:00",
       "title_date": "9/6/2023"
     },
     "source": {
       "forum_url": "https://tfgames.site/phpbb3/viewtopic.php?t=17620",
       "forum_topic_id": "17620",
-      "download_url": "https://mega.nz/file/efxCwLgC#U5CtUl2SbfCMapUNULSivfGNlXKpiLkJcJg_lJuSVzk",
-      "link_status": "working",
+      "download_url": "https://mega.nz/file/ODhRFADB#Kuqfey-p8wpQIv0BDDEtVDsw8ND812lCkFIxF-0_Kxo",
+      "link_status": "unknown",
       "forum_title": "[Scenario] Yui's Smoking Adventure (NOW AVAILABLE 9/6/2023) V 1.1"
     },
     "release": {
@@ -11880,7 +11880,7 @@
     },
     "availability": {
       "archive_available": true,
-      "link_status": "working"
+      "link_status": "unknown"
     }
   },
   {
@@ -11894,7 +11894,7 @@
     "dates": {
       "published": "2023-01-16T19:53:00",
       "updated": "2023-01-16T19:53:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:13-04:00",
       "title_date": null
     },
     "source": {
@@ -11991,7 +11991,7 @@
     "dates": {
       "published": "2023-02-19T15:43:00",
       "updated": "2023-02-19T15:43:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:13-04:00",
       "title_date": null
     },
     "source": {
@@ -12055,7 +12055,7 @@
     "dates": {
       "published": "2023-03-03T18:09:00",
       "updated": "2023-03-23T05:48:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:13-04:00",
       "title_date": null
     },
     "source": {
@@ -12105,7 +12105,7 @@
     "dates": {
       "published": "2023-03-06T12:54:00",
       "updated": "2023-04-08T16:51:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:13-04:00",
       "title_date": null
     },
     "source": {
@@ -12161,14 +12161,14 @@
     "dates": {
       "published": "2023-03-29T02:36:00",
       "updated": "2023-03-31T11:50:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:13-04:00",
       "title_date": null
     },
     "source": {
       "forum_url": "https://tfgames.site/phpbb3/viewtopic.php?t=17878",
       "forum_topic_id": "17878",
-      "download_url": "https://mega.nz/file/ijomgSiR#aKIPG9on1GS3f9oAANI69udOhGUILRpHchIdMvx1BWs",
-      "link_status": "working",
+      "download_url": "https://mega.nz/file/P3ZmBAYb#H7ghYq5E4bze84KvZAb8ZTVHT7dRVwVgOJCE4mhyaPA",
+      "link_status": "dead",
       "forum_title": "[Scenario] Live & Learn v0.1"
     },
     "release": {
@@ -12203,7 +12203,7 @@
     },
     "availability": {
       "archive_available": true,
-      "link_status": "working"
+      "link_status": "dead"
     }
   },
   {
@@ -12217,7 +12217,7 @@
     "dates": {
       "published": "2023-04-04T11:06:00",
       "updated": "2023-08-11T15:08:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:13-04:00",
       "title_date": null
     },
     "source": {
@@ -12263,7 +12263,7 @@
     "dates": {
       "published": "2023-04-10T20:31:00",
       "updated": "2023-05-09T21:05:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:13-04:00",
       "title_date": null
     },
     "source": {
@@ -12318,7 +12318,7 @@
     "dates": {
       "published": "2023-04-18T22:06:00",
       "updated": "2024-02-08T00:26:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:13-04:00",
       "title_date": "July 31st, 2023"
     },
     "source": {
@@ -12375,7 +12375,7 @@
     "dates": {
       "published": "2023-04-21T16:37:00",
       "updated": "2024-09-15T01:58:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:13-04:00",
       "title_date": "April 21, 2023"
     },
     "source": {
@@ -12432,7 +12432,7 @@
     "dates": {
       "published": "2023-05-10T03:10:00",
       "updated": "2023-05-10T03:10:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:13-04:00",
       "title_date": null
     },
     "source": {
@@ -12478,7 +12478,7 @@
     "dates": {
       "published": "2023-05-12T16:59:00",
       "updated": "2024-02-18T16:04:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:13-04:00",
       "title_date": null
     },
     "source": {
@@ -12537,7 +12537,7 @@
     "dates": {
       "published": "2023-08-10T03:27:00",
       "updated": "2023-08-14T17:08:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:13-04:00",
       "title_date": null
     },
     "source": {
@@ -12591,7 +12591,7 @@
     "dates": {
       "published": "2023-08-13T14:23:00",
       "updated": "2023-08-16T20:25:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:13-04:00",
       "title_date": null
     },
     "source": {
@@ -12679,7 +12679,7 @@
     "dates": {
       "published": "2023-09-01T08:11:00",
       "updated": "2023-09-01T08:11:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:13-04:00",
       "title_date": null
     },
     "source": {
@@ -12733,7 +12733,7 @@
     "dates": {
       "published": "2023-10-20T13:49:00",
       "updated": "2024-04-21T14:05:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:13-04:00",
       "title_date": null
     },
     "source": {
@@ -12788,7 +12788,7 @@
     "dates": {
       "published": "2023-10-26T09:54:00",
       "updated": "2024-01-04T09:41:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:13-04:00",
       "title_date": null
     },
     "source": {
@@ -12834,7 +12834,7 @@
     "dates": {
       "published": "2023-10-28T20:12:00",
       "updated": "2023-11-02T15:36:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:13-04:00",
       "title_date": null
     },
     "source": {
@@ -12880,7 +12880,7 @@
     "dates": {
       "published": "2023-11-06T13:33:00",
       "updated": "2023-11-06T13:33:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:13-04:00",
       "title_date": null
     },
     "source": {
@@ -12936,7 +12936,7 @@
     "dates": {
       "published": "2023-11-12T21:51:00",
       "updated": "2024-01-26T09:14:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:13-04:00",
       "title_date": "April 1st, 2024"
     },
     "source": {
@@ -12994,7 +12994,7 @@
     "dates": {
       "published": "2023-11-26T06:41:00",
       "updated": "2024-01-12T19:28:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:13-04:00",
       "title_date": null
     },
     "source": {
@@ -13050,7 +13050,7 @@
     "dates": {
       "published": "2023-12-03T02:05:00",
       "updated": "2026-03-01T10:57:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:13-04:00",
       "title_date": null
     },
     "source": {
@@ -13105,7 +13105,7 @@
     "dates": {
       "published": "2023-12-05T17:35:00",
       "updated": "2024-03-19T11:39:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:14-04:00",
       "title_date": null
     },
     "source": {
@@ -13193,7 +13193,7 @@
     "dates": {
       "published": "2023-12-23T10:05:00",
       "updated": "2023-12-23T12:11:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:14-04:00",
       "title_date": null
     },
     "source": {
@@ -13381,7 +13381,7 @@
     "dates": {
       "published": "2024-05-08T19:32:00",
       "updated": "2025-04-09T07:20:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:14-04:00",
       "title_date": "May 08, 2024"
     },
     "source": {
@@ -13437,7 +13437,7 @@
     "dates": {
       "published": "2024-05-28T14:34:00",
       "updated": "2026-01-12T09:34:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:14-04:00",
       "title_date": "July 5, 2024"
     },
     "source": {
@@ -13491,7 +13491,7 @@
     "dates": {
       "published": "2024-06-04T08:11:00",
       "updated": "2024-06-16T09:29:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:14-04:00",
       "title_date": null
     },
     "source": {
@@ -13549,7 +13549,7 @@
     "dates": {
       "published": "2024-06-07T16:05:00",
       "updated": "2024-06-08T12:48:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:14-04:00",
       "title_date": "June 7, 2024"
     },
     "source": {
@@ -13604,7 +13604,7 @@
     "dates": {
       "published": "2024-07-11T01:32:00",
       "updated": "2024-08-30T11:03:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:14-04:00",
       "title_date": null
     },
     "source": {
@@ -13651,7 +13651,7 @@
     "dates": {
       "published": "2024-08-26T01:06:00",
       "updated": "2026-03-01T21:36:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:14-04:00",
       "title_date": "29/12/2025"
     },
     "source": {
@@ -13708,7 +13708,7 @@
     "dates": {
       "published": "2024-09-07T19:38:00",
       "updated": "2025-03-18T17:05:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:14-04:00",
       "title_date": "Nov 20, 2024"
     },
     "source": {
@@ -13767,7 +13767,7 @@
     "dates": {
       "published": "2024-09-15T13:28:00",
       "updated": "2025-01-12T13:30:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:14-04:00",
       "title_date": null
     },
     "source": {
@@ -13830,7 +13830,7 @@
     "dates": {
       "published": "2024-09-16T09:16:00",
       "updated": "2024-10-24T15:21:00",
-      "last_checked": "2026-09-28T21:48:13-04:00",
+      "last_checked": "2026-10-11T13:28:14-04:00",
       "title_date": null
     },
     "source": {
@@ -13891,7 +13891,7 @@
     "dates": {
       "published": "2024-09-22T16:22:00",
       "updated": "2024-09-22T16:22:00",
-      "last_checked": "2026-09-28T21:48:14-04:00",
+      "last_checked": "2026-10-11T13:28:14-04:00",
       "title_date": null
     },
     "source": {
@@ -13953,7 +13953,7 @@
     "dates": {
       "published": "2024-09-22T17:15:00",
       "updated": "2024-09-22T17:15:00",
-      "last_checked": "2026-09-28T21:48:14-04:00",
+      "last_checked": "2026-10-11T13:28:14-04:00",
       "title_date": null
     },
     "source": {
@@ -14019,13 +14019,13 @@
     "dates": {
       "published": "2024-10-11T10:33:00",
       "updated": "2024-10-15T19:22:00",
-      "last_checked": "2026-09-28T21:48:14-04:00",
+      "last_checked": "2026-10-11T13:28:14-04:00",
       "title_date": "Oct 11 2024"
     },
     "source": {
       "forum_url": "https://tfgames.site/phpbb3/viewtopic.php?t=19361",
       "forum_topic_id": "19361",
-      "download_url": "https://mega.nz/file/sRAWAJCQ#y4iaK_mKkvdyqMJOeRKbQjuvPu2HqIvCv9YD48KTvTE",
+      "download_url": "https://mega.nz/file/4YoS0CbZ#OBHaZxRwU1jwQHpEcl1Oj77UkDJoOOjJWLnb8-niSoQ",
       "link_status": "working",
       "forum_title": "[Scenario] Bad Choices Only (Oct 11 2024)"
     },
@@ -14096,7 +14096,7 @@
     "dates": {
       "published": "2024-10-30T16:26:00",
       "updated": "2024-11-06T22:49:00",
-      "last_checked": "2026-09-28T21:48:14-04:00",
+      "last_checked": "2026-10-11T13:28:14-04:00",
       "title_date": null
     },
     "source": {
@@ -14158,7 +14158,7 @@
     "dates": {
       "published": "2024-11-08T09:01:00",
       "updated": "2024-11-11T07:14:00",
-      "last_checked": "2026-09-28T21:48:14-04:00",
+      "last_checked": "2026-10-11T13:28:14-04:00",
       "title_date": null
     },
     "source": {
@@ -14220,13 +14220,13 @@
     "dates": {
       "published": "2024-11-15T14:55:00",
       "updated": "2025-07-01T21:35:00",
-      "last_checked": "2026-09-28T21:48:14-04:00",
+      "last_checked": "2026-10-11T13:28:14-04:00",
       "title_date": "07/01/25"
     },
     "source": {
       "forum_url": "https://tfgames.site/phpbb3/viewtopic.php?t=19427",
       "forum_topic_id": "19427",
-      "download_url": "https://mega.nz/file/pApxUJrI#qn4lkcnqOWWwqlqfSZMoT-gOv5SXXv_EfP68CEisOm8",
+      "download_url": "https://mega.nz/file/Ydo2kDrS#2ChldOKjgXUshcmzoswVcu8D0am5EZ--vNdGCQwGFec",
       "link_status": "working",
       "forum_title": "[Scenario] Fantasy World Transfer Ch.4.0.2 + Revamped Combat (07/01/25)"
     },
@@ -14291,13 +14291,13 @@
     "dates": {
       "published": "2024-11-24T21:45:00",
       "updated": "2025-05-12T14:09:00",
-      "last_checked": "2026-09-28T21:48:14-04:00",
+      "last_checked": "2026-10-11T13:28:14-04:00",
       "title_date": "4/30/2025"
     },
     "source": {
       "forum_url": "https://tfgames.site/phpbb3/viewtopic.php?t=19447",
       "forum_topic_id": "19447",
-      "download_url": "https://mega.nz/file/TE4mFaDa#zT70rG5ObFpIaK5SdKrAXudsZ2Hija-Prrg8Gm1K6AA",
+      "download_url": "https://mega.nz/file/CE5HWBZS#CszTtMK6roi40EetJgywxQ44OrImcnraURHIWH-ynso",
       "link_status": "working",
       "forum_title": "[Scenario] Dear Diary (Update 2.0.0: 4/30/2025)"
     },
@@ -14357,7 +14357,7 @@
     "dates": {
       "published": "2024-12-09T16:25:00",
       "updated": "2024-12-13T08:51:00",
-      "last_checked": "2026-09-28T21:48:14-04:00",
+      "last_checked": "2026-10-11T13:28:14-04:00",
       "title_date": null
     },
     "source": {
@@ -14425,7 +14425,7 @@
     "dates": {
       "published": "2025-01-01T15:54:00",
       "updated": "2025-01-01T15:54:00",
-      "last_checked": "2026-09-28T21:48:14-04:00",
+      "last_checked": "2026-10-11T13:28:14-04:00",
       "title_date": null
     },
     "source": {
@@ -14486,7 +14486,7 @@
     "dates": {
       "published": "2025-01-08T00:59:00",
       "updated": "2025-01-10T16:06:00",
-      "last_checked": "2026-09-28T21:48:14-04:00",
+      "last_checked": "2026-10-11T13:28:14-04:00",
       "title_date": null
     },
     "source": {
@@ -14545,7 +14545,7 @@
     "dates": {
       "published": "2025-01-10T16:46:00",
       "updated": "2025-01-10T16:46:00",
-      "last_checked": "2026-09-28T21:48:14-04:00",
+      "last_checked": "2026-10-11T13:28:14-04:00",
       "title_date": null
     },
     "source": {
@@ -14602,14 +14602,14 @@
     "dates": {
       "published": "2025-01-12T09:18:00",
       "updated": "2025-02-10T22:00:00",
-      "last_checked": "2026-09-28T21:48:14-04:00",
+      "last_checked": "2026-10-11T13:28:14-04:00",
       "title_date": null
     },
     "source": {
       "forum_url": "https://tfgames.site/phpbb3/viewtopic.php?t=19556",
       "forum_topic_id": "19556",
-      "download_url": "https://mega.nz/file/O3530aqS#u5FGRepSMm4gz8PfnueP7HYb8RvRvvybxn3DoB7Sklg",
-      "link_status": "working",
+      "download_url": "https://mega.nz/file/2rJzhBCR#AiJaqUKBsxgU8gExrnzQev9AAaogrt6Mi-Ar-vaJRH4",
+      "link_status": "unknown",
       "forum_title": "[Scenario] KiYoshi's STori -Scenario Jam-"
     },
     "release": {
@@ -14654,7 +14654,7 @@
     },
     "availability": {
       "archive_available": true,
-      "link_status": "working"
+      "link_status": "unknown"
     }
   },
   {
@@ -14670,7 +14670,7 @@
     "dates": {
       "published": "2025-01-12T15:51:00",
       "updated": "2025-01-30T15:05:00",
-      "last_checked": "2026-09-28T21:48:14-04:00",
+      "last_checked": "2026-10-11T13:28:14-04:00",
       "title_date": null
     },
     "source": {
@@ -14736,7 +14736,7 @@
     "dates": {
       "published": "2025-01-16T11:01:00",
       "updated": "2026-06-14T09:55:00",
-      "last_checked": "2026-09-28T21:48:14-04:00",
+      "last_checked": "2026-10-11T13:28:14-04:00",
       "title_date": null
     },
     "source": {
@@ -14790,7 +14790,7 @@
     "dates": {
       "published": "2025-01-27T03:00:00",
       "updated": "2025-01-30T01:24:00",
-      "last_checked": "2026-09-28T21:48:14-04:00",
+      "last_checked": "2026-10-11T13:28:14-04:00",
       "title_date": null
     },
     "source": {
@@ -14836,14 +14836,14 @@
     "dates": {
       "published": "2025-01-31T15:09:00",
       "updated": "2025-06-05T12:55:00",
-      "last_checked": "2026-09-28T21:48:14-04:00",
+      "last_checked": "2026-10-11T13:28:14-04:00",
       "title_date": null
     },
     "source": {
       "forum_url": "https://tfgames.site/phpbb3/viewtopic.php?t=19601",
       "forum_topic_id": "19601",
-      "download_url": "https://www.mediafire.com/file/igc0njvd9a4h8ej/Double_the_trouble.zip/file",
-      "link_status": "working",
+      "download_url": "https://mega.nz/file/5MZ31BDS#fEnN1W9SDhj4CGVfJqeTWFhsSpTByozDJLkrOH5SwX0",
+      "link_status": "dead",
       "forum_title": "[Scenario] Double The Trouble (Scenario Jam)"
     },
     "release": {
@@ -14882,7 +14882,7 @@
     },
     "availability": {
       "archive_available": true,
-      "link_status": "working"
+      "link_status": "dead"
     }
   },
   {
@@ -14896,7 +14896,7 @@
     "dates": {
       "published": "2025-02-03T19:08:00",
       "updated": "2025-03-20T22:03:00",
-      "last_checked": "2026-09-28T21:48:14-04:00",
+      "last_checked": "2026-10-11T13:28:14-04:00",
       "title_date": null
     },
     "source": {
@@ -14976,7 +14976,7 @@
     "dates": {
       "published": "2025-03-14T17:56:00",
       "updated": "2025-03-14T17:56:00",
-      "last_checked": "2026-09-28T21:48:14-04:00",
+      "last_checked": "2026-10-11T13:28:14-04:00",
       "title_date": null
     },
     "source": {
@@ -15022,7 +15022,7 @@
     "dates": {
       "published": "2025-04-09T11:20:00",
       "updated": "2025-10-09T13:12:00",
-      "last_checked": "2026-09-28T21:48:14-04:00",
+      "last_checked": "2026-10-11T13:28:14-04:00",
       "title_date": null
     },
     "source": {
@@ -15098,7 +15098,7 @@
     "dates": {
       "published": "2025-04-26T13:08:00",
       "updated": "2025-04-26T13:08:00",
-      "last_checked": "2026-09-28T21:48:14-04:00",
+      "last_checked": "2026-10-11T13:28:14-04:00",
       "title_date": null
     },
     "source": {
@@ -15167,7 +15167,7 @@
     "dates": {
       "published": "2025-04-27T04:46:00",
       "updated": "2025-04-27T11:55:00",
-      "last_checked": "2026-09-28T21:48:14-04:00",
+      "last_checked": "2026-10-11T13:28:14-04:00",
       "title_date": null
     },
     "source": {
@@ -15228,7 +15228,7 @@
     "dates": {
       "published": "2025-05-03T07:18:00",
       "updated": "2025-05-18T00:10:00",
-      "last_checked": "2026-09-28T21:48:14-04:00",
+      "last_checked": "2026-10-11T13:28:14-04:00",
       "title_date": null
     },
     "source": {
@@ -15296,7 +15296,7 @@
     "dates": {
       "published": "2025-05-24T19:52:00",
       "updated": "2025-05-24T19:52:00",
-      "last_checked": "2026-09-28T21:48:14-04:00",
+      "last_checked": "2026-10-11T13:28:14-04:00",
       "title_date": null
     },
     "source": {
@@ -15358,7 +15358,7 @@
     "dates": {
       "published": "2025-05-26T06:33:00",
       "updated": "2026-07-03T21:13:00",
-      "last_checked": "2026-09-28T21:48:14-04:00",
+      "last_checked": "2026-10-11T13:28:14-04:00",
       "title_date": null
     },
     "source": {
@@ -15417,13 +15417,13 @@
     "dates": {
       "published": "2025-06-02T08:32:00",
       "updated": "2026-07-15T15:00:00",
-      "last_checked": "2026-09-28T21:48:14-04:00",
+      "last_checked": "2026-10-11T13:28:14-04:00",
       "title_date": null
     },
     "source": {
       "forum_url": "https://tfgames.site/phpbb3/viewtopic.php?t=19828",
       "forum_topic_id": "19828",
-      "download_url": "https://mega.nz/file/yBM3kRSK#dtNCU3OJ0WhIYzNIq_meqr33DbrlcalQDb-n3oExqtw",
+      "download_url": "https://mega.nz/file/3AV2ybLK#f2IkLCZa6BVtuOFM0U0ZCHOuraSHG93kBvcdXtvBJKw",
       "link_status": "working",
       "forum_title": "[Scenario] Ordinary Scenario. version:1.3.1(nuashonrú nua) V9 compatible"
     },
@@ -15484,13 +15484,13 @@
     "dates": {
       "published": "2025-06-20T10:28:00",
       "updated": "2026-01-08T21:35:00",
-      "last_checked": "2026-09-28T21:48:14-04:00",
+      "last_checked": "2026-10-11T13:28:14-04:00",
       "title_date": null
     },
     "source": {
       "forum_url": "https://tfgames.site/phpbb3/viewtopic.php?t=19858",
       "forum_topic_id": "19858",
-      "download_url": "https://mega.nz/file/h5Y2yayJ#cY-csL1Cy4WsXV0QvKdqxyYai0ZIk_DHJzEsS9-5_G4",
+      "download_url": "https://mega.nz/file/chokVZLY#1OcD2bbWOVVg32xfZgwXmKE-NIOrece0KZ9xRtqPqEE",
       "link_status": "working",
       "forum_title": "[Scenario] Blackjack 2: Tarot Woes (Version 1.0.1 Minor Update)"
     },
@@ -15548,7 +15548,7 @@
     "dates": {
       "published": "2025-06-29T23:54:00",
       "updated": "2026-05-13T20:59:00",
-      "last_checked": "2026-09-28T21:48:14-04:00",
+      "last_checked": "2026-10-11T13:28:14-04:00",
       "title_date": null
     },
     "source": {
@@ -15623,7 +15623,7 @@
     "dates": {
       "published": "2025-07-07T18:45:00",
       "updated": "2025-08-10T21:27:00",
-      "last_checked": "2026-09-28T21:48:14-04:00",
+      "last_checked": "2026-10-11T13:28:14-04:00",
       "title_date": null
     },
     "source": {
@@ -15698,7 +15698,7 @@
     "dates": {
       "published": "2025-08-07T01:38:00",
       "updated": "2025-08-09T00:55:00",
-      "last_checked": "2026-09-28T21:48:14-04:00",
+      "last_checked": "2026-10-11T13:28:14-04:00",
       "title_date": null
     },
     "source": {
@@ -15762,7 +15762,7 @@
     "dates": {
       "published": "2025-08-07T16:57:00",
       "updated": "2025-08-07T16:57:00",
-      "last_checked": "2026-09-28T21:48:14-04:00",
+      "last_checked": "2026-10-11T13:28:14-04:00",
       "title_date": null
     },
     "source": {
@@ -15817,7 +15817,7 @@
     "dates": {
       "published": "2025-08-22T13:34:00",
       "updated": "2025-08-22T13:39:00",
-      "last_checked": "2026-09-28T21:48:14-04:00",
+      "last_checked": "2026-10-11T13:28:14-04:00",
       "title_date": null
     },
     "source": {
@@ -15878,13 +15878,13 @@
     "dates": {
       "published": "2025-08-25T23:26:00",
       "updated": "2026-01-15T21:58:00",
-      "last_checked": "2026-09-28T21:48:14-04:00",
+      "last_checked": "2026-10-11T13:28:14-04:00",
       "title_date": null
     },
     "source": {
       "forum_url": "https://tfgames.site/phpbb3/viewtopic.php?t=19991",
       "forum_topic_id": "19991",
-      "download_url": "https://mega.nz/folder/CRdyGQCS#QwiGbWL_XRk_-cZ8_zeWEw",
+      "download_url": "https://mega.nz/folder/3U0RkabS#wSJed7Ckttv3Qg2ck-nZRQ",
       "link_status": "working",
       "forum_title": "[Scenario] SCP Jane (Post update on 2026/1/15)"
     },
@@ -15951,7 +15951,7 @@
     "dates": {
       "published": "2025-08-30T08:24:00",
       "updated": "2025-08-30T08:24:00",
-      "last_checked": "2026-09-28T21:48:14-04:00",
+      "last_checked": "2026-10-11T13:28:14-04:00",
       "title_date": null
     },
     "source": {
@@ -16011,7 +16011,7 @@
     "dates": {
       "published": "2025-10-24T20:46:00",
       "updated": "2025-10-24T20:46:00",
-      "last_checked": "2026-09-28T21:48:14-04:00",
+      "last_checked": "2026-10-11T13:28:14-04:00",
       "title_date": null
     },
     "source": {
@@ -16073,14 +16073,14 @@
     "dates": {
       "published": "2025-10-30T01:27:00",
       "updated": "2025-12-01T23:53:00",
-      "last_checked": "2026-09-28T21:48:14-04:00",
+      "last_checked": "2026-10-11T13:28:14-04:00",
       "title_date": null
     },
     "source": {
       "forum_url": "https://tfgames.site/phpbb3/viewtopic.php?t=20147",
       "forum_topic_id": "20147",
-      "download_url": "https://mega.nz/file/uJk0jAZS#ADp2wJzthxM8ALuvWLFdR2FOB_tkpHbK-XLF4k6CrV8",
-      "link_status": "working",
+      "download_url": "https://mega.nz/file/KU9TwTwL#aInMwjfVDjTmTfNhJCspGtl9Y7KW_Vj7NxJ4nalxYU0",
+      "link_status": "unknown",
       "forum_title": "[Scenario] Costume Swap! (Halloween 2025)"
     },
     "release": {
@@ -16151,7 +16151,7 @@
     },
     "availability": {
       "archive_available": true,
-      "link_status": "working"
+      "link_status": "unknown"
     }
   },
   {
@@ -16165,7 +16165,7 @@
     "dates": {
       "published": "2025-10-30T17:57:00",
       "updated": "2025-11-10T10:14:00",
-      "last_checked": "2026-09-28T21:48:14-04:00",
+      "last_checked": "2026-10-11T13:28:14-04:00",
       "title_date": null
     },
     "source": {
@@ -16238,7 +16238,7 @@
     "dates": {
       "published": "2025-11-02T02:03:00",
       "updated": "2025-11-21T17:45:00",
-      "last_checked": "2026-09-28T21:48:14-04:00",
+      "last_checked": "2026-10-11T13:28:14-04:00",
       "title_date": null
     },
     "source": {
@@ -16307,7 +16307,7 @@
     "dates": {
       "published": "2025-11-02T14:01:00",
       "updated": "2025-11-03T23:57:00",
-      "last_checked": "2026-09-28T21:48:14-04:00",
+      "last_checked": "2026-10-11T13:28:14-04:00",
       "title_date": null
     },
     "source": {
@@ -16363,7 +16363,7 @@
     "dates": {
       "published": "2025-11-07T15:11:00",
       "updated": "2025-11-10T10:28:00",
-      "last_checked": "2026-09-28T21:48:14-04:00",
+      "last_checked": "2026-10-11T13:28:14-04:00",
       "title_date": "Nov 2025"
     },
     "source": {
@@ -16431,7 +16431,7 @@
     "dates": {
       "published": "2025-11-08T16:03:00",
       "updated": "2025-12-01T19:09:00",
-      "last_checked": "2026-09-28T21:48:14-04:00",
+      "last_checked": "2026-10-11T13:28:14-04:00",
       "title_date": null
     },
     "source": {
@@ -16498,7 +16498,7 @@
     "dates": {
       "published": "2025-12-29T01:16:00",
       "updated": "2025-12-29T01:16:00",
-      "last_checked": "2026-09-28T21:48:14-04:00",
+      "last_checked": "2026-10-11T13:28:14-04:00",
       "title_date": null
     },
     "source": {
@@ -16556,7 +16556,7 @@
     "dates": {
       "published": "2025-12-31T23:55:00",
       "updated": "2026-01-08T20:33:00",
-      "last_checked": "2026-09-28T21:48:14-04:00",
+      "last_checked": "2026-10-11T13:28:14-04:00",
       "title_date": null
     },
     "source": {
@@ -16621,7 +16621,7 @@
     "dates": {
       "published": "2026-01-04T02:35:00",
       "updated": "2026-01-04T02:35:00",
-      "last_checked": "2026-09-28T21:48:14-04:00",
+      "last_checked": "2026-10-11T13:28:14-04:00",
       "title_date": null
     },
     "source": {
@@ -16689,7 +16689,7 @@
     "dates": {
       "published": "2026-01-09T10:07:00",
       "updated": "2026-01-19T17:30:00",
-      "last_checked": "2026-09-28T21:48:14-04:00",
+      "last_checked": "2026-10-11T13:28:14-04:00",
       "title_date": null
     },
     "source": {
@@ -16752,7 +16752,7 @@
     "dates": {
       "published": "2026-01-12T04:35:00",
       "updated": "2026-01-12T04:35:00",
-      "last_checked": "2026-09-28T21:48:14-04:00",
+      "last_checked": "2026-10-11T13:28:14-04:00",
       "title_date": null
     },
     "source": {
@@ -16813,7 +16813,7 @@
     "dates": {
       "published": "2026-01-31T13:46:00",
       "updated": "2026-02-27T18:26:00",
-      "last_checked": "2026-09-28T21:48:14-04:00",
+      "last_checked": "2026-10-11T13:28:14-04:00",
       "title_date": null
     },
     "source": {
@@ -16874,7 +16874,7 @@
     "dates": {
       "published": "2026-03-07T22:43:00",
       "updated": "2026-08-22T09:45:00",
-      "last_checked": "2026-09-28T21:48:14-04:00",
+      "last_checked": "2026-10-11T13:28:14-04:00",
       "title_date": "March 10, 2026"
     },
     "source": {
@@ -16936,7 +16936,7 @@
     "dates": {
       "published": "2026-03-14T13:28:00",
       "updated": "2026-03-14T13:28:00",
-      "last_checked": "2026-09-28T21:48:14-04:00",
+      "last_checked": "2026-10-11T13:28:14-04:00",
       "title_date": null
     },
     "source": {
@@ -17012,7 +17012,7 @@
     "dates": {
       "published": "2026-04-01T01:31:00",
       "updated": "2026-04-01T01:31:00",
-      "last_checked": "2026-09-28T21:48:14-04:00",
+      "last_checked": "2026-10-11T13:28:14-04:00",
       "title_date": null
     },
     "source": {
@@ -17070,7 +17070,7 @@
     "dates": {
       "published": "2026-04-01T15:52:00",
       "updated": "2026-04-01T18:47:00",
-      "last_checked": "2026-09-28T21:48:14-04:00",
+      "last_checked": "2026-10-11T13:28:14-04:00",
       "title_date": null
     },
     "source": {
@@ -17130,7 +17130,7 @@
     "dates": {
       "published": "2026-04-03T12:53:00",
       "updated": "2026-04-06T19:41:00",
-      "last_checked": "2026-09-28T21:48:14-04:00",
+      "last_checked": "2026-10-11T13:28:14-04:00",
       "title_date": "7/3/26"
     },
     "source": {
@@ -17197,7 +17197,7 @@
     "dates": {
       "published": "2026-04-03T21:18:00",
       "updated": "2026-04-09T15:50:00",
-      "last_checked": "2026-09-28T21:48:14-04:00",
+      "last_checked": "2026-10-11T13:28:14-04:00",
       "title_date": null
     },
     "source": {
@@ -17279,7 +17279,7 @@
     "dates": {
       "published": "2026-04-07T19:58:00",
       "updated": "2026-06-05T02:25:00",
-      "last_checked": "2026-09-28T21:48:14-04:00",
+      "last_checked": "2026-10-11T13:28:14-04:00",
       "title_date": null
     },
     "source": {
@@ -17344,7 +17344,7 @@
     "dates": {
       "published": "2026-04-24T15:50:00",
       "updated": "2026-04-25T10:20:00",
-      "last_checked": "2026-09-28T21:48:14-04:00",
+      "last_checked": "2026-10-11T13:28:14-04:00",
       "title_date": null
     },
     "source": {
@@ -17399,7 +17399,7 @@
     "dates": {
       "published": "2026-05-01T17:22:00",
       "updated": "2026-05-01T17:22:00",
-      "last_checked": "2026-09-28T21:48:14-04:00",
+      "last_checked": "2026-10-11T13:28:14-04:00",
       "title_date": null
     },
     "source": {
@@ -17453,7 +17453,7 @@
     "dates": {
       "published": "2026-05-23T07:40:00",
       "updated": "2026-05-23T07:40:00",
-      "last_checked": "2026-09-28T21:48:14-04:00",
+      "last_checked": "2026-10-11T13:28:14-04:00",
       "title_date": null
     },
     "source": {
@@ -17510,7 +17510,7 @@
     "dates": {
       "published": "2026-07-08T12:44:00",
       "updated": "2026-08-15T17:21:00",
-      "last_checked": "2026-09-28T21:48:14-04:00",
+      "last_checked": "2026-10-11T13:28:14-04:00",
       "title_date": null
     },
     "source": {
@@ -17556,7 +17556,7 @@
     "dates": {
       "published": "2026-08-22T13:16:00",
       "updated": "2026-08-23T06:06:00",
-      "last_checked": "2026-09-28T21:48:14-04:00",
+      "last_checked": "2026-10-11T13:28:14-04:00",
       "title_date": null
     },
     "source": {
@@ -17624,7 +17624,7 @@
     "dates": {
       "published": "2026-09-01T19:01:00",
       "updated": "2026-09-01T19:01:00",
-      "last_checked": "2026-09-28T21:48:14-04:00",
+      "last_checked": "2026-10-11T13:28:14-04:00",
       "title_date": "Sep 1, 2026"
     },
     "source": {
@@ -17684,7 +17684,7 @@
     "dates": {
       "published": "2026-09-01T23:17:00",
       "updated": "2026-09-03T02:53:00",
-      "last_checked": "2026-09-28T21:48:14-04:00",
+      "last_checked": "2026-10-11T13:28:14-04:00",
       "title_date": null
     },
     "source": {
@@ -17747,7 +17747,7 @@
     "dates": {
       "published": "2026-09-02T08:31:00",
       "updated": "2026-09-03T13:57:00",
-      "last_checked": "2026-09-28T21:48:14-04:00",
+      "last_checked": "2026-10-11T13:28:14-04:00",
       "title_date": null
     },
     "source": {
@@ -17812,7 +17812,7 @@
     "dates": {
       "published": "2026-09-02T14:00:00",
       "updated": "2026-09-05T05:45:00",
-      "last_checked": "2026-09-28T21:48:14-04:00",
+      "last_checked": "2026-10-11T13:28:14-04:00",
       "title_date": null
     },
     "source": {
@@ -17875,7 +17875,7 @@
     "dates": {
       "published": "2026-09-02T15:18:00",
       "updated": "2026-09-02T15:18:00",
-      "last_checked": "2026-09-28T21:48:14-04:00",
+      "last_checked": "2026-10-11T13:28:14-04:00",
       "title_date": null
     },
     "source": {
@@ -17932,7 +17932,7 @@
     "dates": {
       "published": "2026-09-05T03:02:00",
       "updated": "2026-09-05T03:02:00",
-      "last_checked": "2026-09-28T21:48:14-04:00",
+      "last_checked": "2026-10-11T13:28:15-04:00",
       "title_date": null
     },
     "source": {
@@ -17982,7 +17982,7 @@
     "dates": {
       "published": "2026-09-05T23:34:00",
       "updated": "2026-09-08T18:53:00",
-      "last_checked": "2026-09-28T21:48:14-04:00",
+      "last_checked": "2026-10-11T13:28:15-04:00",
       "title_date": null
     },
     "source": {
@@ -18035,7 +18035,7 @@
     "dates": {
       "published": "2026-09-20T21:09:00",
       "updated": "2026-09-20T21:09:00",
-      "last_checked": "2026-09-28T21:48:14-04:00",
+      "last_checked": "2026-10-11T13:28:15-04:00",
       "title_date": null
     },
     "source": {
@@ -18103,7 +18103,7 @@
     "dates": {
       "published": "2026-09-26T16:20:00",
       "updated": "2026-09-26T16:20:00",
-      "last_checked": "2026-09-28T21:48:14-04:00",
+      "last_checked": "2026-10-11T13:28:15-04:00",
       "title_date": null
     },
     "source": {
@@ -18142,6 +18142,58 @@
       "kind": "forum_image",
       "path": null,
       "source_url": "https://i.imgur.com/KyTAxwf.png"
+    },
+    "availability": {
+      "archive_available": true,
+      "link_status": "working"
+    }
+  },
+  {
+    "id": "topic-20998-a-riley-wish",
+    "title": "A Riley wish",
+    "authors": [
+      "Mshanty"
+    ],
+    "description": "Hey everyone!\nI'm happy to present my very first scenario! This is my first time ever writing something like this, and it's still far from finished, but I hope you'll enjoy what's already there! Of course, if you have any suggestions or feedback, don't hesitate to share them.\n\nDescription:\n\nToday, our protagonist won't be John, but Riley! Unfortunately for him, that comes with its fair share of trouble, especially when he accidentally awakens a mischievous entity capable of altering reality~\n\nTags:\n- TG\n- MC\n- Reality Change\n- Forced\n\nSpoiler: \nSpoiler: \nSpoiler: \nSpoiler: \n[*]Estimated playtime: 48 minutes\n\nCredits:\nThe characters\nSpoiler: \nare originally from Boku to Koi Suru Ponkotsu Akuma. Suggoi Ecchi!\nFor\nSpoiler: \n, sprites are from PRETTY x CATION 2\nAs for\nSpoiler: \n, I used sprites from the scenario My Arch Nemesis.\n\nA huge thanks to Hitsu, Thebobman, and Aireo for their advice and for helping me create assets and edit character sprites.\n\nhttps://mega.nz/file/egtUxRZZ#mF4yKX9KF ... r4oMREjZKw",
+    "description_html": "Hey everyone!<br>\nI&#x27;m happy to present my very first scenario! This is my first time ever writing something like this, and it&#x27;s still far from finished, but I hope you&#x27;ll enjoy what&#x27;s already there! Of course, if you have any suggestions or feedback, don&#x27;t hesitate to share them.<br>\n<br>\n<strong class=\"text-strong\">Description:</strong><br>\n<br>\nToday, our protagonist won&#x27;t be John, but Riley! Unfortunately for him, that comes with its fair share of trouble, especially when he accidentally awakens a mischievous entity capable of altering reality~ <br>\n<br>\n<span style=\"text-decoration:underline\">Tags:</span><br>\n- TG<br>\n- MC<br>\n- Reality Change<br>\n- Forced<br>\n\n<div><div class=\"quotetitle\"><b>Spoiler:</b> </div><div class=\"quotecontent\"><div><img src=\"https://imgur.com/a/H1TlnBb\" alt=\"Image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" class=\"postimage\"></div></div></div>\n<div><div class=\"quotetitle\"><b>Spoiler:</b> </div><div class=\"quotecontent\"><div><img src=\"https://imgur.com/KJRnfH6\" alt=\"Image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" class=\"postimage\"></div></div></div>\n<div><div class=\"quotetitle\"><b>Spoiler:</b> </div><div class=\"quotecontent\"><div><img src=\"https://imgur.com/B3KoFcE\" alt=\"Image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" class=\"postimage\"></div></div></div>\n<div><div class=\"quotetitle\"><b>Spoiler:</b> </div><div class=\"quotecontent\"><div><img src=\"https://imgur.com/xGQ2ysL\" alt=\"Image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" class=\"postimage\"></div></div></div>\n[*]Estimated playtime: 48 minutes<br>\n<br>\n<strong class=\"text-strong\">Credits: </strong><br>\nThe characters <div><div class=\"quotetitle\"><b>Spoiler:</b> </div><div class=\"quotecontent\"><div>Narida, Mariane, and Melodie</div></div></div> are originally from <em class=\"text-italics\">Boku to Koi Suru Ponkotsu Akuma. Suggoi Ecchi!</em><br>\nFor <div><div class=\"quotetitle\"><b>Spoiler:</b> </div><div class=\"quotecontent\"><div>Riley&#x27;s GB</div></div></div>, sprites are from <em class=\"text-italics\">PRETTY x CATION 2</em><br>\nAs for <div><div class=\"quotetitle\"><b>Spoiler:</b> </div><div class=\"quotecontent\"><div>Risaka</div></div></div>, I used sprites from the scenario <em class=\"text-italics\">My Arch Nemesis</em>.<br>\n<br>\nA huge thanks to <em class=\"text-italics\">Hitsu</em>, <em class=\"text-italics\">Thebobman</em>, and <em class=\"text-italics\">Aireo</em> for their advice and for helping me create assets and edit character sprites.<br>\n<br>\n<a href=\"https://mega.nz/file/egtUxRZZ#mF4yKX9KFkR1N0G7R0fDGcPvy66M2AbzRr4oMREjZKw\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"postlink elonw\">https://mega.nz/file/egtUxRZZ#mF4yKX9KF ... r4oMREjZKw</a>",
+    "dates": {
+      "published": "2026-10-10T06:26:00",
+      "updated": "2026-10-10T06:26:00",
+      "last_checked": "2026-10-11T13:28:15-04:00",
+      "title_date": null
+    },
+    "source": {
+      "forum_url": "https://tfgames.site/phpbb3/viewtopic.php?t=20998",
+      "forum_topic_id": "20998",
+      "forum_title": "[Scenario] A Riley wish",
+      "download_url": "https://mega.nz/file/egtUxRZZ#mF4yKX9KFkR1N0G7R0fDGcPvy66M2AbzRr4oMREjZKw",
+      "link_status": "working"
+    },
+    "release": {
+      "scenario_version": "1.0.0",
+      "advertised_version": null,
+      "package_version": "1.0.0",
+      "status": null,
+      "target_st_version": null
+    },
+    "content": {
+      "tags": [
+        "Forced",
+        "Mind control",
+        "Reality alteration",
+        "Gender transformation"
+      ],
+      "characters": [],
+      "nsfw": "unknown",
+      "completed": false,
+      "word_count": 12069,
+      "reading_time_minutes": 48,
+      "reading_time_display": "48 minutes"
+    },
+    "image": {
+      "kind": "forum_image",
+      "path": null,
+      "source_url": "https://imgur.com/a/H1TlnBb"
     },
     "availability": {
       "archive_available": true,
@@ -19545,7 +19597,7 @@
     "dates": {
       "published": "2017-05-29T00:59:00",
       "updated": "2018-02-19T11:12:00",
-      "last_checked": "2026-09-28T21:48:14-04:00",
+      "last_checked": "2026-10-11T13:28:15-04:00",
       "title_date": null
     },
     "source": {
@@ -19615,14 +19667,14 @@
     "dates": {
       "published": "2017-05-30T13:42:00",
       "updated": "2022-02-10T22:36:00",
-      "last_checked": "2026-09-28T21:48:14-04:00",
+      "last_checked": "2026-10-11T13:28:15-04:00",
       "title_date": "09/19/21"
     },
     "source": {
       "forum_url": "https://tfgames.site/phpbb3/viewtopic.php?t=9362",
       "forum_topic_id": "9362",
-      "download_url": "https://mega.nz/file/o74zUSBT#9RadrAYUEWUesmUOvX6UvVMbGM3X8XHW1z1vRGOs-SE",
-      "link_status": "working",
+      "download_url": "http://www.mediafire.com/file/ta9at27cuavyic1/Chasing%20Setsuna.zip",
+      "link_status": "unknown",
       "forum_title": "[Scenario] Chasing Setsuna (09/19/21) [Updated for v6.1 of ST] {Cancelled: No New Content}"
     },
     "release": {
@@ -19669,7 +19721,7 @@
     },
     "availability": {
       "archive_available": true,
-      "link_status": "working"
+      "link_status": "unknown"
     }
   },
   {
@@ -19683,7 +19735,7 @@
     "dates": {
       "published": "2017-06-03T20:44:00",
       "updated": "2017-09-04T12:38:00",
-      "last_checked": "2026-09-28T21:48:14-04:00",
+      "last_checked": "2026-10-11T13:28:15-04:00",
       "title_date": null
     },
     "source": {
@@ -19729,7 +19781,7 @@
     "dates": {
       "published": "2017-06-05T15:51:00",
       "updated": "2017-06-28T07:33:00",
-      "last_checked": "2026-09-28T21:48:14-04:00",
+      "last_checked": "2026-10-11T13:28:15-04:00",
       "title_date": null
     },
     "source": {
@@ -19775,7 +19827,7 @@
     "dates": {
       "published": "2017-07-04T09:10:00",
       "updated": "2020-04-01T16:42:00",
-      "last_checked": "2026-09-28T21:48:14-04:00"
+      "last_checked": "2026-10-11T13:28:15-04:00"
     },
     "source": {
       "forum_url": "https://tfgames.site/phpbb3/viewtopic.php?t=9784",
@@ -19818,7 +19870,7 @@
     "dates": {
       "published": "2017-07-04T09:10:00",
       "updated": "2020-04-01T16:42:00",
-      "last_checked": "2026-09-28T21:48:14-04:00"
+      "last_checked": "2026-10-11T13:28:15-04:00"
     },
     "source": {
       "forum_url": "https://tfgames.site/phpbb3/viewtopic.php?t=9784",
@@ -19861,7 +19913,7 @@
     "dates": {
       "published": "2017-08-13T23:16:00",
       "updated": "2018-03-02T03:27:00",
-      "last_checked": "2026-09-28T21:48:14-04:00",
+      "last_checked": "2026-10-11T13:28:15-04:00",
       "title_date": "8/13/17"
     },
     "source": {
